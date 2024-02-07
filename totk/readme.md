@@ -9,7 +9,7 @@ I have also made videos that play at 4x and skip loading screens. https://www.yo
 - [Collecting Gear](gear.md)
 - [Shrines](shrines.md)
 - [Activating All Tears, Getting Master Sword](ms.md)
-- Great Fairies
+- [Great Fairies](fairies.md)
 - Wind Temple
 - Robbies Questline
 - Fire Temple
