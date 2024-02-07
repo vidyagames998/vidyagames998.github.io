@@ -5,7 +5,7 @@
 - Head South and run past ice worms, floor drops out again, glide to bottom
 - Head North, there's a big gap, drop down and ascend up to the big guy, keep going North
 - It'll turn into the area at the start of the game, use bombs and make your way to Ganon
-- Where Ganon was drop into chasm, head south, stpo when you get to the next big drop with a red light below
+- Where Ganon was drop into chasm, head south, stop when you get to the next big drop with a red light below
 - Place down a fast travel marker, get out, heal
 - Cook apples with 1 Sundelion to make food that heals gloom damage so we can heal after the first boss
 - Sundelion can be found on sky island next to simosiwak shrine
