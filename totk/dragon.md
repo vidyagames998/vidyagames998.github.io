@@ -55,8 +55,6 @@ Again I would like to reiterate it really is not needed to easily beat the game.
   
 ![hinox](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/871d1342-d905-4eb1-b2b1-09fa13c5bacb)
 
-[Black Hinox Locations](https://www.youtube.com/watch?v=530uksZcCZA&t=247)
-
 https://www.ign.com/wikis/the-legend-of-zelda-tears-of-the-kingdom/Hinox_Locations_and_Guide
 
 ## Upgrading
