@@ -1,5 +1,9 @@
 # Upgrading Armor
 
+In order to get one of the best armors in the game upgraded you'll need to grind for probably 5-6 hours.
+
+Again I would like to reiterate it really is not needed to easily beat the game. 
+
 ## Dragon Parts
 
 - It takes at least 40 min per dragon to get the parts to level fierce diety
