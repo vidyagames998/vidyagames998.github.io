@@ -10,9 +10,9 @@ I have also made videos that play at 4x and skip loading screens. https://www.yo
 - [Shrines](shrines.md)
 - [Activating All Tears, Getting Master Sword](ms.md)
 - [Great Fairies](fairies.md)
-- Wind Temple
-- Robbies Questline
-- Fire Temple
+- [Wind Temple](wind.md)
+- [Robbies Questline](robbie.md)
+- [Fire Temple](fire.md)
 - Water Temple
 - Lightning Temple
 - Hyrule Castle
