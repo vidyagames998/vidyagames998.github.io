@@ -3,7 +3,7 @@
 - Head South, climb up, at the lynel we need to go up to the top behind it, to do so drop down and go left
 - Ascend and go through the door, the floor drops out, head east, recall a falling block up, head west and we are there
 - Head South and run past ice worms, floor drops out again, glide to bottom
-- Head North, there's a big gap, drop down and ascened up to big guy, keep going North
+- Head North, there's a big gap, drop down and ascend up to the big guy, keep going North
 - It'll turn into the area at the start of the game, use bombs and make your way to Ganon
 - Where Ganon was drop into chasm, head south, stpo when you get to the next big drop with a red light below
 - Place down a fast travel marker, get out, heal
