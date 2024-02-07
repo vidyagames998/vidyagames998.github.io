@@ -1,4 +1,6 @@
 # Great Sky Island
+This is the opening area to the game. In this area the game has very good game design and utilizes unique ways of introducing you a basic concept and having you use it later on. It very much directs you where to go. While it's likely not needed, I'm going to go in depth for this first part of the guide. 
+
 - Grab the broken sword, cut the vines with y
 - Talk to hand to open the door and head through
 - Only jump into water with stamina or you will die
