@@ -55,10 +55,15 @@
 
 https://www.ign.com/wikis/the-legend-of-zelda-tears-of-the-kingdom/Hinox_Locations_and_Guide
 
-## Lynels
-Silver Lynels have 5k hp and are very tough, but have a 100% drop rate.
-Weaker lynels have lower drop rates for guts, blue (20%) or white (60%).
+## Upgrading
+To upgrade Fierce Diety to level 3 you need 780 Rupees, I would do the Hinox upgrades before farming lynels.
 
+
+## Lynels
+- We need 6 Lynel Guts
+- Silver Lynels have 5k hp and are very tough, but have a 100% drop rate.
+- Weaker lynels have lower drop rates for guts, blue (20%) or white (60%).
+- It costs another 1500 Rupees to upgrade Fierce Diety to max
 ![lynels](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/99ebadad-052b-447f-9eaa-42e16f6f9235)
 
 https://www.ign.com/wikis/the-legend-of-zelda-tears-of-the-kingdom/Lynel_-_Map_Locations_and_Tips
