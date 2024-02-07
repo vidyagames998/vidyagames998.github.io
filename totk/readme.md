@@ -8,7 +8,7 @@ I have also made videos that play at 4x and skip loading screens. https://www.yo
 - [Collecting Towers](towers.md)
 - [Collecting Gear](gear.md)
 - [Shrines](shrines.md)
-- Activating All Tears, Getting Master Sword
+- [Activating All Tears, Getting Master Sword](ms.md)
 - Great Fairies
 - Wind Temple
 - Robbies Questline
