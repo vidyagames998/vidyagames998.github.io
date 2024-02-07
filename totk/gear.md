@@ -44,6 +44,9 @@
 ## Learn to repair items
 - Fast Travel to Ulri Mountain, equip glide suit, glide north west to Momosik shrine
 - Place items on ground and have them thrown back at you to have them repaired by octorocks
+- Here's a map of 9 of them, they can repair new items every blood moon
+![IMG_0101](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/4c9a8bf7-a3c8-4f86-ab7f-790e591856f9)
+
 - Fast Travel to Rasitakiwak, go to Tarry Town to North, shop can unfuse items
 - Unrepairable items can be repaired when fused to repairable items
 
