@@ -17,5 +17,5 @@ I have also made videos that play at 4x and skip loading screens. https://www.yo
 - [Lightning Temple](light.md)
 - [Hyrule Castle](hyrule.md)
 - [Spirit Temple](spirit.md)
-- [Farming Dragon Parts](dragon.md)
+- [Upgrading Armor](dragon.md)
 - [Final Dungeon](final.md)
