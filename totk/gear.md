@@ -33,7 +33,9 @@
 - Head east on the right side of room, climb up side, throw fire fruit on wood, grab chest
 - Fast Travel to Rabella Wetlands, glide south east, go to end of highcliff, jump off and land on wood platform in entrance below, Dpad down to whistle to go in, swim forward to land, use fan and wood to navigate to front of boat
 - ascend up on wood platform, climb mast to get 3x bow 
-- Camp ice dragon at Mount Lanayru, get horn
+- Camp the sky islands around Mount Lanayru until you see the ice dragon, fly to it and sword it's horn to get a powerful fuse item
+    - The dragon spends 11 min underground and leaves the chasm at Mount Lanayru
+    - Ruby shield and warm pants are needed
 - Fast Travel Gerudo Canyon, tag town and tower to south
 - Glide suit to tower, get shrine, get gerudo bow chest in lake
 - Fast Travel Gerudo Canyon, grab wing SE on sky island, recall launch to town and get shrine
