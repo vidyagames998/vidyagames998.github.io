@@ -90,6 +90,7 @@ This is the opening area to the game. In this area the game has very good game d
 - Attach the hook to the minecart and use it on the left rail to get to the top
 - Loot the 3 bodies for zonai charges and jump down into the water
 
+## Back To Gutanbac
 - Head to the cave, grab the peppers, and cook them 1 at a time for cold resistance and a good healing item
 - Head north
 - Fuse the ruby to a shield for permanent cold resistance (we can unfuse it later if need be)
