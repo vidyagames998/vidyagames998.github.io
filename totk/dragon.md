@@ -24,7 +24,7 @@
 - Enters Chasm W of Popla
 - Look S, N, E of Gerudo Canyon
 - Look W of Popla
-- Equip Lightning Helm or Rubber Suit Level 2 (long questlines)
+- Equip Lightning Helm or Rubber Suit Level 2 (long questlines I would skip personally)
 - Once on the dragon, you can sometimes hang under a spike to not get electrocuted
 - You do not get shocked underground if you board at Popla
   - Scale, Shards, Jump off to not get shocked, 10min, Horn, 10 min, Fang, 10 min, Claw
