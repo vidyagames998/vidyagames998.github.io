@@ -27,7 +27,11 @@ Head to lookout landing and talk to purah
 - To avoid being hit by lighting remove metal weapons, bows, shields, and armor
 - You can also collect the rubber suit set and upgrade to level to 3 or collect thunderhelm, both of these options take a while
 - Make your way to the middle of dragonhead island on the SE, using the paraglider and ascend
+
+# Once on dragonhead isles
+- Get shrine
 - Open door with 10 hearts
+- Get more wings if you are low
 - Wing piece down, place fast travel point if you have it, put head on altar, carry down and place next to body of Mineru
 
 ## Spirit Temple
