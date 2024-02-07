@@ -65,7 +65,7 @@
 - From Momosik -> go N to tall rock tower in distance, enter tower from above and dive to water, head south, break rocks, grab mask from chest
 - From Kadanaur -> head east to kisinona shrine next to smoke, equip gear, go in cave, get sword, fuse naydra horn
 
-## Kill enemies
+## Killing Harder Enemies
 - Construct: Mayam shrine, rotate and launch to boss, pull off green part with ultra, hold Y spin attack green part with naydra horn
   - Use rocket platform to bring crystal back to mayam
 - Molduga: Eldin Canyon -> SE -> Wing -> Siwakama Shrine S by Chasm -> fly south east to the rock and molduga should spawn
