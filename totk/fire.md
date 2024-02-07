@@ -1,7 +1,7 @@
 # Fire Temple
 
 ## Getting to Fire Temple
-- From Thyphlo, East you will see two lizard shaped lakes, go to the North one, grab Sitsum along the way on Mountain peak
+- From Eldin canyon, North you will see two lizard shaped lakes, go to the North one, Start at Eldin Canyon, grab Sitsum along the way on Mountain peak
 - South of the lizards head is a cave with a helmet in a chest
 - From Sitsum go W to Marakuguc shrine, take minecart and fan on left rail NE, in the building sell diamond/jems, buy shirt
 - Fast travel to Marakuguc and head to the red steaming pile of meat at center of town and talk to the guy passed out
