@@ -6,7 +6,7 @@ Again I would like to reiterate it really is not needed to easily beat the game.
 
 ## Dragon Parts
 
-- It takes at least 40 min per dragon to get the parts to level fierce diety
+- It takes at least 40 min per dragon to get the parts to level fierce diety as items spawn every 10 in game minutes.
 - In ease of getting items I recommend: scale, shard, horn, fang, then claw
 - In order of upgrades it is: scale, claw, fang, horn
 - Fangs can sometimes be shot from top with bow, might be worth trying before scale.
