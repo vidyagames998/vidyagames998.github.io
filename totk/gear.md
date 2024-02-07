@@ -38,28 +38,28 @@
 - Fast Travel Gerudo Canyon, grab wing SE on sky island, recall launch to town and get shrine
 - Get gerudo spear from town leaning against wall on north side of town
 
-# Learn to repair items
+## Learn to repair items
 - Fast Travel to Ulri Mountain, equip glide suit, glide north west to Momosik shrine
 - Place items on ground and have them thrown back at you to have them repaired by octorocks
 - Fast Travel to Rasitakiwak, go to Tarry Town to North, shop can unfuse items
 - Unrepairable items can be repaired when fused to repairable items
 
-# Learn to farm healing items
+## Learn to farm healing items
 - Fast Travel to Hyrule Field Skyview, cannon up, fly north west to sonapan shrine on mountain
 - Equip phantom armor, use pitch fork to shake trees, collect apples, cook apples
 
-# Misc 
+## Misc 
 - Fuse sapphire to shield for heat resistance
 - Fast travel to lookout landing, talk to Hestu, increase shields
 - Get towing harness for visiting 2 stables + catching horse, talk to book at stable
 
-# Get better Armor - Fierce Deity Armor (optional):
+## Get better Armor - Fierce Deity Armor (optional)
 - Domizuin shrine -> go left, go through hole in southwest wall, fall through floor, get shirt
 - Hyrule Filed Skyview -> go NW to tree trunk in middle of lake, face south, cut vines, climb back up slow, cut vines, get boots
 - From Momosik -> go N to tall rock tower in distance, enter tower from above and dive to water, head south, break rocks, grab mask from chest
 - From Kadanaur -> head east to kisinona shrine next to smoke, equip gear, go in cave, get sword, fuse naydra horn
 
-# Kill enemies:
+## Kill enemies
 - Construct: Mayam shrine, rotate and launch to boss, pull off green part with ultra, hold Y spin attack green part with naydra horn
   - Use rocket platform to bring crystal back to mayam
 - Molduga: Eldin Canyon -> SE -> Wing -> Siwakama Shrine S by Chasm -> fly south east to the rock and molduga should spawn
@@ -70,3 +70,21 @@
 - Lynel: NE of Sonapan half way to Sinakawak, triple shot with puffshroom to face, walk up and mount, swing sword, escape to rock, heal to full, face shot again with puffshroom, remount, sword, repeat, always heal to full
   - They get easier when you finish the temples and have more health/stamina and better weapons
   - Weapons do not take damage when mounted
+ 
+## Get Money
+This strategy can yield 3k rupees for 15 min of work
+- Ulri Mountain Skyview -> NE to Jochi-iu shrine by stable, continue NE to beach
+- Fuse Molduga to Gerudo Spear
+- Just N of three pirate ships are three rocks, if you walk on them a Rare Stone Talus boss spawns
+- You can climb up its back or ascend through its front, spear the rock on top to death
+- Fuse Talus Heart to another spear
+- On the bottom middle of the map, there's lake of the horse god and a bridge, another talus is W of the bridge
+- From Popla wing south west to dodge storm, then turn south and go to utsushok shrine by horse stable, jump off wing before you are hit by lightning if needed, head S
+  - When the gerudo spear is weak swap for other spear, fuse up another spear
+  - Paragliding off might help to avoid ground stomp deaths
+- Travel back to Utsushok, head East, there's another just N of the small lake
+- Travel to Gerudo Canyon, just S is a circle of rocks with another
+- Travel to Gerudo Canyon, just N is a waterfall and cave with another
+- These respawn every blood moon
+- Dropped items sell for lots of money
+
