@@ -1,4 +1,4 @@
-# Lookout Landing
+# Lookout Landing and Chasms
 
 ## How to get there
 - When looking over the edge towards the yellow indicator use your scope to tag the Lookout Landing tower
