@@ -13,9 +13,9 @@ I have also made videos that play at 4x and skip loading screens. https://www.yo
 - [Wind Temple](wind.md)
 - [Robbies Questline](robbie.md)
 - [Fire Temple](fire.md)
-- Water Temple
-- Lightning Temple
-- Hyrule Castle
-- Spirit Temple
-- Farming Dragon Parts
-- Final Dungeon
+- [Water Temple](water.md)
+- [Lightning Temple](light.md)
+- [Hyrule Castle](hyrule.md)
+- [Spirit Temple](spirit.md)
+- [Farming Dragon Parts](dragon.md)
+- [Final Dungeon](final.md)
