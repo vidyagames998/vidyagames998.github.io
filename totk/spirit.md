@@ -14,6 +14,7 @@ Head to lookout landing and talk to purah
 - You should be east of the floria river, zoom in as far as you can
 - You should see a stick with 3 circles on it
 - At the very east end of the stick, place a marker just south in the dark part before the river
+![IMG_0143](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/713df848-b9e9-45b2-abbf-324f3222042d)
 
 ### Long way
 - Travel to Sahasra in SE, head NE to kakariko village or just go to the Makasura shrine if you have it.
