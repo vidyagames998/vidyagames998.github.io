@@ -15,6 +15,8 @@
 - Enters Chasm at E of Sahasra
 - Look W and S of Mount Lanayru
 - Equip ruby shield and warm pants
+![ice](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/ce2ea250-0451-4260-8474-d2eff5e78ab5)
+
 
 ## Lightning
 - 35 min loop, 19 min above, 15 below, clockwise, 300-500 elevation
@@ -26,12 +28,15 @@
 - Once on the dragon, you can sometimes hang under a spike to not get electrocuted
 - You do not get shocked underground if you board at Popla
   - Scale, Shards, Jump off to not get shocked, 10min, Horn, 10 min, Fang, 10 min, Claw
+![lightning](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/4f008787-6a18-4cbb-90e6-8417ce8f1810)
 
 ## Fire
 - Equip 2 Flame Guard Armors
 - 47 min loop, 22 min above, 25 min below, counter clockwise, 500-700 elevation
 - Leaves Chasm E of Ulri Mountain, goes North, then West
 - Enters Chasm W of Thyphlo, comes from E
+![fire](https://github.com/vidyagames998/vidyagames998.github.io/assets/159220924/c5197e45-be0b-447a-9360-4a67f9baca7e)
+
 
 # Getting Upgrade Materials
 
