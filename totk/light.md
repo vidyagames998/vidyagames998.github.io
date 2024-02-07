@@ -54,4 +54,4 @@
 ### Phase 2
 - Shoot a lightning arrow asap to a magenta tower and hide in light to kill gibdos
 - Clear all 4 corners
-- When just queen, triple arrows fused with gibdo bones work well
+- When just queen, triple arrows fused with gibdo bones/topaz work well
