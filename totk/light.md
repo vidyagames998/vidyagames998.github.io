@@ -15,6 +15,7 @@
 - Head to west gate, shoot aerial enemies on mini map, when magenta shoot tower
 - Immediately head back to center to save riju, climb over wall instead of going around
 - Talk to Riju in basement
+- Sleep till night time so we can avoid the heat in the desert
 - Head to tower behind throne, smash rock to expose light, ascend up, follow light to next tower
 - Use dust tornados to gain altitude, at tower ascend, rotate wheel counter clockwise to redirect beam
 - Ascend and follow beam to third tower to SE
