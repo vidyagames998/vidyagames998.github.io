@@ -7,8 +7,7 @@ I have also made videos that play at 4x and skip loading screens. https://www.yo
 - [Lookout Landing and Chasms](lookoutlanding.md)
 - [Collecting Towers](towers.md)
 - [Collecting Gear](gear.md)
-- Collecting Rupees
-- Shrines
+- [Shrines](shrines.md)
 - Activating All Tears, Getting Master Sword
 - Great Fairies
 - Wind Temple
