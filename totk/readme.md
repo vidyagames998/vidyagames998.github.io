@@ -3,8 +3,8 @@ This game is easily a 50 hour game, but a lot of time is spent just aimlessly wa
 
 - [Great Sky Island](gsi.md)
 - [Lookout Landing and Chasms](lookoutlanding.md)
-- Collecting Towers
-- Collecting Gear
+- [Collecting Towers](towers.md)
+- [Collecting Gear](gear.md)
 - Collecting Rupees
 - Shrines
 - Activating All Tears, Getting Master Sword
