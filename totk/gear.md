@@ -12,6 +12,7 @@
 - Fast Travel to Gerudo Canyon, cannon up, south east to glider on sky island, fly south to holes in desert, mark middle hole in 2nd row furthest away (furthest away is 2, then 3, then 4, then 3), go into quick sand
 - Fast Travel to Gerudo Highlands, cannon up, skydive northeast to end of river, equip phantom gear, head south
 - In gloom hands room, jump on left pillar, take out spring, move spring to southernmost pillar, jump on pillar, activate spring, glide to chest
+This armor can very easily carry you through the entire game.
 
 ## Get Weapons
 - Fast Travel to Simosiwak, recall launch from behind shrine to aim for right side of tower, grab dusk bow from peak
