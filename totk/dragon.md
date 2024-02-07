@@ -1,4 +1,6 @@
-# Dragon Parts
+# Upgrading Armor
+
+## Dragon Parts
 
 - It takes at least 40 min per dragon to get the parts to level fierce diety
 - In ease of getting items I recommend: scale, shard, horn, fang, then claw
