@@ -10,6 +10,7 @@
 - Cook apples with 1 Sundelion to make food that heals gloom damage so we can heal after the first boss
 - Sundelion can be found on sky island next to simosiwak shrine
 - I recommend having 8 ruby, 8 topaz, 4 sapphire, 50 arrow, and 20 gibdo bones
+- You can get the gems by farming rare stone battle taluses
 
 ## Boss Fight (6 ruby, 3 topaz, 3 gibdo)
 - Phase 1 - Run away towards camera, shoot ruby left, shoot ruby right, hop on mineru kill boss with gibdo, slap stragglers
