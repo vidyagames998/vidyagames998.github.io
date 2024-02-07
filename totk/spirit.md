@@ -1,6 +1,6 @@
 # Spirit Temple
 
-# Getting to start of Spirt Temple
+## Getting to start of Spirt Temple
 Head to lookout landing and talk to purah
 
 ### Shortcut
@@ -28,7 +28,7 @@ Head to lookout landing and talk to purah
 - You can also collect the rubber suit set and upgrade to level to 3 or collect thunderhelm, both of these options take a while
 - Make your way to the middle of dragonhead island on the SE, using the paraglider and ascend
 
-# Once on dragonhead isles
+### Once on dragonhead isles
 - Get shrine
 - Open door with 10 hearts
 - Get more wings if you are low
@@ -53,7 +53,7 @@ Head to lookout landing and talk to purah
 ## Spirit Temple Boss
 - Canon to stun, punch until its knocked into fence, give it a second to get up, repeat
 
-# What's Next?
+## What's Next?
 From here there is a game to explore. 
 
 https://www.ign.com/wikis/the-legend-of-zelda-tears-of-the-kingdom/100_Percent_Completion_Checklist
