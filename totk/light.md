@@ -49,8 +49,12 @@
 - heal for boss, go to hand, equip good gear, arrow magenta to start fight
 
 ## Gibdo Boss
+6 or so Topaz with a 3x bow makes this fight really easy. Get away, fuse, and shoot. 
+
+### Hard way
 - Lightning arrow, then yunobo, then sidon shield, repeat until stunned
-- When stunned run up and swing using charge attack until 1/2 health
+- When stunned you can run up and swing using charge attack until 1/2 health
+
 ### Phase 2
 - Shoot a lightning arrow asap to a magenta tower and hide in light to kill gibdos
 - Clear all 4 corners
