@@ -49,3 +49,7 @@ The light dragon flies at about 2000, after falling off you can travel to Mayam 
 - Fast travel up and talk to the giant tree
 - The light dragon should now be flying around 700 in a 112 min loop
 - Optional: Check Mayam, then Taunhiy, then Rakashog (NE Gerudo Canyon), then Sihajog and get the missing item
+
+## Note
+
+You can fuse items to the master sword, the master sword throw animation does a ranged attack, the master sword regenerates when broken
