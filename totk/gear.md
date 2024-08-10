@@ -94,7 +94,8 @@ As you defeat hard enemies the world experience changes, enemies get stronger, a
   - Weapons do not take damage when mounted
  
 ## Get Money
-This strategy can yield 3k rupees for 15 min of work
+We are going to farm the rare stone battle taluses. While the diamond, ruby, topaz, and sapphire drop rates are really low according to the drop tables on the wiki, the numbers lie and you get a few from each rare stone battle talus. With this strategy can expect to yield about 3k rupees for 15 min of work.
+
 - Ulri Mountain Skyview -> NE to Jochi-iu shrine by stable, continue NE to beach
 - Fuse Molduga/Diamond/Horn to Gerudo Spear
 - Just N of three pirate ships are three rocks, if you walk on them a Rare Stone Talus boss spawns
