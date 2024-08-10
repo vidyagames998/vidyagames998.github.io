@@ -51,7 +51,7 @@ Items not in chests on the world map have a chance to respawn every in game minu
 
 ## Learn to repair items
 
-Most weapons in the game only last for 20-40 swings. Hitting the air does damage to the weapon, charged attacks damage them quicker. You'll be repairing items frequently.
+Most weapons in the game only last for 20-40 swings. Hitting the ground does damage to the weapon, charged attacks damage them quicker. Fuses increase some durability. You'll definitely be repairing items frequently.
 
 - Fast Travel to Ulri Mountain, equip glide suit, glide north west to Momosik shrine
 - Place items on ground and have them thrown back at you to have them repaired by octorocks
