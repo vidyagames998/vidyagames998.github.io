@@ -36,7 +36,7 @@ The phantom armor is easy to get, provides attack up level 3, and has high defen
 - Jump off north west ledge, and take inlet cave
 - Head east on the right side of room, climb up side, throw fire fruit on wood, grab chest
 - Fast Travel to Rabella Wetlands, glide south east, go to end of highcliff, jump off and land on wood platform in entrance below, Dpad down to whistle to go in, swim forward to land, use fan and wood to navigate to front of boat
-- ascend up on wood platform, climb mast to get 3x bow (the 3x bow only use one item per fuse, rubies, sapphires, topaz, and bombs do very high damage)
+- ascend up on wood platform, climb mast to get 3x bow (the 3x bow only use one item per fuse, rubies, sapphires, topaz, and bombs do very high damage)(this bow is the best you can get without killing lynels and progressing game experience)
 - Camp the sky islands around Mount Lanayru until you see the ice dragon, fly to it and sword it's horn to get a powerful fuse item (also freezes enemies)
     - The dragon spends 11 min underground and leaves the chasm at Mount Lanayru
     - It enters the chasm E of Sahasra (another place you can easily board)
