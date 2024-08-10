@@ -49,6 +49,8 @@ The phantom armor is easy to get, provides attack up level 3, and has high defen
 
 Items not in chests on the world map have a chance to respawn after 75 minutes, every in game minute. They typically respawn by every 2 in game hours. 
 
+Enemies respawn during blood moons, which happen every 2 in game hours.
+
 ## Learn to repair items
 
 Most weapons in the game only last for 20-40 swings. Hitting the ground does damage to the weapon, charged attacks damage them quicker. Fuses increase some durability. You'll definitely be repairing items frequently.
