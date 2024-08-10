@@ -15,8 +15,8 @@
 - This armor can very easily carry you through the entire game.
 
 ## Get Weapons
-- Fast Travel to Simosiwak, recall launch from behind shrine to aim for right side of tower, grab dusk bow from peak
-- Face NE and grab chest 1 level down for sapphire
+- Fast Travel to Simosiwak, recall launch from behind shrine to aim for right side of tower, grab dusk bow from peak (good long distance bow with good damage)
+- Face NE and grab chest 1 level down for sapphire, fuse to a shield to reduce heat
 - Face N go down 1 level and grab 300 Rupee chest
 - Face S grab royal bow 1/2 level down
 - Glide S, go in the front door
@@ -102,6 +102,10 @@ This strategy can yield 3k rupees for 15 min of work
 
 ## Crushing rocks
 Directly west of Eldin Canyon skyview tower is a chest with a cobbler crusher in it. Most rocks will break with 1 hit from it. It's durability is very high. 
+
+## Arrows
+
+Boxes can be ultrahanded, rotated, and dropped on the ground to get more arrows. You can also buy them from vendors. 
 
 ## Recommended Weapon
 
