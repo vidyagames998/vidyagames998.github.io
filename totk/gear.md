@@ -136,4 +136,4 @@ There is a ton of food you can cook in game, save farming can help you figure ou
 - Amiibo give tons of fish that can be cooked for all kinds of stat boosts. You can buy cloned amiibo off etsy and can save and modify the date on your switch to farm all the items in a few hours. 
 
 ## Glitches
-Depending on how updated your game is there are many ways to duplicate, items, food, weapons, and upgrade materials. Which you can also sell for rupees that can save you hours of grinding. It feels cheap, it's not in the spirit of the game and the glithes that work on the game with the latest patches are not the easiest to do so I'm not going to cover them. 
+Depending on how updated your game is there are many ways to duplicate items, food, weapons, and upgrade materials. Which you can also sell for rupees that can save you hours of grinding. It feels cheap, it's not in the spirit of the game and the glithes that work on the game with the latest patches are not the easiest to do so I'm not going to cover them. 
