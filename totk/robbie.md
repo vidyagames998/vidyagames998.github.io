@@ -11,7 +11,7 @@ Note: You can dismiss summons from the + menu, do this before repairing gear
   - Find 15 shrines (heros path, tracks movement over last 250 hours of gameplay)
 - Travel to North East part of map to Jochi-iu, run N to top of hill, and fight Koga enemy invasion
   - they are fairly strong, equip good gear, bows work well
--Get chest and armor inside, return to Hateno Ancient Lab
+- Get chest and armor inside, return to Hateno Ancient Lab
 - Travel Medallions let you set your own custom fast travel points
 - Talk to Robbie to get a second and third fast travel after mapping 10 regions and 15 regions
 - You can turn off shrine of light beeps from the map
