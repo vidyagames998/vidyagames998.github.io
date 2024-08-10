@@ -1,6 +1,6 @@
 # Collecting Gear
 
-## Get flight suit
+## Get flight suit (optional)
 The flight suit extends glide distance and makes it easier to get places.
 
 - Fast travel to Thyphlo Ruins, cannon up, head south to mayam shrine, head south to boss, head south to sky island rings
@@ -77,7 +77,7 @@ Most weapons in the game only last for 20-40 swings. Hitting the ground does dam
 - From Momosik -> go N to tall rock tower in distance, enter tower from above and dive to water, head south, break rocks, grab mask from chest
 - From Kadanaur -> head east to kisinona shrine next to smoke, equip gear, go in cave, get sword, fuse naydra horn
 
-## Killing Harder Enemies
+## Killing Harder Enemies (optional)
 - Construct: Mayam shrine, rotate and launch to boss, pull off green part with ultra, hold Y spin attack green part with naydra horn
   - Use rocket platform to bring crystal back to mayam
 - Molduga: Eldin Canyon -> SE -> Wing -> Siwakama Shrine S by Chasm -> fly south east to the rock and molduga should spawn
@@ -110,7 +110,7 @@ This strategy can yield 3k rupees for 15 min of work
 
 Boxes can be ultrahanded, rotated, and dropped on the ground to get more arrows. You can also buy them from vendors. 
 
-## Recommended Weapon
+## Recommended Weapon (optional)
 
 Damage calcuations are very weird in this game. 
  - Spears in this game have a 75% damage modifier from the number you see on screen, but have a very high attack speed making up for it. 
@@ -122,7 +122,7 @@ With that said the Zora Spear is one of the absolute best early/late game weapon
 
 The amount of work you will need to put in to get a better weapon is considerable. You will need to get an undecayed royal guards claymore, unlock the radiant armor set, unlock the upgrades, and farm lynels. Doing so significantly progresses the in game experience making the game much harder. In general the more strong enemies you kill the harder the game gets. This will likely take around 8 hours of time, but can yield a much stronger weapon which is really only good for taking out lynels in a couple hits. 
 
-## Crushing rocks
+## Crushing rocks (optional)
 Directly west of Eldin Canyon skyview tower is a chest with a cobbler crusher in it. A hidden stat bonus causes most rocks to break with 1 hit from it. It's durability is not the best, but like the Zora spear there are hidden stats and upgrades. To start fusing a rock adds durability and does 1.5x the damage to battle taluses. You can also get an undecayed version after breaking it for higher durability and stats. Fusing a rare stone battle talus heart adds higher damage and durability. The sword has a slow damage per second compared to spears but also has a 1.05 multiplyer vs .75, to help get around this difference you can also do spinning charged attacks. In goron city you can upgrade this to a Boulder Breaker with three diamonds to get a 38 base attack. So with a Boulder Breaker fused with rare stone battle talus heart with attack up armor against a battle talus you can do `38+32*1.5*1.5=157.5` which makes for a good alternative to spending spear durability to farm the taluses. 
 
 Gold rocks provide diamond, ruby, sapphire, and topaz. Which can sell for high value or make the game very easy when fused to 3x bows. 
@@ -131,7 +131,7 @@ Luminous rocks are needed for radiant armor upgrades
 
 Bombs also destroy rocks
 
-## Cooking
+## Cooking (optional)
 
 There is a ton of food you can cook in game, save farming can help you figure out what works well and what is not worth it. Some items give mulitiple points. The number of points you need to get level 2 or 3 buffs varies considerably. John Austin has a great video series explaining a lot of the in depth mechanics to this game if you care to learn. In summary this is probably all you will need to know. 
 
