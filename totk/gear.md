@@ -35,6 +35,8 @@
 - ascend up on wood platform, climb mast to get 3x bow (the 3x bow only use one item per fuse, rubies, sapphires, topaz, and bombs do very high damage)
 - Camp the sky islands around Mount Lanayru until you see the ice dragon, fly to it and sword it's horn to get a powerful fuse item
     - The dragon spends 11 min underground and leaves the chasm at Mount Lanayru
+    - It enters the chasm E of Sahasra (another place you can easily board)
+    - It spends 17 min flying above ground clockwise south to hateno then up to Sahasra
     - Ruby shield and warm pants are needed
 - Fast Travel Gerudo Canyon, tag town and tower to south
 - Glide suit to tower, get shrine, get gerudo bow chest in lake
