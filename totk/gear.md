@@ -1,6 +1,8 @@
 # Collecting Gear
 
 ## Get flight suit
+The flight suit extends glide distance and makes it easier to get places.
+
 - Fast travel to Thyphlo Ruins, cannon up, head south to mayam shrine, head south to boss, head south to sky island rings
 - Talk to zonai at bottom, go through green rings, repeat, grab shrine, equip pants
 - Fast travel to Lindors Brow, cannon up, head west, touch hand, do dive, repeat, equip shirt, grab shrine
@@ -8,6 +10,8 @@
 - equip shirt and pants, do ceremony twice, grab shrine, get 2 springs from gumball machine
 
 ## Get Armor
+The phantom armor is easy to get, provides attack up level 3, and has high defense without needing any upgrades.
+
 - Fast Travel to Popla, cannon up, mid air wing south towards beach, go right to dodge storm, from lake in beach, spring up to cave, head north to chest
 - Fast Travel to Gerudo Canyon, cannon up, south east to glider on sky island, fly south to holes in desert, mark middle hole in 2nd row furthest away (furthest away is 2, then 3, then 4, then 3), go into quick sand
 - Fast Travel to Gerudo Highlands, cannon up, skydive northeast to end of river, equip phantom gear, head south
@@ -18,9 +22,9 @@
 - Fast Travel to Simosiwak, recall launch from behind shrine to aim for right side of tower, grab dusk bow from peak (good long distance bow with good damage)
 - Face NE and grab chest 1 level down for sapphire, fuse to a shield to reduce heat
 - Face N go down 1 level and grab 300 Rupee chest
-- Face S grab royal bow 1/2 level down
+- Face S grab royal bow 1/2 level down (best no frills bow in game)
 - Glide S, go in the front door
-- On right, grab shield, sword, spear
+- On right, grab shield, sword, spear (low durability but high stats)
 - On left, grab bow, and big sword 
 - Take the door to the right of south entrance and go in the hole in the tower to zeldas room
 - Grab bow and big sword
@@ -28,18 +32,18 @@
 - Run north and down stairs
 - On North side of big room, move bookcase, then grab shield behind chest
 - On NW side of room, move bookcase, grab knights claymore and shard, fuse royal guard and shard
-- Head back up stairs, grab shrine
+- Head back up stairs, grab shrine (ascend from below if raining)
 - Jump off north west ledge, and take inlet cave
 - Head east on the right side of room, climb up side, throw fire fruit on wood, grab chest
 - Fast Travel to Rabella Wetlands, glide south east, go to end of highcliff, jump off and land on wood platform in entrance below, Dpad down to whistle to go in, swim forward to land, use fan and wood to navigate to front of boat
 - ascend up on wood platform, climb mast to get 3x bow (the 3x bow only use one item per fuse, rubies, sapphires, topaz, and bombs do very high damage)
-- Camp the sky islands around Mount Lanayru until you see the ice dragon, fly to it and sword it's horn to get a powerful fuse item
+- Camp the sky islands around Mount Lanayru until you see the ice dragon, fly to it and sword it's horn to get a powerful fuse item (also freezes enemies)
     - The dragon spends 11 min underground and leaves the chasm at Mount Lanayru
     - It enters the chasm E of Sahasra (another place you can easily board)
     - It spends 17 min flying above ground clockwise south to hateno then up to Sahasra
     - Ruby shield and warm pants are needed
 - Fast Travel Gerudo Canyon, tag town and tower to south
-- Glide suit to tower, get shrine, get gerudo bow chest in lake
+- Glide suit to tower, get shrine, get gerudo bow chest in lake (weak durability, 2x fuses, long distance, plenty more in lightning temple)
 - Fast Travel Gerudo Canyon, grab wing SE on sky island, recall launch to town and get shrine
 - Get gerudo spear from town leaning against wall on north side of town (very weak 20 durability, but 2x's fuses)
 
@@ -102,9 +106,6 @@ This strategy can yield 3k rupees for 15 min of work
 - These respawn every blood moon
 - Dropped items sell for lots of money
 
-## Crushing rocks
-Directly west of Eldin Canyon skyview tower is a chest with a cobbler crusher in it. Most rocks will break with 1 hit from it. It's durability is very high. 
-
 ## Arrows
 
 Boxes can be ultrahanded, rotated, and dropped on the ground to get more arrows. You can also buy them from vendors. 
@@ -120,6 +121,15 @@ Damage calcuations are very weird in this game.
 With that said the Zora Spear is one of the absolute best early/late game weapons. You can get it very early on by freeing the guy next to the upland zorana tower. It only has a damage of 6, but don't let that deceive you. It has a durability of 40 which is pretty high compared to most weapons. You can fuse it with a rare stone talus heart +33 which you can easily get with the gerudo spear (20 durability) and a dragon horn/diamond, making it a +39 weapon. If make yourself wet the damage doubles to 78. Taking into account your gear it'll do a rapid `(6+33)*2*.75*1.5 = 87.75` damage with good durability. You can make it even stronger by destroying it and getting the undecayed version. After destroying the zora spear by swinging till it breaks, dive in the depths near upland zorana and get the undecayed version from the floating ghost statue, this can be save farmed if you destroyed other weapons, giving you a 12 spear. This can be made +10 stronger by save farming ocotorocks, which also doubles with wetness so its really +20.  It can be upgraded yet again to increase durability with three diamonds and five flint by talking to the guy in Zora town to convert the spear into a Lightscale Trident with 22 strength and 70 durability. Octorocks cannot be save farmed again to give +10 damage as it is now a legendary weapon, but it still can be repaired when attached to other non legendary weapons. This gives you a `(22+33)*2*.75*1.5 = 123.75` on a high damage per second weapon with great durability and no octorock farming. 
 
 The amount of work you will need to put in to get a better weapon is considerable. You will need to get an undecayed royal guards claymore, unlock the radiant armor set, unlock the upgrades, and farm lynels. Doing so significantly progresses the in game experience making the game much harder. In general the more strong enemies you kill the harder the game gets. This will likely take around 8 hours of time, but can yield a much stronger weapon which is really only good for taking out lynels in a couple hits. 
+
+## Crushing rocks
+Directly west of Eldin Canyon skyview tower is a chest with a cobbler crusher in it. Most rocks will break with 1 hit from it. It's durability is not the best, but fusing a rock adds durability and does 1.5x the damage to battle taluses. You can also get an undecayed version after breaking it for higher durability and stats. Fusing a rare stone battle talus heart adds higher damage and durability. The sword has a slow damage per second compared to spears but also has a 1.05 multiplyer vs .75, to help get around this difference you can do spinning charged attacks. In goron city you can upgrade this to a Boulder Breaker with three diamonds to get a 38 base attack. So with a Boulder Breaker fused with rare stone battle talus heart with attack up armor against a battle talus you can do `38+32*1.5*1.5=157.5` which makes for a good alternative to spending spear durability to farm the taluses. 
+
+Gold rocks provide diamond, ruby, sapphire, and topaz. Which can sell for high value or make the game very easy when fused to 3x bows. 
+
+Luminous rocks are needed for radiant armor upgrades
+
+Bombs also destroy rocks
 
 ## Cooking
 
