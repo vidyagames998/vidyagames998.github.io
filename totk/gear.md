@@ -149,7 +149,7 @@ There is a ton of food you can cook in game, save farming can help you figure ou
 - Endura carrots (found near cherry blossom trees) respawn all your stamina and then some, they won't help you get the master sword, they can be traded for horse upgrades
 - Dragon horns are the best to mix with something by far as they give a +30 min duration buff, but they are also needed for feirce diety upgrades, sell for 300 rupees, and give very strong fuse weapons
 - Sundelions from the sky islands when cooked with food give gloom heal and are needed for the final boss
-- Fireproof lizards and smotherwing butterflies near the lakes by goron give flame guard, although the rudania helm and flame guard armor is much easier to get
+- Fireproof lizards (1 point) and smotherwing butterflies(2 points) near the lakes by goron give flame guard when combined with a monster part like a keese wing, although the rudania helm and flame guard armor are much easier to get
 - Amiibo give tons of fish that can be cooked for all kinds of stat boosts. You can buy cloned amiibo off etsy and can save and modify the date on your switch to farm all the items in a few hours. 
 
 ## Glitches
