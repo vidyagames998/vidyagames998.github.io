@@ -117,7 +117,7 @@ The amount of work you will need to put in to get a better weapon is considerabl
 
 ## Cooking
 
-There is a ton of food you can cook in game, save farming can help you figure out what works well and what is not worth it. Some items give mulitiple points. The number of points you need get level 2 or 3 buffs varies considerably. John Austin has a great video series explaining a lot of the in depth mechanics to this game if you care to learn. In summary this is probably all you will need to know. 
+There is a ton of food you can cook in game, save farming can help you figure out what works well and what is not worth it. Some items give mulitiple points. The number of points you need to get level 2 or 3 buffs varies considerably. John Austin has a great video series explaining a lot of the in depth mechanics to this game if you care to learn. In summary this is probably all you will need to know. 
 
 - Mushrooms on the great sky island are great early game heals
 - Spicy peppers on great sky island give cold resist, once you fuse a ruby to a shield and have cold pants you wont need these anymore and can use them to heal
