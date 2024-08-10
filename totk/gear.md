@@ -71,6 +71,10 @@ Most weapons in the game only last for 20-40 swings. Hitting the ground does dam
 - Fast travel to lookout landing, talk to Hestu, increase shields
 - Get towing harness for visiting 2 stables + catching horse, talk to book at stable
 
+## Experience
+
+As you defeat hard enemies the world experience changes, enemies get stronger, and the game gets harder. Versions of weapons you find on map and in chests may also get stronger variants. 
+
 ## Get better Armor - Fierce Deity Armor (optional)
 - Domizuin shrine -> go left, go through hole in southwest wall, fall through floor, get shirt
 - Hyrule Filed Skyview -> go NW to tree trunk in middle of lake, face south, cut vines, climb back up slow, cut vines, get boots
