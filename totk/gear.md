@@ -54,7 +54,7 @@ Most weapons in the game only last for 20-40 swings. Hitting the air does damage
 
 - Fast Travel to Rasitakiwak, go to Tarry Town to North, shop can unfuse items
 - Unrepairable items can be repaired when fused to repairable items
-- You can save farm. Find an octorock, save, upgrade and reload if you don't get an upgrade you want.
+- You can save farm. Find an octorock, save, upgrade and reload if you don't get an upgrade you want. I'm not a fan of save farming. 
 
 ## Learn to farm healing items
 - Fast Travel to Hyrule Field Skyview, cannon up, fly north west to sonapan shrine on mountain
