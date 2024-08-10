@@ -3,10 +3,10 @@
 ## Getting to Fire Temple
 - From Eldin canyon, North you will see two lizard shaped lakes, go to the North one, Start at Eldin Canyon, grab Sitsum along the way on Mountain peak
 - South of the lizards head is a cave with a helmet in a chest
-- From Sitsum go W to Marakuguc shrine, take minecart and fan on left rail NE, in the building sell diamond/jems, buy shirt
+- From Sitsum go W to Marakuguc shrine, take minecart and fan on left rail NE, in the building sell diamond/jems, buy shirt (not required for fire temple, but useful for certain areas)
 - Fast travel to Marakuguc and head to the red steaming pile of meat at center of town and talk to the guy passed out
 - Head North to yellow indicator taking minecart and fan
-- Equip flameguard helmet and shirt
+- Equip flameguard helmet or flame guard armor
 - Yunobo fight: Run away, wait till he starts spinning, run left, hit him once after, repeat twice
 - Use Yunobo to open exit
 - Normally you would minecart your way to the peak of death mountain
