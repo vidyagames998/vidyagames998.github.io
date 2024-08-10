@@ -47,7 +47,7 @@ The phantom armor is easy to get, provides attack up level 3, and has high defen
 - Fast Travel Gerudo Canyon, grab wing SE on sky island, recall launch to town and get shrine
 - Get gerudo spear from town leaning against wall on north side of town (very weak 20 durability, but 2x's fuses)
 
-Items not in chests on the world map have a chance to respawn every in game minute. They typically respawn by every 2 in game hours. 
+Items not in chests on the world map have a chance to respawn after 75 minutes, every in game minute. They typically respawn by every 2 in game hours. 
 
 ## Learn to repair items
 
