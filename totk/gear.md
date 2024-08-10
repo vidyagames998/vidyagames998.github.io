@@ -32,16 +32,21 @@
 - Jump off north west ledge, and take inlet cave
 - Head east on the right side of room, climb up side, throw fire fruit on wood, grab chest
 - Fast Travel to Rabella Wetlands, glide south east, go to end of highcliff, jump off and land on wood platform in entrance below, Dpad down to whistle to go in, swim forward to land, use fan and wood to navigate to front of boat
-- ascend up on wood platform, climb mast to get 3x bow 
+- ascend up on wood platform, climb mast to get 3x bow (the 3x bow only use one item per fuse, rubies, sapphires, topaz, and bombs do very high damage)
 - Camp the sky islands around Mount Lanayru until you see the ice dragon, fly to it and sword it's horn to get a powerful fuse item
     - The dragon spends 11 min underground and leaves the chasm at Mount Lanayru
     - Ruby shield and warm pants are needed
 - Fast Travel Gerudo Canyon, tag town and tower to south
 - Glide suit to tower, get shrine, get gerudo bow chest in lake
 - Fast Travel Gerudo Canyon, grab wing SE on sky island, recall launch to town and get shrine
-- Get gerudo spear from town leaning against wall on north side of town
+- Get gerudo spear from town leaning against wall on north side of town (very weak 20 durability, but 2x's fuses)
+
+Items not in chests on the world map have a chance to respawn every in game minute. They typically respawn by every 2 in game hours. 
 
 ## Learn to repair items
+
+Most weapons in the game only last for 20-40 swings. Hitting the air does damage to the weapon, charged attacks damage them quicker. You'll be repairing items frequently.
+
 - Fast Travel to Ulri Mountain, equip glide suit, glide north west to Momosik shrine
 - Place items on ground and have them thrown back at you to have them repaired by octorocks
 - Here's a map of 9 of them, they can repair new items every blood moon
@@ -49,10 +54,11 @@
 
 - Fast Travel to Rasitakiwak, go to Tarry Town to North, shop can unfuse items
 - Unrepairable items can be repaired when fused to repairable items
+- You can save farm. Find an octorock, save, upgrade and reload if you don't get an upgrade you want.
 
 ## Learn to farm healing items
 - Fast Travel to Hyrule Field Skyview, cannon up, fly north west to sonapan shrine on mountain
-- Equip phantom armor, use pitch fork to shake trees, collect apples, cook apples
+- Equip phantom armor, use pitch fork to shake trees, watch out for attacking trees, collect apples, cook apples
 
 ## Misc 
 - Fuse sapphire to shield for heat resistance
@@ -80,10 +86,10 @@
 ## Get Money
 This strategy can yield 3k rupees for 15 min of work
 - Ulri Mountain Skyview -> NE to Jochi-iu shrine by stable, continue NE to beach
-- Fuse Molduga to Gerudo Spear
+- Fuse Molduga/Diamond/Horn to Gerudo Spear
 - Just N of three pirate ships are three rocks, if you walk on them a Rare Stone Talus boss spawns
 - You can climb up its back or ascend through its front, spear the rock on top to death
-- Fuse Talus Heart to another spear
+- Fuse Talus Heart to another spear (zora works best)
 - On the bottom middle of the map, there's lake of the horse god and a bridge, another talus is W of the bridge
 - From Popla wing south west to dodge storm, then turn south and go to utsushok shrine by horse stable, jump off wing before you are hit by lightning if needed, head S
   - When the gerudo spear is weak swap for other spear, fuse up another spear
@@ -93,4 +99,37 @@ This strategy can yield 3k rupees for 15 min of work
 - Travel to Gerudo Canyon, just N is a waterfall and cave with another
 - These respawn every blood moon
 - Dropped items sell for lots of money
+
+## Crushing rocks
+Directly west of Eldin Canyon skyview tower is a chest with a cobbler crusher in it. Most rocks will break with 1 hit from it. It's durability is very high. 
+
+## Recommended Weapon
+
+Damage calcuations are very weird in this game. 
+ - Spears in this game have a 75% damage modifier from the number you see on screen, but have a very high attack speed making up for it. 
+ - Having three attack up armor gets you a total of a 50% damage boost (20%,~30%,50%). You cannot get more than three up damage boost even with food. 
+ - A pool of undecayed weapons spawn at ghost statues in the depths. You can add to the pool by destroying a weapon on the surface and going to that item types location in the depths. 
+ - Certain weapons get attack boosts based on an attribute, Gerudo 2x the attachment, Zora 2x the total damage when you are wet (rain, shortly after swimming, throwing splash fruit, throwing chuchu jelly, sidon's shield ability)
+
+With that said the Zora Spear is one of the absolute best early/late game weapons. You can get it very early on by freeing the guy next to the upland zorana tower. It only has a damage of 6, but don't let that deceive you. It has a durability of 40 which is pretty high compared to most weapons. You can fuse it with a rare stone talus heart +33 which you can easily get with the gerudo spear (20 durability) and a dragon horn/diamond, making it a +39 weapon. If make yourself wet the damage doubles to 78. Taking into account your gear it'll do a rapid (6+33)*2*.75*1.5=87.75 damage with good durability. You can make it even stronger by destroying it and getting the undecayed version. After destroying the zora spear by swinging till it breaks, dive in the depths near upland zorana and get the undecayed version from the floating ghost statue, this can be save farmed if you destroyed other weapons, giving you a 12 spear. This can be made +10 stronger by save farming ocotorocks, which also doubles with wetness so its really +20.  It can be upgraded yet again to increase durability with three diamonds and five flint by talking to the guy in Zora town to convert the spear into a Lightscale Trident with 22 strength and 70 durability. Octorocks cannot be save farmed again to give +10 damage as it is now a legendary weapon, but it still can be repaired when attached to other non legendary weapons. This gives you a (22+33)*2*.75*1.5 = 123.75 on a high damage per second weapon with great durability. 
+
+The amount of work you will need to put in to get a better weapon is considerable. You will need to get an undecayed royal guards claymore, unlock the radiant armor set, unlock the upgrades, and farm lynels. Doing so significantly progresses the in game experience making the game much harder. In general the more strong enemies you kill the harder the game gets. This will likely take around 8 hours of time, but can yield a much stronger weapon which is really only good for taking out lynels in a couple hits. 
+
+## Cooking
+
+There is a ton of food you can cook in game, save farming can help you figure out what works well and what is not worth it. Some items give mulitiple points. The number of points you need get level 2 or 3 buffs varies considerably. John Austin has a great video series explaining a lot of the in depth mechanics to this game if you care to learn. In summary this is probably all you will need to know. 
+
+- Mushrooms on the great sky island are great early game heals
+- Spicy peppers on great sky island give cold resist, once you fuse a ruby to a shield and have cold pants you wont need these anymore and can use them to heal
+- Stamina shrooms and bulbs on the great sky island can save you from needing to teleport when falling with no stamina and can help you reach far away places
+- Rushrooms and frogs from great sky island give speed up (combine in groups of 5, frogs are better)
+- Apples are plentiful near the Sonapin Shrine and are good for healing once off the island
+- Bananas give attack up (found near the south east rain forest and yiga hideouts in depths) but useless with attack up armor
+- Endura carrots (found near cherry blossom trees) respawn all your stamina and then some, they won't help you get the master sword, they can be traded for horse upgrades
+- Dragon horns are the best to mix with something by far as they give a +30 min duration buff, but they are also needed for feirce diety upgrades, sell for 300 rupees, and give very strong fuse weapons
+- Sundelions from the sky islands when cooked with food give gloom heal and are needed for the final boss
+- Fireproof lizards and smotherwing butterflies near the lakes by goron give flame guard, although the rudania helm and flame guard armor is much easier to get
+- Amiibo give tons of fish that can be cooked for all kinds of stat boosts. You can buy cloned amiibo off etsy and can save and modify the date on your switch to farm all the items in a few hours. 
+
+
 
