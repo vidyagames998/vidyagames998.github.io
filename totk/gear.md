@@ -75,7 +75,7 @@ Most weapons in the game only last for 20-40 swings. Hitting the air does damage
 - Construct: Mayam shrine, rotate and launch to boss, pull off green part with ultra, hold Y spin attack green part with naydra horn
   - Use rocket platform to bring crystal back to mayam
 - Molduga: Eldin Canyon -> SE -> Wing -> Siwakama Shrine S by Chasm -> fly south east to the rock and molduga should spawn
-  - Equip phantom, shoot arrows at ground to bait boss, shoot triple shot bomb arrows to stun boss, run out and hold y to charge swing naydra sword, run back to rock, repeat
+  - Equip phantom, shoot arrows at ground to bait boss, shoot triple shot bomb arrows to stun boss, run out and hold y to charge swing naydra sword on belly, run back to rock, repeat
 
 - Hinox: From ishodag shrine, NW to bridge, sneak up and hold y with naydra sword, shoot in eye to stun
 - Hinox2: From lindors brow, W to runakit shrine by chasm, NW sneak up and hold Y with naydra sword, shoot in eye to stun
