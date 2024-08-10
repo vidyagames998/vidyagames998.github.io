@@ -113,6 +113,8 @@ We are going to farm the rare stone battle taluses. While the diamond, ruby, top
 - These respawn every blood moon
 - Dropped items sell for lots of money
 
+This can be done much faster after robbies questline when you can fast travel anywhere.
+
 ## Arrows
 
 Boxes can be ultrahanded, rotated, and dropped on the ground to get more arrows. You can also buy them from vendors. 
