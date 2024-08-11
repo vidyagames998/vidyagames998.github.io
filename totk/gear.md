@@ -168,7 +168,7 @@ There is a ton of food you can cook in game, save farming can help you figure ou
 - Amiibo give tons of fish that can be cooked for all kinds of stat boosts. You can buy cloned amiibo off etsy and can save and modify the date on your switch to farm all the items in a few hours. 
 
 ## Glitches
-Depending on how updated your game is there are many ways to duplicate items, food, weapons, and upgrade materials. All of which can save you literal days of grinding. It feels cheap, it's not in the spirit of the game and the glitches that work on the game with the latest patches are not the easiest to do. The current working methods are complex and not nearly as easy to pull off. If you want to learn more you can do so here: https://www.youtube.com/watch?v=atx72hKDDNY
+Depending on how updated your game is there are many ways to duplicate items, food, weapons, and upgrade materials. All of which can save you literal days of grinding. It feels cheap, it's not in the spirit of the game and the glitches that work on the game with the latest patches are not the easiest to do. I don't recommend them. The current working methods are complex and not nearly as easy to pull off. If you want to learn more you can do so here: https://www.youtube.com/watch?v=atx72hKDDNY
 
 You used to be able to just shield jump in the air (zl+a), open the menu, hold items, exit the menu, fall to the ground and pick up duplicates. Speedrunners typically open the menu multiple times per jump and can turn 1 item to 23 in seconds. There was also a rupee glitch where you could get negative items and sell them to a shop keep using a horse and memories giving you max rupees in minutes. 
 
