@@ -29,3 +29,4 @@ To summarize:
 - [Fusing Explained](https://www.youtube.com/watch?v=1FOe4spSahY)
 - [Blood Moon Mechanics](https://www.youtube.com/watch?v=TxQPZfWTrJY)
 - [Divine Helms](https://www.youtube.com/watch?v=TOI6UAL81Sc)
+- [All 9 Labyrinths](https://www.youtube.com/watch?v=b3e5XDKecBo)
