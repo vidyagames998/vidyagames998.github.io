@@ -18,4 +18,5 @@ If the text isn't enough at times I also made [videos that play at 4x and skip l
 - [Hyrule Castle](hyrule.md)
 - [Spirit Temple](spirit.md)
 - [Upgrading Armor](dragon.md)
+- [Optional](optional.md) 
 - [Final Dungeon](final.md)
