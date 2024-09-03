@@ -30,3 +30,4 @@ To summarize:
 - [Blood Moon Mechanics](https://www.youtube.com/watch?v=TxQPZfWTrJY)
 - [Divine Helms](https://www.youtube.com/watch?v=TOI6UAL81Sc)
 - [All 9 Labyrinths](https://www.youtube.com/watch?v=b3e5XDKecBo)
+- [All 6 monster medals](https://www.youtube.com/watch?v=l-AX5g-0w7U)
