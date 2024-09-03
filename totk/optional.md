@@ -25,3 +25,6 @@ To summarize:
 - [All Legendary Weapons](https://www.youtube.com/watch?v=XoiUYd5vEC4)
 - [How to 100%](https://www.youtube.com/watch?v=wvL0YnIjyCU)
 - [Lynel Hunting](https://www.youtube.com/watch?v=hb3eoYXi8Ao)
+- [Buffs Explained](https://www.youtube.com/watch?v=Ayy-vpqJK_w)
+- [Fusing Explained](https://www.youtube.com/watch?v=1FOe4spSahY)
+- [Blood Moon Mechanics](https://www.youtube.com/watch?v=TxQPZfWTrJY)
