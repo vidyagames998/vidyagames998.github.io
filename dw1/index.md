@@ -318,7 +318,7 @@ Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winnin
 
 ![](images/MetalGreymon.gif)
 
-Greymon can evolve into Metal Greymon with <=10 care mistakes, 60 weight, and 95 discipline. While much easier to evolve the strongest move you will have access to until the last bosses of the game will be Megaton Punch. You may wish to do option 1 and then overfeed and scold to evolve around day 11. 
+Greymon can evolve into Metal Greymon with <=10 care mistakes, 60 weight, and 95 discipline. While much easier to evolve the strongest move you will have access to until the last bosses of the game will be Megaton Punch (9%). You may wish to do option 1 and then overfeed and scold to evolve around day 11. 
 
 ### Option 3
 
