@@ -47,11 +47,7 @@ Agumon is honestly a much better choice for a beginner to the game.
 
 2. Gabumon has a much weaker starting attack. Sonic jab does much less damage and does not interrupt other attacks causing you to take much more damage. Because of this you will need to fight about 8 extra battles to learn new moves. 
 
-### Tangent
-
 Starting with Gabumon for the first time and playing blind without resources was like playing this game on an extra hard difficulty. 
-
-You will struggle more and spend a lot more time investing in each digimon and therefore grow a stronger emotional connection. Perhaps that's the intent behind why they ask this question. Reflecting back as a kid it was fairly traumatizing the first time my digimon died. Instead of being an escape from reality, this game does a great job of demonstrating the certainties in life. It's in your face, you eat, you sleep, you poop, you get tired, you make friends, you help them grow, you go on adventures, you make mistakes, you learn, you have fun it's exciting, you better communities, but every decision you make has an effect. Like a good pixar film, this got better as I aged. I've never seen a game like it.
 
 ## Lay of the Land
 After getting sucked into the digital world. Go back inside into Jijimons house. Talk to Tokomon, the white digimon for a set of free items. Then talk to the red giant gameboy on the bottom left to save the game.
