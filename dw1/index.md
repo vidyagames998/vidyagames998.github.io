@@ -248,7 +248,7 @@ RNG Manipulation Order:
 
 Once you beat this head E, head NE carefully walking between the enemies, then exit NW to freezeland. 
 
-N, N (go up slow here and run down then around to avoid battle), N, NE, later on Birdramon drops you off here if you were to fly in, SE, SE, E, and you are at curling area.
+N, N (go up slow here and run down then around to avoid battle), N, NE, later on Birdramon drops you off here if you were to fly in, SE, SE, E, and you are at the curling area.
 
 Recruit penguinmon by winning.
 
