@@ -504,7 +504,7 @@ From town, head south west to mountain pass, take the north west path through th
 
 ### Vademon
 At 40 Prosperity, talk to circle in Mount Panoroama in field before Mamemon
-Go to bulletin board in town next to arena and read shellmans message
+At 45 Prosperity, go to bulletin board in town next to arena and read shellmans message
 Return
 
 ### Seadramon Fishing
