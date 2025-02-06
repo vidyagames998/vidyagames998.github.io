@@ -106,11 +106,11 @@ In order to start preparing our Agumon/Gabumon so we can evolve into Greymon/Gar
 
 Gabumon starts with 700hp, 700mp, 70 off, 80 def, 60 speed, 70 brains, 50 discipline, and 50 happiness.
 
-![](images/gabumon.gif) -> ![](images/garurumon.gif)
+![](images/Gabumon.gif) -> ![](images/Garurumon.gif)
 
 Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipline, and 50 happiness
 
-![](images/agumon.gif) -> ![](images/greymon.gif)
+![](images/Agumon.gif) -> ![](images/Greymon.gif)
 
 What we evolve into depends on Time, Current Stats, Weight, Care Mistakes, and having a single Bonus Condition. 
 
