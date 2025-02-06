@@ -562,7 +562,7 @@ You need a virus type digimon to enter the Mansion like the champion Bakemon or 
 Fly to freezeland, go N, go SW, fight, return in 24hours, fight again. No heals allowed for the second fight, but 1/2 health. Normal health if you don't meet him in 24 hours. 
 
 ### Mamemon
-From town, head south west to mountain pass, take the north west path through the mountain, go northeast until you are at the peak. Exit and enter there, there's a 1/32 you won't hear or see the 3 brown bears. It'll just be 1 mamemon. If mamemon gets time to buff it'll be a very long fight requiring lots of medium heals. 
+From town, head south west to mountain pass, take the north west path through the mountain, go northeast until you are at the peak. Exit and enter there, there's a 1/32 you won't hear or see the 3 brown bears. It'll just be 1 mamemon. This can be [RNG manipulated](https://www.youtube.com/watch?v=8DI84vwqMpg). If mamemon gets time to buff it'll be a very long fight requiring lots of medium heals. 
 
 ### Vademon
 At 40 Prosperity, talk to circle in Mount Panoroama in field before Mamemon
