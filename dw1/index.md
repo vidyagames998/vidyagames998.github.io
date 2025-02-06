@@ -117,7 +117,11 @@ If you scold after pooping on the ground or refusing to eat something BEFORE mov
 
 Happiness/Discipline: 
 
-The graphics for happiness and discipline are super confusing. Glasses with all blue is 100 Discipline. Smiling all blue is 100 Happiness. Happiness is -100 to 100. Where Discipline is 0 to 100. Full pink bars are half way in their ranges. Both impact what you could evolve into. Happiness impacts how long your digimon will live. Discipline will affect how much time you have to take care of a status condition. 
+The graphics for happiness and discipline are super confusing. Yellow Glasses with all blue is 100 Discipline. Smiling all blue is 100 Happiness. Happiness is -100 to 100. Where Discipline is 0 to 100. Full pink bars are half way in their ranges. Both impact what you could evolve into. Happiness impacts how long your digimon will live. Discipline will affect how much time you have to take care of a status condition. 
+
+![](images/discipline.jpg)
+
+![](images/happiness.jpg)
 
 Tamer Level:
 
@@ -135,11 +139,11 @@ There are a lot of ways to play this game. Each digimon can evolve into quite a 
 
 In order to start preparing our Agumon/Gabumon so we can evolve into Greymon/Garurumon let's take a look at our stats. 
 
-Gabumon starts with 700hp, 700mp, 70 off, 80 def, 60 speed, 70 brains, 50 discipline, and 75 happiness.
+Gabumon starts with 700hp, 700mp, 70 off, 80 def, 60 speed, 70 brains, 50 discipline, and 75 (-100 to 100) happiness.
 
 ![](images/Gabumon.gif) -> ![](images/Garurumon.gif)
 
-Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipline, and 75 happiness
+Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipline, and 75 (-100 to 100) happiness.
 
 ![](images/Agumon.gif) -> ![](images/Greymon.gif)
 
