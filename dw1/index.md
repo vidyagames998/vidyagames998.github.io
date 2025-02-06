@@ -605,7 +605,7 @@ Grab the moldy meat we saved at the bank from the ancient dino region then fly t
 
 Feed the moldy meat to make your digimon sick, head SW and shortly frigimon will take you in, then autopilot back
 
-Train only HP repeatedly, don't stop to feed or poop, but do rest when tired, we should evolve to Koromon, Train only HP again then on the next day and we evolve to Agumon, do this for 4 another more days. Be careful not to turn into Sukamon. We want 5> care mistakes, <15 weight, and very high hp. This guarantees no champion so we get numemon. Don't worry you won't die from starvation. I eventually evolved at 6.2k hp. 
+Train only HP repeatedly, don't stop to feed or poop, but do rest when tired, we should evolve to Koromon, Train only HP again then on the next day and we evolve to Agumon, do this for 4 another more days. Be careful not to turn into Sukamon. We want 5> care mistakes, <15 weight, and very high hp. This guarantees no champion so we get numemon. Don't worry you won't die from starvation. I eventually evolved at 6.2k hp. You can play with the calculator if you want to try different stats. 
 
 Eat all the poop on the ground to clean up the mess
 
