@@ -73,7 +73,7 @@ Training: The gym has a tree to train offense, a rock to train hp, a punching gl
 
 ![](images/gym.jpg)
 
-Hunger: Each training increases how hungry you are. Make sure to feed until FULL before any trainings to avoid care mistakes. As you add food it changes your digimons weight, how often you need to go poop, happiness, discipline, and tiredness.
+Hunger: Each training increases how hungry you are. Make sure to feed until FULL before any trainings to avoid care mistakes. As you add food it can change your digimons weight, how often you need to go poop, happiness, discipline, and tiredness.
 
 ![](images/meat.jpg)
 
