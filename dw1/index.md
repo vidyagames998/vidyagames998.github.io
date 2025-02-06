@@ -546,7 +546,9 @@ Numemon, Giromon and Andromon:
 
 ### Nanimon
 Each place you visit increases how many items you can carry
-* Return to these locations:
+
+Return to these locations:
+
 * Speedy Dino Region, where Meteormon was
 * Ogre Fortress last room 
 * Toy Town last room after Monzaemon
