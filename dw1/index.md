@@ -17,6 +17,7 @@ I've compiled a list of references for this game that made this all possible
 | [Evolution Stat Gain Calculator](https://www.phoenix-staffel.de/digimon/DigimonWorld/statsgain.html) | A calculator to help you figure out how much your stats will increase on evolution |
 | [Digivolution Guide](https://anaiadnamedlaura.tumblr.com/digivolution) | A visual website to see what you can evolve into |
 | [Item Spawns](https://fliegenfuerst.github.io/dw1/items/) | A list of items, where they are found, and how often | 
+| [Strategy Guide](https://archive.org/details/DigimonWorldGuide) | Original Official Prima Games Strategy Guide | 
 
 I created a route. If you are ever stuck you can kill your existing digimon 3 times in a row in battle and start over. Select the Green egg and train Defense/Speed/Brain for Gabumon or train Offense/HP/MP for Agumon. 
 
