@@ -356,7 +356,7 @@ to:
 
 This felt like a good stopping point.
 
-I started heading towards the drill tunnel to recruit Meramon. My Gerurumon got a flower, and started gaining happiness back. I guess he's happy he's not being abused anymore. This occurs when you have negative happiness and your stats will be constantly being reduced until happiness stabilizes again. 
+I started heading towards the drill tunnel to recruit Meramon. My Gerurumon got a flower, and started gaining happiness back. I guess he's happy he's not being abused anymore. This occurs when you have negative happiness and your stats will be constantly reduced until happiness stabilizes again. 
 
 Greymon: Teach only Magma Bomb to speed up the fight
 
