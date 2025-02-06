@@ -116,7 +116,7 @@ Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipl
 What we evolve into depends on Time, Current Stats, Weight, Care Mistakes, and having a single Bonus Condition. 
 
 * Time: 72 hours must pass before a rookie digimon can become a champion
-* Current Stats: Garurumon requires both 1000 mp and 100 Speed while keeping brains as low as possible to avoid other evolutions. Greymon requires 100 offensive, 100 defense, 100 speed, and 100 brain. Keeping brain the lowest of the 4 stats to avoid other evolutions.
+* Current Stats: Thanks to the calculator referenced above we know Garurumon requires both 1000 mp and 100 Speed while keeping brains as low as possible to avoid other evolutions. Greymon requires 100 offensive, 100 defense, 100 speed, and 100 brain. Keeping brain the lowest of the 4 stats to avoid other evolutions.
 * Weight: Both require your weight to be 25-35. We are currently at 15, we just need to add 10, and not overfeed.
 * Care Mistakes: Both have the same <=1
 * Bonus Condition: Both have the same >=90 discipline
