@@ -298,7 +298,7 @@ In 144hrs or 6 days you have the option of evolving to an Ultimate digimon.
 
 ![](images/fork.JPG)
 
-###Option 1 
+### Option 1 
 
 ![](images/greymon.gif) ![](images/garurumon.gif)
 
@@ -308,7 +308,7 @@ Greymon can learn Megalo Spark from Soulmon's in Overdell cemetery (8%) and he c
 
 Garurumon already knows Megaton Punch from Gabumon and can learn Ice Statue from the Ice Devimon's in Freezeland (10%). 
 
-###Option 2 
+### Option 2 
 Pursue the probably intended ultimate evolution for your digimon. 
 
 ![](images/MegaSeadramon.gif)
@@ -319,7 +319,8 @@ Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winnin
 
 Greymon can evolve into Metal Greymon with <=10 care mistakes, 60 weight, and 95 discipline. While much easier to evolve the strongest move you will have access to until the last bosses of the game will be Megaton Punch. You may wish to do option 1 and then overfeed and scold to evolve around day 11. 
 
-###Option 3
+### Option 3
+
 ![](images/SkullGreymon.gif)
 
 Greymon and Garurumon can both evolve into Skull Greymon if we maintain 25-35g weight, make 10 care mistakes, and fight 40 battles. Care mistakes can be easily achieved by repeatedly training and ignoring maintenance. Weight can be easily achieved by overfeeding. Learning strong moves and defeating 40 betamon in battle takes a fair amount of real life time (in game time is paused during battles). As Garurumon you will want to grind Ice Devimon battles until you learn Ice Statue (15%). As Greymon you will not have a strong move for the ultimate and will be limited to Megaton Punch from JMoyjmon (21%) at night in the tropical forest once evolved. Once those battles are out of the way you can farm the rest of the battles using Betamon outside the hospital in about a day.
