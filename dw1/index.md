@@ -378,7 +378,7 @@ Spinning Shot from Tsukaimon at night in the Tropical Forest (10%).
 
 I would stick with Megalo Spark for most the game. 
 
-If you want to fix happiness to extend life, go south of kunemon's bed, exit and enter a bunch until you get a happyshroom. It will take 3 happy shrooms. 
+If you want to fix happiness to extend life, go south of kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). It will take 3 happy shrooms. 
 
 Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You only need two and it also adds 20 hrs to your digimons life. Thanks to the item finder referenced above we know these normally only have a 1% spawn rate and can only occur on a single screen. 
 
