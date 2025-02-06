@@ -511,7 +511,7 @@ From here I would autopilot home.
 
 Talk to Jijimon, with 15 prosperity a Greymon abushes you, win and he opens the arena. You can autopilot out of Jijimon's house to avoid this fight and buy items if needed.
 
-After we have Monochromon we can buy Protections in the item shop at night. In the Tropical Forest where Coelomon dropped us off there is a 1/32 chance you'll see a Piximon. Bring a protection and use it at the start of the fight. Piximon is very strong, but when you kill it, everytime you enter the shop there's a 1/10 chance Piximon will be in the item shop selling a book for 50k bits that when in your inventory gives you 10% better stat leveling at the gym.
+After we have Monochromon we can buy Protections in the item shop at night. In the Tropical Forest where Coelomon dropped us off there is a 1/32 chance you'll see a Piximon. This can be [RNG manipulated](https://www.youtube.com/watch?v=iApkUgBM-c4) Bring a protection and use it at the start of the fight. Piximon is very strong, but when you kill it, everytime you enter the shop there's a 1/10 chance Piximon will be in the item shop selling a book for 50k bits that when in your inventory gives you 10% better stat leveling at the gym.
 
 After the battle head east from here, north, north and we're back in the ancient dino region. 
 
