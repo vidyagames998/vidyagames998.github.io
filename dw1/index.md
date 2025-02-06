@@ -294,6 +294,8 @@ Greymon after evolution:
 
 1537 hp, 1107 mp, 176 offense, 154 defense, 157 speed, 152 brains
 
+There's a fancy calculator above you can use to help you determine what these will be. 
+
 At this point in the game you need to make a decision on how you want to play. 
 
 In 144hrs or 6 days you have the option of evolving to an Ultimate digimon. 
