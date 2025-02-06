@@ -81,7 +81,7 @@ Pooping: As you eat more you need to go to the bathroom more. Don't train when n
 
 ![](images/poop.jpg)
 
-Tiredness: Eventually you'll find each training makes you more tired. Going to Jijimon's house and talking to the red digimon Punimon lets you test for an hour lowering tiredness. Until the Hospital is unlocked it is best go to here. You can rest twice back to back to reduce the tiredness level even further. Don't rest when hungry or needing to poop. Resting is not the same as sleeping. Tiredness also goes away when you put your digimon to sleep during their sleep window. I don't sleep when needing to eat or poop. Although I read it may not affect care mistakes. Every 10 min you are tired causes you to lose weight.
+Tiredness: Eventually you'll find each training makes you more tired. Going to Jijimon's house and talking to the red digimon Punimon lets you test for an hour lowering tiredness. Until the Hospital is unlocked it is best go to here. You can rest twice back to back to reduce the tiredness level even further. Don't rest when hungry or needing to poop. Resting is not the same as sleeping. Tiredness also goes away when you put your digimon to sleep during their sleep window, this is not a care mistake. I don't sleep when needing to eat or poop. Although I read it may not affect care mistakes. Every 10 min you are tired causes you to lose weight.
 
 ![](images/tired.jpg)
 
