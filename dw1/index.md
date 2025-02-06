@@ -1,4 +1,4 @@
-# Digimon World PSX
+# Digimon World PSX Walkthrough
 
 Digimon is an open world game for the original playstation and came out in 1999. While lesser known to the franchise Pokemon, Digimon had a huge following. The goal of the game was to explore a digital world and recruit as many digital monster back a city. As you progresed the game the city grew, eventually enough monsters are recruited and a final dungeon opened with a final boss waiting for you. The game has almost no direction on where to go and a ton of hidden mechanics. As a kid I struggled through this game even with excessive gameshark usage. Now I'm older, I wanted to go back and figure out how the game worked. What started off as notes reliving my childhood, it turned into an entire guide on how to beat it. 
 
