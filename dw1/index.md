@@ -111,7 +111,7 @@ If you scold after pooping on the ground or refusing to eat something BEFORE mov
 
 Happiness/Discipline: 
 
-The graphics for happiness and discipline are super confusing. Glasses with all blue is 100 Discipline. Smiling all blue is 100 Happiness. Happiness is -100 to 100. Where Discipline is 0 to 100. Full pink bars are half way in their ranges. 
+The graphics for happiness and discipline are super confusing. Glasses with all blue is 100 Discipline. Smiling all blue is 100 Happiness. Happiness is -100 to 100. Where Discipline is 0 to 100. Full pink bars are half way in their ranges. Both impact what you could evolve into. Happiness impacts how long your digimon will live. Discipline will affect how much time you have to take care of a status conditions. 
 
 Tamer Level:
 
@@ -146,16 +146,16 @@ Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipl
 What we evolve into depends on Time, Current Stats, Weight, Care Mistakes, and having a single Bonus Condition. 
 
 * Time: 72 hours must pass before a rookie digimon can become a champion
-* Current Stats: Thanks to the calculator referenced above we know Garurumon requires both 1000 mp and 100 Speed while keeping brains as low as possible to avoid other evolutions. Greymon requires 100 offensive, 100 defense, 100 speed, and 100 brain. Keeping brain the lowest of the 4 stats to avoid other evolutions.
+* Current Stats: Thanks to the calculator referenced above we know Garurumon requires both 1000 mp and 100 Speed while keeping brains as low as possible to avoid other evolutions. Greymon requires 100 offensive, 100 defense, 100 speed, and 100 brain. Keeping brain the lowest of the 4 stats to avoid other evolutions. 
 * Weight: Both require your weight to be 25-35. We are currently at 15, we just need to add 10, and not overfeed.
 * Care Mistakes: Both have the same <=1
 * Bonus Condition: Both have the same >=90 discipline
 
 If you accidentally make a mistake, the 90% discipline bonus condition is very easy to get and I would encourage you still do this to guarantee proper evolutions even if you have the proper stats and believe you did everything right. When you have plenty of recovery floppies, you can simply attempt to feed a recovery floppy, when it refuses, scold, move, and repeat. This will burn a few floppies and stop working with higher discipline. When this happens, just scold without attempting to feed.
 
-To follow the guide, don't do any extra leveling or you may get different digimon.
+To follow the guide, don't do any extra leveling or you may get a different digimon.
 
-Training this way should get us our desired evolutions
+Training this specific way should get us our desired evolutions
 
 Agumon:
 
@@ -170,6 +170,8 @@ Gabumon:
 - 4 mp (waterfall)
 - 2 hp (rock)
 - 4 speed (track)
+
+While seemingly intuitive these hidden mechanics have a lot of corner cases and wreck a lot of new players expecting one thing to happen and then when it inevitably doesn't it leaves you wondering why. I'll explain more mechanics as we go and they come up.
 
 ## Early Game
 
