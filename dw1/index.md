@@ -553,13 +553,15 @@ Numemon, Giromon and Andromon:
 * Head back to giromon, bait yellow numemon from top exit E, NE, W
 
 ### Nanimon
-Return to these locations:
+Return to these locations in any order:
 
-* Ogre Fortress last room, after recruiting shellmon. Item increases inventory space.
+* Ogre Fortress last room, after recruiting shellmon. 
 * Speedy Dino Region, where Meteormon was, after recruiting Meteormon
 * Drill cave Leomon statue, after recruiting Leomon
 * Toy Town last room, after recruiting Monzaemon
-* Factorial Town sewers where we got numemon after Giromon quest. Item increases inventory space.
+* Factorial Town sewers where we got numemon after Giromon quest.
+
+On the first and last encounter you will get an item that increases inventory space.
 
 ### Mojyamon
 * Buy Super Carrot from Veggiemon meat farm
