@@ -91,6 +91,14 @@ Sleepiness: Every digimon has a wake window and a set sleeping window. You can t
 
 ![](images/sleep.jpg)
 
+Sickness: If this happens go to the hospital or use a medicine. Happens when a digimon is in the wrong environment for too long or eats a moldy meat. 
+
+![](images/sick.jpg)
+
+Injured: If this happens go to the hospital or use a bandage. Based on battling with low tiredness hp and mp. 
+
+![](images/injured.jpg)
+
 Praising: Using the menu option praise increases happiness but decreases discipline.
 
 Scolding: Using the menu option scolding decreases happiness but increases discipline. 
