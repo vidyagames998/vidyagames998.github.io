@@ -301,7 +301,7 @@ In 144hrs or 6 days you have the option of evolving to an Ultimate digimon.
 
 ### Option 1 
 
-![](images/greymon.gif) ![](images/garurumon.gif)
+![](images/Greymon.gif) ![](images/Garurumon.gif)
 
 If you want a more casual gameplay you can choose NOT to evolve to an ultimate. Train at the gym to get stronger and then explore the map. The downsides being you will be weaker and your digimon will die around day 12. 
 
