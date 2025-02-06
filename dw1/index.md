@@ -419,23 +419,30 @@ I would stick with Megalo Spark for most the game.
 
 ### Fixing happiness
 
-If you want to fix happiness to extend your digimons life the simple way is to just praise 67 times (3 per time) until it gets maxed out, which will set discipline to zero. This will also have a side effect of making your digimon hard to maintain by having much less time to fix conditions. 
+The easiest of the options is to accept they are unhappy and they will die a few days sooner. 
 
-To fix this you can do:
+Your digimons happiness is going to change as you play the game:
+
+- Feed various foods, giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6
+- Spending time in places your digimon likes (Greymon likes the Drill Cave, Garurumon likes Freezeland)
+- Trade stats for happiness push happiness very negative and then go some place they like
+
+If you can't accept that. Then you can just praise 67 times (3 per time) until it gets maxed out, which will set discipline to zero. This will have a side effect of making your digimon hard to maintain by having much less time to fix conditions. 
+
+To fix discipline you can do:
 
 - 13 reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. You only need 44 praises then instead of 67.
 - Farm [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) which have a 4% drop percentage, each adding 50 discipline, so you only need 2. They can be RNG manipulated by sleeping, saving, and resetting on the Birdraman Freezeland drop off screen.
-- Feed various foods
 
 You could also go the item route to fix happiness first, but it is not recommended as it takes a lot more work.
 
-Giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6, happymushrooms add 30, and chain melons add 50.
+From random item spawns, happymushrooms add 30, and chain melons add 50.
 
 [Happy Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Happymushrm) are probably the easiest to get. Go to kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). Feed these outside the hospital in case it causes your digimon to get sick. Save and then eat these. It will take 7 happy shrooms to go from -100 -> 100.  
 
 Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You need four but it also adds 20 hrs each to your digimons life. 
 
-Digimon life can also be increased by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
+Your digimon's life can also be increased by fishing to convert Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
 
 ### Ice Sanctuary
 
