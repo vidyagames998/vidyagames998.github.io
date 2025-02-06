@@ -23,12 +23,15 @@ I've compiled a list of references for this game that made this all possible
 I created a route. If you are ever stuck you can kill your existing digimon 3 times in a row in battle and start over. Select the Green egg and train Defense/Speed/Brain for Gabumon or train Offense/HP/MP for Agumon. 
 
 ## Table of Contents
-[Pre Game](#pre)
-[Early Game](#early)
-[Mid Game](#mid)
-[Other](#digimon)
+[Pre Game](#pre-game)
+[Lay of the Land](#lay-of-the-land)
+[Early Game](#early-game)
+[Mid Game](#mid-game)
+[End Game](#end-game)
+[Evolutions Complete](#evolutions-complete)
+[Other Recruitable  Digimon](#other-recruitable-digimon)
 
-## Pre Game {#pre}
+## Pre Game
 
 Out of the gate you'll be asked some ambigous questions that have implications of which digimon you start with. 
 
@@ -185,7 +188,7 @@ Gabumon:
 
 While seemingly intuitive these hidden mechanics have a lot of corner cases and wreck a lot of new players expecting one thing to happen and then when it inevitably doesn't it leaves you wondering why. I'll explain more mechanics as we go and they come up.
 
-## Early Game  {#early}
+## Early Game
 
 To finally start the game train:
 
