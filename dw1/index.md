@@ -71,7 +71,7 @@ STOP and pause the game.
 
 Don't do any training for now and let me explain how they work.
 
-Training: The gym has a tree to train offense, a rock to train hp, a punching glove to train defense, a track to train speed, a waterfall to train mp, and a chalkboard to train brains. If you train at any of these stations it'll make two of your stats stronger, the primary by 7-8 and a secondary 2. The only secondary you really need to keep in mind occurs when you are training defense as you are also increasing brains. When you do train stick to non bonus training as although it looks like a game of skill its impossible to win unless RNG manipulated. Each training greatly impacts your needs to respond to prevent care mistakes.
+Training: The gym has a tree to train offense, a rock to train hp, a punching glove to train defense, a track to train speed, a waterfall to train mp, and a chalkboard to train brains. If you train at any of these stations it'll make both a primary and secondary stat stronger. The only secondary you really need to keep in mind occurs when you are training defense as you are also increasing brains. When you do train stick to non bonus training as although it looks like a game of skill its impossible to win unless RNG manipulated. Each training greatly impacts your needs to respond to prevent care mistakes. As you evolve you get better gains from training. In the late game there are also digimon you can recruit and a book you can buy that increase this further.
 
 ![](images/gym.jpg)
 
