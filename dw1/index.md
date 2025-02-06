@@ -328,9 +328,9 @@ Greymon and Garurumon can both evolve into Skull Greymon if we maintain 25-35g w
 
 ## Mid Game
 
-They each have their own merits. For the rest of the guide I'm going to do Option 3. 
+They each have their own merits. For the rest of the guide I'm going to do Option 3, where you go is mostly the same no matter what option you go with.
 
-Which requires being more than a little cruel.
+Option 3 requires being more than a little cruel.
 
 The easiest way to get the 10 care mistakes is to keep training back to back, don't stop to eat, sleep, or poop, but do rest when needed otherwise you might lose some gained stats.
 
