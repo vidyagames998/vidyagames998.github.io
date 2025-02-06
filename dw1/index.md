@@ -403,6 +403,8 @@ Head SE and trade floppies for disks, sell, autopilot, buy more floppies, fly ou
 
 You now have all the money you'll ever need to stock up on everything.
 
+### Learning techniques
+
 As Garurumon: Before we farm battles to evolve we should learn Ice Statue.
 Fly to freezeland (hold left), run to the bottom and fight the ice devimon
 You want to fight them one by one. There's a 10% chance to use and 15% chance to learn.
@@ -415,11 +417,15 @@ Spinning Shot from Tsukaimon at night in the Tropical Forest (10%).
 
 I would stick with Megalo Spark for most the game. 
 
-If you want to fix happiness to extend life the simple way is to just praise until it gets maxed out, which will set discipline to zero. This will make your digimon hard to maintain. 
+### Fixing happiness
 
-To fix this: [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) have a 4% drop percentage, each add 50 discipline. 
+If you want to fix happiness to extend your digimons life the simple way is to just praise until it gets maxed out, which will set discipline to zero. This will have a side effect of making your digimon hard to maintain by having much less time to fix conditions. 
 
-Going the item route to fix happiness first is not recommended as it takes a lot more.
+The easy way to fix this side effect is to do reasonable scolding. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. 
+
+Another way is to farm [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) which have a 4% drop percentage, each adding 50 discipline, so you only need 2. They can be RNG manipulated by sleeping and saving on the Birdraman Freezeland drop off screen. 
+
+You could also go the item route to fix happiness first, but it is not recommended as it takes a lot more work.
 
 Giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6, happymushrooms add 30, and chain melons add 50.
 
@@ -427,7 +433,9 @@ Giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6, 
 
 Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You need four but it also adds 20 hrs each to your digimons life. 
 
-You can also increase life by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
+Digimon life can also be increased by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
+
+### Ice Sanctuary
 
 The next thing we should do before we evolve to Skull Greymon is we should do the Ice Sanctuary as this is only accessible to Vaccine Digimon.
 
@@ -443,9 +451,13 @@ Before this fight make sure you have Ice Statue/Megalo Spark as your only move.
 
 After the fight walk down and talk to the light, then go back to teleporter, go up and left to teleport, down to leave, Angemon stops you on the way out and joins the city, auto pilot home.
 
+### Farming 40 Battles
+
 At start of Day 9 I fed to 25 weight and 16 battles was all I had left to evolve into Skull Greymon. 
 
 Stick around the hospital to heal tiredness and farm Betamons.
+
+## Evolutions Complete
 
 On the start of Day 10 we are at 44/40 battles and at 8am we evolve.
 
@@ -454,8 +466,6 @@ Ultimate evolution puts my stats at:
 
 * If you evolved from Garurumon, teach only Ice Statue to it
 * If you evolved from Greymon go to the Tropical Forest at night and fight the JMoyjmon for your 21% chance to learn Megaton Punch and teach only that.
-
-## Evolutions Complete
 
 You only have about 5 days with this digimon, I would skip sleeping and make them count.
 
