@@ -14,6 +14,7 @@ I've compiled a list of references for this game that made this all possible
 | [World Map](https://imgur.com/d0MG5Ug) | A giant map of the Digimon World |
 | [Evolution Stats](https://digislots.fippi.io/) | A website that shows some necessary evolution stats |
 | [Evolution Calculator](https://phoenix-staffel.de/digimon/DigimonWorld/evolution.html) | A calculator to help you figure out how your current stats will effect evolutions |
+| [Evolution Stat Gain Calculator](https://www.phoenix-staffel.de/digimon/DigimonWorld/statsgain.html) | A calculator to help you figure out how much your stats will increase on evolution |
 | [Digivolution Guide](https://anaiadnamedlaura.tumblr.com/digivolution) | A visual website to see what you can evolve into |
 | [Item Spawns](https://fliegenfuerst.github.io/dw1/items/) | A list of items, where they are found, and how often | 
 
