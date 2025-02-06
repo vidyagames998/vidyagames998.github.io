@@ -453,13 +453,13 @@ After the fight walk down and talk to the light, then go back to teleporter, go 
 
 ### Farming 40 Battles
 
-At start of Day 9 I fed to 25 weight and 16 battles was all I had left to evolve into Skull Greymon. 
+At start of Day 9 I fought my remaining battles to get the tally to 40 and overfed to 25 weight to evolve into Skull Greymon. 
 
-Stick around the hospital to heal tiredness and farm Betamons.
+Stick around the hospital to heal tiredness and farm Betamons all day.
 
 ## Evolutions Complete
 
-On the start of Day 10 we are at 44/40 battles and at 8am we evolve.
+On the start of Day 10 at 8am we evolved.
 
 Ultimate evolution puts my stats at:
 4022 hp, 3475 mp, 514 offense, 419 defense, 325 speed, 282 brain
