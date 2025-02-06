@@ -415,15 +415,19 @@ Spinning Shot from Tsukaimon at night in the Tropical Forest (10%).
 
 I would stick with Megalo Spark for most the game. 
 
-If you want to fix happiness to extend life the simple way is to just praise until it gets maxed out and discipline is zero. This will make your digimon hard to maintain. 
+If you want to fix happiness to extend life the simple way is to just praise until it gets maxed out, which will set discipline to zero. This will make your digimon hard to maintain. 
 
-Instead I would recommend going south of kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). Feed these outside the hospital in case it causes your digimon to get sick. Save and then eat these. It will take 7 happy shrooms to go from -100 -> 100.  
+To fix this: [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) have a 4% drop percentage, each add 50 discipline. 
 
-Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You only need four and it also adds 20 hrs each to your digimons life. Thanks to the item finder referenced above we know these normally only have a 1% spawn rate and can only occur on a single screen. 
-
-You can also increase life by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
+Going the item route to fix happiness first is not recommended as it takes a lot more.
 
 Giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6, happymushrooms add 30, and chain melons add 50.
+
+[Happy Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Happymushrm) are probably the easiest to get. Go to kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). Feed these outside the hospital in case it causes your digimon to get sick. Save and then eat these. It will take 7 happy shrooms to go from -100 -> 100.  
+
+Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You need four but it also adds 20 hrs each to your digimons life. 
+
+You can also increase life by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
 
 The next thing we should do before we evolve to Skull Greymon is we should do the Ice Sanctuary as this is only accessible to Vaccine Digimon.
 
