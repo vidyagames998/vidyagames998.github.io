@@ -140,11 +140,11 @@ There are a lot of ways to play this game. Each digimon can evolve into quite a 
 
 In order to start preparing our Agumon/Gabumon so we can evolve into Greymon/Garurumon let's take a look at our stats. 
 
-Gabumon starts with 700hp, 700mp, 70 off, 80 def, 60 speed, 70 brains, 50 discipline, and 75 (-100 to 100) happiness.
+Gabumon starts with 700hp, 700mp, 70 off, 80 def, 60 speed, 70 brains, 50 discipline, and 50 (-100 to 100) happiness.
 
 ![](images/Gabumon.gif) -> ![](images/Garurumon.gif)
 
-Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipline, and 75 (-100 to 100) happiness.
+Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipline, and 50 (-100 to 100) happiness.
 
 ![](images/Agumon.gif) -> ![](images/Greymon.gif)
 
