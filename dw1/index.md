@@ -462,7 +462,7 @@ After the fight walk down and talk to the light, then go back to teleporter, go 
 
 ### Farming 40 Battles
 
-At start of Day 9 I fought my remaining battles to get the tally to 40 and overfed to 25 weight to evolve into Skull Greymon. 
+At start of Day 9 I fought my remaining battles to get the tally to 40 and overfed to 25 weight so we can evolve into Skull Greymon. 
 
 Stick around the hospital to heal tiredness and farm Betamons all day.
 
