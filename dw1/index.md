@@ -101,11 +101,11 @@ Injured: If this happens go to the hospital or use a bandage. Based on battling 
 
 Praising: 
 
-Using the menu option praise increases happiness but decreases discipline.
+Using the menu option praise increases happiness, but decreases discipline.
 
 Scolding: 
 
-Using the menu option scolding decreases happiness but increases discipline. 
+Using the menu option scolding decreases happiness, but increases discipline. 
 
 If you scold after pooping on the ground or refusing to eat something BEFORE moving it'll greatly increase both happpiness and discipline while allowing the item to be consumed on the next try.
 
