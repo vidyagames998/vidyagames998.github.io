@@ -87,7 +87,7 @@ Tiredness: Eventually you'll find each training makes you more tired. Going to J
 
 ![](images/tired.jpg)
 
-Sleepiness: Every digimon has a wake window and a set sleeping window. You can train as much as you want at night and it will not impact care mistakes. It's worth repeating. You can stay up late and as long as you sleep before it normally wakes up it will not cause a care mistake. Staying up all night will not negatively impact how long your digimon lives for either. To fix sleepiness use the sleep icon from the menu. When you sleep you are given the option to save your game, this is very useful if you are about to fight a fight you might lose or want to try something out.
+Sleepiness: Every digimon has a wake window and a set sleeping window. You can train as much as you want at night and it will not impact care mistakes. It's worth repeating. You can stay up late and as long as you sleep before it normally wakes up it will not cause a care mistake. Staying up all night will not negatively impact how long your digimon lives for either. To fix sleepiness use the sleep icon from the menu. When you sleep you are given the option to save your game, this is very useful if you are about to fight a fight you might lose or want to try something out. Baby digimon need more frequent sleep and have short sleep windows. 
 
 ![](images/sleep.jpg)
 
