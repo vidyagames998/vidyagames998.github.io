@@ -594,7 +594,7 @@ Go to Beetle land, N to village, W to tree, talk to the one up by the equipment,
 After Ogremon you can talk to whamon next to meat farm to go to factorial town
 
 MetalMamemon:
-* E to second screen 1/32 chance on second screen, its fastest to use N exit looking for a guard
+* E to second screen 1/32 chance on second screen, its fastest to use N exit looking for a guard. This can be [RNG manipulated](https://www.youtube.com/watch?v=hP3uQG1dMpU)
 
 Numemon, Giromon and Andromon:
 * Buy a protection from the shop
