@@ -545,7 +545,7 @@ Numemon, Giromon and Andromon:
 * Head back to giromon, bait yellow numemon from top exit E, NE, W
 
 ### Nanimon
-Each place you visits increases how many items you can carry
+Each place you visit increases how many items you can carry
 * Return to these locations:
 * Speedy Dino Region, where Meteormon was
 * Ogre Fortress last room 
