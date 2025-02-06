@@ -2,7 +2,7 @@
 
 Digimon is an open world game for the original playstation and came out in 1999. While lesser known to the franchise Pokemon, Digimon had a huge following in Japan. The goal of the game is to explore a digital world and recruit as many digital monsters as you could back to the city through friendship and fighting. As you progress the game the city grows, eventually enough monsters are recruited and a final dungeon opens with a final boss waiting for you. The lore behind why the digimon left the city to begin with was because there was another human researching the digital world that got trapped and as a way to try and escape he created a virus that infected the minds of the digimon. Digimon World was one of the first open world games. The game was made with little to no direction on where to go and utilized a ton of hidden mechanics. In a pre youtube world this was very difficult to navigate. As a kid I struggled through this game, I bought the strategy guide and it helped a lot, but even with it and excessive gameshark usage this game was extremely difficult. Now I'm older, I wanted to go back and figure out how the game worked. What started off as some notes I took reliving my childhood, eventually turned into an entire guide on how to beat this game legitimately.
 
-It has taken a while, but the mechanics of the game have been pretty well reverse engineered. It's still not perfect and lot of hidden conditions are still being discovered or are poorly understood. 
+It has taken a while, but the mechanics of the game have been pretty well reverse engineered. It's still not perfect and I think there some hidden conditions that are poorly understood. 
 
 I've compiled a list of references for this game that made this all possible
 
