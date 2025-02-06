@@ -99,6 +99,12 @@ Injured: If this happens go to the hospital or use a bandage. Based on battling 
 
 ![](images/injury.JPG)
 
+Menus: 
+
+Triangle opens the menu
+
+![](images/menu.jpg)
+
 Praising: 
 
 Using the menu option praise increases happiness, but decreases discipline.
@@ -120,12 +126,6 @@ As you evolve digimon your tamer level will increase which impacts the % of stat
 Dying: 
 
 Dying 3 times in battle will kill your digimon, decreases your tamer level, and will cause you to lose some learned moves. 
-
-Menus: 
-
-Triangle opens the menu
-
-![](images/menu.jpg)
 
 Battle Techniques: You can learn new battle techniques from either having an enemy attempt them in battle against you or training brains. The chances of you learning a move are usually pretty low. For every 50 brains stats you level there's a chance you will learn one you haven't seen yet. Digimon can only learn moves applicable to them and sometimes they can use it, but not learn it. Once a move is learned it will carry forward to all future digimon. Once learned you will also need to open the menu and teach them to your digimon manually.
 
