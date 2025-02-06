@@ -398,7 +398,7 @@ Later on you can also RNG manipulate for chain melons https://www.youtube.com/wa
 
 You can also increase life by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
 
-Giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6, happymushrooms add 30 (take them at the hospital in case you get sick), and chain melons add 50.
+Giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6, happymushrooms add 30, and chain melons add 50.
 
 The next thing we should do before we evolve to Skull Greymon is we should do the Ice Sanctuary as this is only accessible to Vaccine Digimon.
 
