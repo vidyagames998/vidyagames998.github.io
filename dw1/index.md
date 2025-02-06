@@ -427,11 +427,11 @@ Your digimons happiness is going to change as you play the game:
 - Spending time in places your digimon likes (Greymon likes the Drill Cave, Garurumon likes Freezeland)
 - Trade stats for happiness push happiness very negative and then go some place they like
 
-If you can't accept that. Then you can just praise 67 times (3 per time) until it gets maxed out, which will set discipline to zero. This will have a side effect of making your digimon hard to maintain by having much less time to fix conditions. 
+If you can't accept that. Then you can just praise until it gets maxed out, which will set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. 
 
 To fix discipline you can do:
 
-- 13 reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. You only need 44 praises then instead of 67.
+- Reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. 
 - Farm [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) which have a 4% drop percentage, each adding 50 discipline, so you only need 2. They can be RNG manipulated by sleeping, saving, and resetting on the Birdraman Freezeland drop off screen.
 
 You could also go the item route to fix happiness first, but it is not recommended as it takes a lot more work.
@@ -506,7 +506,7 @@ From here I would autopilot home.
 
 Talk to Jijimon, with 15 prosperity a Greymon abushes you, win and he opens the arena. You can autopilot out of Jijimon's house to avoid this fight and buy items if needed.
 
-After we have Monochromon we can buy Protections in the item shop at night. In the Tropical Forest where Coelomon dropped us off there is a 1/32 chance you'll see a Piximon. Bring a protection and use it at the start of the fight. Piximon is very strong, but when you kill it, everytime you enter the shop there's a 1/10 chance Piximon will be in the item shop selling a book for 50k bits that when in your inventory gives you 20% better stat leveling at the gym.
+After we have Monochromon we can buy Protections in the item shop at night. In the Tropical Forest where Coelomon dropped us off there is a 1/32 chance you'll see a Piximon. Bring a protection and use it at the start of the fight. Piximon is very strong, but when you kill it, everytime you enter the shop there's a 1/10 chance Piximon will be in the item shop selling a book for 50k bits that when in your inventory gives you 10% better stat leveling at the gym.
 
 After the battle head east from here, north, north and we're back in the ancient dino region. 
 
