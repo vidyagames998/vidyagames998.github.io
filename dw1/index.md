@@ -419,11 +419,13 @@ I would stick with Megalo Spark for most the game.
 
 ### Fixing happiness
 
-If you want to fix happiness to extend your digimons life the simple way is to just praise until it gets maxed out, which will set discipline to zero. This will have a side effect of making your digimon hard to maintain by having much less time to fix conditions. 
+If you want to fix happiness to extend your digimons life the simple way is to just praise 67 times (3 per time) until it gets maxed out, which will set discipline to zero. This will also have a side effect of making your digimon hard to maintain by having much less time to fix conditions. 
 
-The easy way to fix this side effect is to do reasonable scolding. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. 
+To fix this you can do:
 
-Another way is to farm [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) which have a 4% drop percentage, each adding 50 discipline, so you only need 2. They can be RNG manipulated by sleeping and saving on the Birdraman Freezeland drop off screen. 
+- 13 reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. You only need 44 praises then instead of 67.
+- Farm [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) which have a 4% drop percentage, each adding 50 discipline, so you only need 2. They can be RNG manipulated by sleeping, saving, and resetting on the Birdraman Freezeland drop off screen.
+- Feed various foods
 
 You could also go the item route to fix happiness first, but it is not recommended as it takes a lot more work.
 
