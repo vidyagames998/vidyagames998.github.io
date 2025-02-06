@@ -227,7 +227,7 @@ Gabumon: Head E out of town over the bridge to the tropical jungle at night. Opt
 
 Exit N from the Tropical Forest toilet, Hold Up+Left on screen load, head up to the gate guarded by two enemies. Approach from the left to draw the guy out and run in. Head up and to the left to go around the tree, then go right and talk to the ghost Bakemon. Answer yes, yes, no. Go back leaving the area HOLDING up+right to dodge the enemies, then exit east.
 
-Cross the invisible bridge. Walk into the shop on the right. Don't hold any buttons. Immediately sleep and SAVE. Monochromon's shop relies on heavy RNG. This save will allow us to save reset until we get it. The RNG logic can be easily controlled to side in our favor. To do this legit overcharge green/pink, charge normal for the rest and hope for the best, you need 3072 to win. Otherwise this RNG manipulation worked for me. Reset, reload, on load hold left and repeatedly tap X. https://www.youtube.com/watch?v=yChACY6CaGg 
+Cross the invisible bridge. Walk into the shop on the right. Don't hold any buttons. Immediately sleep and SAVE. Monochromon's shop relies on heavy RNG is liklely the hardest part of this game. This save will allow us to save reset until we get it. The RNG logic can be easily controlled to side in our favor. To do this legit overcharge green/pink, charge normal for the rest and hope for the best, you need 3072 to win. Otherwise this RNG manipulation worked for me. Reset, reload, on load hold left and repeatedly tap X. https://www.youtube.com/watch?v=yChACY6CaGg
 
 RNG Manipulation Order:
 
