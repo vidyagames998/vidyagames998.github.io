@@ -227,17 +227,17 @@ Cross the invisible bridge. Walk into the shop on the right. Don't hold any butt
 
 RNG Manipulation Order:
 
-- Gotsu-Meat: Raise-Rethink>Raise
+- Gotsu-Meat: Raise-Rethink-Raise
 - Goburi-Potty: Raise
 - Goburi-Medicine: Raise
-- Weed-Meat: Raise-Rethink>Raise
+- Weed-Meat: Raise-Rethink-Raise
 - Weed-Meat: Raise
 - Weed-Medicine: Raise 
-- Weed-Meat: Raise>Raise
+- Weed-Meat: Raise-Raise
 - HALFWAY POINT
 - Gotsu-Medicine: Regular
 - Gotsu-Medicine: Raise-Rethink-Raise
-- Weed-Potty: Regular>Raise
+- Weed-Potty: Regular-Raise
 - Mucho-Meat: Raise 
 - Goburi-Potty: Raise 
 - Goburi-Meat: Raise -> fail
