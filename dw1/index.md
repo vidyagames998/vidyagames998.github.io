@@ -117,11 +117,12 @@ If you scold after pooping on the ground or refusing to eat something BEFORE mov
 
 Happiness/Discipline: 
 
-The graphics for happiness and discipline are super confusing. Yellow Glasses with all blue is 100 Discipline. Smiling all blue is 100 Happiness. Happiness is -100 to 100. Where Discipline is 0 to 100. Full pink bars are half way in their ranges. Both impact what you could evolve into. Happiness impacts how long your digimon will live. Discipline will affect how much time you have to take care of a status condition. 
+The graphics for happiness and discipline are super confusing. Smiling all blue is 100 Happiness. Happiness is -100 to 100. Yellow Glasses with all blue is 100 Discipline.  Where Discipline is 0 to 100. Full pink bars are half way in their ranges. Both impact what you could evolve into. Happiness impacts how long your digimon will live. Discipline will affect how much time you have to take care of a status condition. 
+
+![](images/happiness.jpg)
 
 ![](images/discipline.jpg)
 
-![](images/happiness.jpg)
 
 Tamer Level:
 
