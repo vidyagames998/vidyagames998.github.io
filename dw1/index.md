@@ -417,9 +417,9 @@ I would stick with Megalo Spark for most the game.
 
 If you want to fix happiness to extend life the simple way is to just praise until it gets maxed out and discipline is zero. This will make your digimon hard to maintain. 
 
-Instead I would recommend going south of kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). Feed these outside the hospital in case it causes your digimon to get sick. Save and then eat these. It will take 3 happy shrooms to go from 0 -> 90.  
+Instead I would recommend going south of kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). Feed these outside the hospital in case it causes your digimon to get sick. Save and then eat these. It will take 7 happy shrooms to go from -100 -> 100.  
 
-Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You only need two and it also adds 20 hrs to your digimons life. Thanks to the item finder referenced above we know these normally only have a 1% spawn rate and can only occur on a single screen. 
+Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You only need four and it also adds 20 hrs each to your digimons life. Thanks to the item finder referenced above we know these normally only have a 1% spawn rate and can only occur on a single screen. 
 
 You can also increase life by converting Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
 
