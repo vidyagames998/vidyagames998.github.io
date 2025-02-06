@@ -425,11 +425,11 @@ Your digimons happiness is going to change as you play the game:
 
 - Feed various foods, giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6
 - Spending time in places your digimon likes (Greymon likes the Drill Cave, Garurumon likes Freezeland)
-- Trade stats for happiness push happiness and discipline very low and then go some place they like
+- Trade stats for happiness, push happiness and discipline very low and then go some place they like
 
 If you can't accept that. 
 
-The no item way of fixing this is by just praise until it gets maxed out, which will likely set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. However discipline can be fixed over time.
+The no item way of fixing this is by just praising until it gets maxed out, which will likely set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. However discipline can be fixed over time.
 
 Another no item way would be to do reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. Each non denied item will burn time.
 
