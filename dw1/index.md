@@ -429,7 +429,7 @@ Talk to the elecmon and get shocked 3 times to recruit him. Heal between if you 
 
 Exit east, there's a patamon with a strong wind attack, if you are not fast it will be a tough fight, fight 3 times to recruit. 
 
-Exit south, talk to Biyomon the pink bird twice, then go to the bottom right and wait there. If this doesn't work go back to the first rock and wait there multiple times until the bird arrives. 
+Exit south, talk to Biyomon the pink bird twice, then go to the bottom right and wait there. If this doesn't work wait there multiple times until the bird arrives it's RNG based.
 
 Exit north, go east go up the ramp on the toilet screen, exit north
 
