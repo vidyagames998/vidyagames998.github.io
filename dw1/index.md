@@ -18,7 +18,7 @@ I've compiled a list of references for this game that made this all possible
 | [Digivolution Guide](https://anaiadnamedlaura.tumblr.com/digivolution) | A visual website to see what you can evolve into |
 | [Item Spawns](https://fliegenfuerst.github.io/dw1/items/) | A list of items, where they are found, and how often | 
 
-I created a route. If you are ever stuck you can kill your existing digimon 3 times in a row in battle and start over. Select the Green egg and train Defense/Speed/Brain for Gabumon. Select the Green egg and train Offense/HP/MP for Agumon. 
+I created a route. If you are ever stuck you can kill your existing digimon 3 times in a row in battle and start over. Select the Green egg and train Defense/Speed/Brain for Gabumon or train Offense/HP/MP for Agumon. 
 
 ## Pre Game
 Out of the gate you'll be asked some ambigous questions that have implications of which digimon you start with. 
