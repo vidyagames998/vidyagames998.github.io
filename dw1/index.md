@@ -425,24 +425,22 @@ Your digimons happiness is going to change as you play the game:
 
 - Feed various foods, giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6
 - Spending time in places your digimon likes (Greymon likes the Drill Cave, Garurumon likes Freezeland)
-- Trade stats for happiness push happiness very negative and then go some place they like
+- Trade stats for happiness push happiness and discipline very low and then go some place they like
 
-If you can't accept that. Then you can just praise until it gets maxed out, which will set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. 
+If you can't accept that. 
 
-To fix discipline you can do:
+The no item way of fixing this is by just praise until it gets maxed out, which will likely set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. However discipline can be fixed over time.
 
-- Reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. 
-- Farm [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) which have a 4% drop percentage, each adding 50 discipline, so you only need 2. They can be RNG manipulated by sleeping, saving, and resetting on the Birdraman Freezeland drop off screen.
+Another no item way would be to do reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. Each non denied item will burn time.
 
-You could also go the item route to fix happiness first, but it is not recommended as it takes a lot more work.
+If you are willing to farm items there are other options:
 
-From random item spawns, happymushrooms add 30, and chain melons add 50.
+- [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) 4% drop, each adds 50 discipline. They can be RNG manipulated by sleeping, saving, and resetting on the Birdraman Freezeland drop off screen.
+- [Blue Apples](https://fliegenfuerst.github.io/dw1/items/#item/Blue%20apple) 4% drop, each adds 50 happiness, 0% chance of sickness, these can be [RNG manipulated](https://www.youtube.com/watch?v=9ITS-8CBpvE)
+- [Happy Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Happymushrm) They occur pretty frequently around the world, each add 30 happiness with a 30% chance of sickness.
+- [Chain Melons](https://fliegenfuerst.github.io/dw1/items/#item/Chain%20melon) It's a 1% drop in Gear Savanna, but can be [RNG manipulated]((https://www.youtube.com/watch?v=vt1j8shnMEA). Each adds 50 Happiness and 20 hrs to their life with a 5% chance of sickness.
 
-[Happy Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Happymushrm) are probably the easiest to get. Go to kunemon's bed, exit and enter a bunch until you get a happyshroom (5%). Feed these outside the hospital in case it causes your digimon to get sick. Save and then eat these. It will take 7 happy shrooms to go from -100 -> 100.  
-
-Later on you can also RNG manipulate for chain melons https://www.youtube.com/watch?v=vt1j8shnMEA You need four but it also adds 20 hrs each to your digimons life. 
-
-Your digimon's life can also be increased by fishing to convert Giant Meat to Black Trout to Digiseabass, giving 2 hours per Digiseabass consumed. https://www.youtube.com/watch?v=zatwXnL_XAw This will take a while.
+Your digimon's life can also be increased by [fishing to convert Giant Meat to Black Trout to Digiseabass](https://www.youtube.com/watch?v=zatwXnL_XAw) giving 3 hours per Digiseabass consumed. This will take a while.
 
 ### Ice Sanctuary
 
