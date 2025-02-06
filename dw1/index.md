@@ -553,15 +553,13 @@ Numemon, Giromon and Andromon:
 * Head back to giromon, bait yellow numemon from top exit E, NE, W
 
 ### Nanimon
-Each place you visit increases how many items you can carry
-
 Return to these locations:
 
-* Speedy Dino Region, where Meteormon was
-* Ogre Fortress last room 
-* Toy Town last room after Monzaemon
-* Drill cave Leomon statue
-* Factorial Town sewers where we got numemon after Giromon quest
+* Ogre Fortress last room, after recruiting shellmon. Item increases inventory space.
+* Speedy Dino Region, where Meteormon was, after recruiting Meteormon
+* Drill cave Leomon statue, after recruiting Leomon
+* Toy Town last room, after recruiting Monzaemon
+* Factorial Town sewers where we got numemon after Giromon quest. Item increases inventory space.
 
 ### Mojyamon
 * Buy Super Carrot from Veggiemon meat farm
