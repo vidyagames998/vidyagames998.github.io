@@ -447,7 +447,7 @@ If you are willing to farm items there are other options:
 - [Happy Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Happymushrm) They occur pretty frequently around the world, each add 30 happiness with a 30% chance of sickness. They can be RNG manipulated. Save at Jijimons house, exit holding Down+Right, hold Down until past item shop, hold Left til exit, on betamon screen hold Down+Left till exit, Hold Right, Hold Left, Hold Right, Hold Left, receive happy shroom.
 - [Chain Melons](https://fliegenfuerst.github.io/dw1/items/#item/Chain%20melon) It's a 1% drop in Gear Savanna, but can be [RNG manipulated]((https://www.youtube.com/watch?v=vt1j8shnMEA). Each adds 50 Happiness and 20 hrs to their life with a 5% chance of sickness.
 
-Note: Duckstation was not playing nice with RNG manipulations, ePSXE and bizhawk worked just fine.
+Note: RNG manipulations that involve walking between screens are usually BIOS dependent. You need an scph1001 playstation. A scph101, scph550x, scph750x, scph900x require different manipulations. You will have to use trial and error with an emulator to discover new ones. 
 
 Your digimon's life can also be increased by [fishing to convert Giant Meat to Black Trout to Digiseabass](https://www.youtube.com/watch?v=zatwXnL_XAw) giving 3 hours per Digiseabass consumed. This will take a while.
 
