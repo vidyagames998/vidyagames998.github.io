@@ -17,6 +17,7 @@ I've compiled a list of references for this game that made this all possible
 | [Evolution Stat Gain Calculator](https://www.phoenix-staffel.de/digimon/DigimonWorld/statsgain.html) | A calculator to help you figure out how much your stats will increase on evolution |
 | [Digivolution Guide](https://anaiadnamedlaura.tumblr.com/digivolution) | A visual website to see what you can evolve into |
 | [Item Spawns](https://fliegenfuerst.github.io/dw1/items/) | A list of items, where they are found, and how often | 
+| [Item Locations](https://www.youtube.com/watch?v=wCeo_j_eiVw) | Some of the items spawn on screens, but will be completely hidden from view, this shows you where to find all the items| 
 | [Strategy Guide](https://archive.org/details/DigimonWorldGuide) | Original Official Prima Games Strategy Guide | 
 | [Ginoshie's Recruitment Guide](https://docs.google.com/document/d/1hvXyLNj5O-BbzTpfPbOqayD1pf1-SJLnwEffiEhlEc4/edit?tab=t.0) | Guide to recruiting each digimon |
 
