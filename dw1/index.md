@@ -150,11 +150,11 @@ In order to start preparing our Agumon/Gabumon so we can evolve into Greymon/Gar
 
 Gabumon starts with 700hp, 700mp, 70 off, 80 def, 60 speed, 70 brains, 50 discipline, and 50 (-100 to 100) happiness.
 
-![](images/Gabumon.gif) ➜ ![](images/Garurumon.gif)
+![](images/Gabumon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/Garurumon.gif)
 
 Agumon starts with 800hp, 600mp, 80 off, 60 def, 70 speed, 70 brains, 50 discipline, and 50 (-100 to 100) happiness.
 
-![](images/Agumon.gif) ➜ ![](images/Greymon.gif)
+![](images/Agumon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/Greymon.gif)
 
 What we evolve into depends on Time, Current Stats, Weight, Care Mistakes, and having a single Bonus Condition. 
 
@@ -383,19 +383,20 @@ Garurumon already knows Megaton Punch from Gabumon and can learn Ice Statue from
 ### Option 2 
 Pursue the probably intended ultimate evolution for your digimon. 
 
-![](images/MegaSeadramon.gif)
+![](images/Garurumon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/MegaSeadramon.gif)
 
 Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winning 0 battles. Maintain 25-35 weight. Level only HP semi-cautiously making less than 5 care mistakes. Once evolved your stats will level out, then you can take MegaSeadramon to learn Giga Freeze from Muchomon at the bottom of the great canyon (17%). Teach that and then learn Ice Statue from Ice Devimons in Freezeland (15%). Your digimon will die around day 15 if when unhappy and you will have to start this process over again. With ice statue this digimon is very strong and the rest of the game will be very easy.
 
-![](images/MetalGreymon.gif)
+![](images/Greymon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/MetalGreymon.gif)
 
 Greymon can evolve into Metal Greymon with <=10 care mistakes, 60 weight, and 95 discipline. While much easier to evolve the strongest move you will have access to until the last bosses of the game will be Megaton Punch (9%). You may wish to do option 1 and then overfeed and scold to evolve around day 11. 
 
 ### Option 3
+![](images/Garurumon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/SkullGreymon.gif)
 
-![](images/SkullGreymon.gif)
+![](images/Greymon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/SkullGreymon.gif)
 
-Greymon and Garurumon can both evolve into Skull Greymon if we maintain 25-35g weight, make 10 care mistakes, and fight 40 battles. Care mistakes can be easily achieved by repeatedly training and ignoring maintenance. Weight can be easily achieved by overfeeding. Learning strong moves and defeating 40 betamon in battle takes a fair amount of real life time (in game time is paused during battles). As Garurumon you will want to grind Ice Devimon battles until you learn Ice Statue (15%). As Greymon you will not have a strong move for the ultimate and will be limited to Megaton Punch from JMoyjmon (21%) at night in the tropical forest once evolved. Once those battles are out of the way you can farm the rest of the battles using Betamon outside the hospital in about a day. 
+Greymon and Garurumon can both evolve into Skull Greymon if we maintain 25-35g weight, make 10 care mistakes, and fight 40 battles. Care mistakes can be easily achieved by repeatedly training and ignoring maintenance. Weight can be easily achieved by overfeeding. Learning strong moves and defeating 40 betamon in battle takes a fair amount of real life time (in game time is paused during battles). As Garurumon you will want to grind Ice Devimon battles until you learn Ice Statue (15%). As Greymon you will not have a strong move for the ultimate and will be limited to Megaton Punch from JMoyjmon (21%) at night in the tropical forest until evolved. Once the move learning battles are out of the way you can farm the rest of the 40 battles using Betamon outside the hospital in about a day. 
 
 ## Mid Game
 
