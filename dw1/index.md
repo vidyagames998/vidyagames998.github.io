@@ -268,7 +268,7 @@ Gabumon: Head E out of town over the bridge to the tropical jungle at night. Opt
 
 Exit N from the Tropical Forest toilet, Hold Up+Left on screen load, head up to the gate guarded by two enemies. Approach from the left to draw the guy out and run in. Head up and to the left to go around the tree, then go right and talk to the ghost Bakemon. Answer yes, yes, no. Go back leaving the area HOLDING up+right to dodge the enemies, then exit east.
 
-Cross the invisible bridge. Walk into the shop on the right. Don't hold any buttons. Immediately sleep and SAVE. Monochromon's shop relies on heavy RNG is liklely the hardest part of this game. This save will allow us to save reset until we get it. The RNG logic can be easily controlled to side in our favor. To do this legit overcharge green/pink, charge normal for the rest and hope for the best, you need 3072 to win. Otherwise this RNG manipulation worked for me. Reset, reload, on load hold left and repeatedly tap X. https://www.youtube.com/watch?v=yChACY6CaGg
+Cross the invisible bridge. Walk into the shop on the right. Don't hold any buttons. Immediately sleep and SAVE. Monochromon's shop relies on heavy RNG is liklely the hardest part of this game. This save will allow us to save reset until we get it. To do this legit overcharge green/pink, charge normal for the rest and hope for the best, you need 3072 to win. Don't be afraid to double rethink or double overcharge much higher. Doing a double overcharge on a couple medicine will greatly help on winning this challenge. In order to make this easier with the right hardware or bios image you can use RNG manipulation. Simply reset, reload, on load hold left and repeatedly tap X then follow the moves exactly below. https://www.youtube.com/watch?v=yChACY6CaGg
 
 RNG Manipulation SCPH5500:
 
@@ -385,7 +385,7 @@ Pursue the probably intended ultimate evolution for your digimon.
 
 ![](images/MegaSeadramon.gif)
 
-Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winning 0 battles. Maintain 25-35 weight. Level semi-cautiously making less than 5 care mistakes. Once evolved to MegaSeadramon go learn Giga Freeze from Muchomon at the bottom of the great canyon (17%). Teach that and then learn Ice Statue from Ice Devimons in Freezeland(15%). Your digimon will die around day 15 and you will have to start this process over again. 
+Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winning 0 battles. Maintain 25-35 weight. Level only HP semi-cautiously making less than 5 care mistakes. Once evolved your stats will level out, then you can take MegaSeadramon to learn Giga Freeze from Muchomon at the bottom of the great canyon (17%). Teach that and then learn Ice Statue from Ice Devimons in Freezeland (15%). Your digimon will die around day 15 if when unhappy and you will have to start this process over again. With ice statue this digimon is very strong and the rest of the game will be very easy.
 
 ![](images/MetalGreymon.gif)
 
@@ -395,7 +395,7 @@ Greymon can evolve into Metal Greymon with <=10 care mistakes, 60 weight, and 95
 
 ![](images/SkullGreymon.gif)
 
-Greymon and Garurumon can both evolve into Skull Greymon if we maintain 25-35g weight, make 10 care mistakes, and fight 40 battles. Care mistakes can be easily achieved by repeatedly training and ignoring maintenance. Weight can be easily achieved by overfeeding. Learning strong moves and defeating 40 betamon in battle takes a fair amount of real life time (in game time is paused during battles). As Garurumon you will want to grind Ice Devimon battles until you learn Ice Statue (15%). As Greymon you will not have a strong move for the ultimate and will be limited to Megaton Punch from JMoyjmon (21%) at night in the tropical forest once evolved. Once those battles are out of the way you can farm the rest of the battles using Betamon outside the hospital in about a day.
+Greymon and Garurumon can both evolve into Skull Greymon if we maintain 25-35g weight, make 10 care mistakes, and fight 40 battles. Care mistakes can be easily achieved by repeatedly training and ignoring maintenance. Weight can be easily achieved by overfeeding. Learning strong moves and defeating 40 betamon in battle takes a fair amount of real life time (in game time is paused during battles). As Garurumon you will want to grind Ice Devimon battles until you learn Ice Statue (15%). As Greymon you will not have a strong move for the ultimate and will be limited to Megaton Punch from JMoyjmon (21%) at night in the tropical forest once evolved. Once those battles are out of the way you can farm the rest of the battles using Betamon outside the hospital in about a day. 
 
 ## Mid Game
 
@@ -457,25 +457,24 @@ Your digimons happiness is going to change as you play the game:
 - Feed various foods, giant meat add nothing to happiness, Sirloin adds 3, Restaurant hot pot adds 6
 - Spending time in places your digimon likes (Greymon likes the Drill Cave, Garurumon likes Freezeland)
 - Trade stats for happiness, push happiness and discipline very low and then go some place they like
+- Over time you will use portapotties and autopilots and as they refuse you'll have the opportunity to scold to fix both happiness and discipline
 
-If you can't accept that. 
+If you can't accept your digimon will die sooner and want to fix happiness and discipline there are a number of ways.
 
-The no item way of fixing this is by just praising until it gets maxed out, which will likely set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. However discipline can be fixed over time.
+The no item way of fixing this is by just praising until happiness gets maxed out, which will likely set discipline to zero. Each praise increases is 2-12 happiness depending on your discipline level, but decreases 5 discipline. Having a low discipline will make maintaining your digimon hard, as you only have 12 seconds to address status conditions instead of 72. Granted discipline is very easy to fix over time.
 
-Another no item way would be to do reasonable scolds. Feed a floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. Each non denied item will burn time.
+Another no item way would be to do reasonable scolds. Feed a hp floppy, it refuses, scold, this adds 3 happiness and 8 discipline, move, repeat. Each non denied item will burn time. You can mix praising and reasonable scolding for a quicker fix as well. 
 
-If you are willing to farm items there are other options:
+If you are willing to spend a good portion of time farming items there are other options:
 
 - [Ice Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Ice%20mushrm) 4% drop, each adds 50 discipline. They can be RNG manipulated by sleeping, saving, and resetting on the Birdraman Freezeland drop off screen.
-- [Blue Apples](https://fliegenfuerst.github.io/dw1/items/#item/Blue%20apple) 4% drop, each adds 50 happiness, 0% chance of sickness, these can be [RNG manipulated](https://www.youtube.com/watch?v=9ITS-8CBpvE) Following he same guide you can also RNG manipulate Deluxe Mushrooms, at the Palmon screen instead of going back to the bathroom, go right. 
+- [Blue Apples](https://fliegenfuerst.github.io/dw1/items/#item/Blue%20apple) 4% drop, each adds 50 happiness, 0% chance of sickness, these can be [RNG manipulated](https://www.youtube.com/watch?v=9ITS-8CBpvE) Following the same guide you can also RNG manipulate Deluxe Mushrooms, at the Palmon screen instead of going back to the bathroom, go right. 
 - [Happy Mushrooms](https://fliegenfuerst.github.io/dw1/items/#item/Happymushrm) They occur pretty frequently around the world, each add 30 happiness with a 30% chance of sickness. They can be RNG manipulated. Save at Jijimons house, exit holding Down+Right, hold Down until past item shop, hold Left till exit, on betamon screen hold Down+Left till exit, Hold Right, Hold Left, Hold Right, Hold Left, receive happy shroom.
 - [Chain Melons](https://fliegenfuerst.github.io/dw1/items/#item/Chain%20melon) It's a 1% drop in Gear Savanna, but can be [RNG manipulated](https://www.youtube.com/watch?v=vt1j8shnMEA). Each adds 50 Happiness and 20 hrs to their life with a 5% chance of sickness.
 
-
-
 Note: RNG manipulations that involve walking between screens are usually BIOS dependent. You need an scph1001 playstation. A scph101, scph550x, scph750x, scph900x require different manipulations. You will have to use trial and error with an emulator to discover new ones. 
 
-Your digimon's life can also be increased by [fishing to convert Giant Meat to Black Trout to Digiseabass](https://www.youtube.com/watch?v=zatwXnL_XAw) giving 3 hours per Digiseabass consumed. This will take a while.
+Your digimon's life can also be increased by [fishing to convert Giant Meat to Black Trout to Digiseabass](https://www.youtube.com/watch?v=zatwXnL_XAw) giving 3 hours per Digiseabass consumed. This will take a long while.
 
 ### Ice Sanctuary
 
@@ -545,9 +544,11 @@ After the battle head east from here, north, north and we're back in the ancient
 
 Fight tyrannomon, exit west, exit north, exit north again, talk to tyrannomon and exit north
 
-Go NW (walk behind bird), go up to the very end of the skelton hallway then take a left exiting west, go North (if you dead ended you went too far down the hall), go North and fight Meteormon. 
+Go NW (walk behind bird), go up to the very end of the skelton hallway exiting north, immediately go back, hold left to exit west, go North and fight Meteormon. 
 
-Backtrack and talk to Tyrannomon, buy a moldy meat from the vending machine, then autopilot home and save the moldy meat in the bank for later.
+Backtrack and talk to Tyrannomon, buy a moldy meat from the vending machine.
+
+Head back to Meteormon and find nanimon to expand how many items you can hold, then autopilot home and save the moldy meat in the bank for later.
 
 Return to the Great Canyon and take the elevator to the basement.
 
@@ -560,7 +561,7 @@ Fly to Freezeland and head S to the curling area. Head back a screen, on the lef
 
 Go SW to drill cave and fight Ogremon with 3 Agumon one last time, autopilot back
 
-We are getting close to 50 Prosperity where you will fight a Seadramon, make sure to have a protection for this fight. When we beat Seadramon the final dungeon will open up. 
+We are getting close to 50 Prosperity where you will fight a Airdramon, make sure to have a protection for this fight. When we beat Airdramon the final dungeon will open up. 
 
 There are a number of different digimon you can recruit to get to 50 prosperity and the path you choose does not matter.  
 
