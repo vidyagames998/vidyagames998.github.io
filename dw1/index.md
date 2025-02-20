@@ -506,8 +506,8 @@ On the start of Day 10 at 8am we evolved.
 Ultimate evolution puts my stats at:
 4022 hp, 3475 mp, 514 offense, 419 defense, 325 speed, 282 brain
 
-* If you evolved from Garurumon, teach only Ice Statue to it
-* If you evolved from Greymon go to the Tropical Forest at night and fight the JMoyjmon for your 21% chance to learn Megaton Punch and teach only that.
+* If you evolved from Garurumon, teach only Ice Statue to it.
+* If you evolved from Greymon go to the Tropical Forest at night and fight the JMoyjmon for your 21% chance to learn Megaton Punch and teach only that. You can then go to Freezeland and learn Ice Statue from the Ice Devimons (8%)
 
 You only have about 5 days with this digimon, I would skip sleeping and make them count.
 
