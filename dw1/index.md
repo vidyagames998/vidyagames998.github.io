@@ -385,7 +385,7 @@ Pursue the probably intended ultimate evolution for your digimon.
 
 ![](images/Garurumon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/MegaSeadramon.gif)
 
-Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winning 0 battles. Maintain 25-35 weight. Level only HP semi-cautiously making less than 5 care mistakes. Once evolved your stats will level out, then you can take MegaSeadramon to learn Giga Freeze from Muchomon at the bottom of the great canyon (17%). Teach that and then learn Ice Statue from Ice Devimons in Freezeland (15%). Your digimon will die around day 15 if they were unhappy and you will have to start this process over again. With Ice Statue this digimon is very strong and the rest of the game will be very easy. If you go this route and praise/scold for happiness, you can beat the game without your digimon dying. 
+Garurumon can evolve into MegaSeadramon. Spend the next 6 days at the gym winning 0 battles. Maintain 25-35 weight. Level only HP semi-cautiously making less than 5 care mistakes. Once evolved your stats will level out, then you can take MegaSeadramon to learn Giga Freeze from Muchomon at the bottom of the great canyon (17%). Teach that and then learn Ice Statue from Ice Devimons in Freezeland (15%). Your digimon will die around day 15 if they were unhappy and you will have to start this process over again. With Ice Statue this digimon is very strong and the rest of the game will be very easy. If you go this route and you praise/scold for happiness, you can beat the game without your digimon dying. 
 
 ![](images/Greymon.gif) ![](https://github.com/user-attachments/assets/0eacb662-ee5b-453e-8bdd-e082875527a3) ![](images/MetalGreymon.gif)
 
