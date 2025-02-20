@@ -270,7 +270,7 @@ Exit N from the Tropical Forest toilet, Hold Up+Left on screen load, head up to 
 
 Cross the invisible bridge. Walk into the shop on the right. Don't hold any buttons. Immediately sleep and SAVE. Monochromon's shop relies on heavy RNG is liklely the hardest part of this game. This save will allow us to save reset until we get it. The RNG logic can be easily controlled to side in our favor. To do this legit overcharge green/pink, charge normal for the rest and hope for the best, you need 3072 to win. Otherwise this RNG manipulation worked for me. Reset, reload, on load hold left and repeatedly tap X. https://www.youtube.com/watch?v=yChACY6CaGg
 
-RNG Manipulation Order:
+RNG Manipulation SCPH5500:
 
 - Gotsu-Meat: Raise-Rethink-Raise
 - Goburi-Potty: Raise
@@ -291,6 +291,29 @@ RNG Manipulation Order:
 - Weed-Potty: Raise -> fail
 - Total Raised = 3080
 - Total Customers = 16
+
+RNG Manipulation SCPH1001:
+
+- Gotsumon - potty - raise fail, raise fail, raise rethink, raise 
+- Gotsumon - meat - raise rethink, raise rethink, raise rethink, raise 
+- Gotsumon - meat - raise rethink, raise 
+- Goburimon - meat - raise 
+- Goburimon - meat - raise fail, raise
+- Gotsumon - medicine - raise rethink, raise rethink, raise 
+- Gotsumon - potty - raise rethink, raise
+- Gotsumon - medicine - raise rethink, raise rethink, raise rethink, raise rethink, raise 
+- Muchomon - meat - raise rethink, raise rethink, raise rethink, raise 
+- Muchomon - medicine - raise
+- Gotsumon - potty - raise rethink, raise 
+- Weedmon - medicine - raise 
+- Weedmon - meat - regular
+- Goburimon - potty - raise rethink, raise
+- Goburimon - potty - raise rethink, raise fail, raise 
+- Gotsumon - potty - normal 
+- Goburimon - meat - normal
+- Goburimon - meat - normal 
+- Mochomon - meat - normal
+- Gotsumon - potty - normal fail, normal 
 
 Once you beat this head E, head NE carefully walking between the enemies, then exit NW to freezeland. 
 
