@@ -398,6 +398,7 @@ Head to the round table hold and buy a finger seal so we can use the spell equip
 South of castle morne rampart grace in weeping peninsula on the left is a scarab that gives you poison mist, equip this, this can be used to kill tree sentinel 2.0 easily
 Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
 Mix the spiked crack tear and strength tear in the physick at a grace
+Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns) 
 
 ## First two bosses
 
@@ -593,9 +594,11 @@ The mimic can be very stupid, I like to remove poison mist.
 
 Buff before the fog door.
 
-You just want to run up underneath him on the horse and rb/r1 his leg without the shackle, if he runs away sprint under him an just keep moving away from his foot stomps. Stay close underneath him in phase 1 to avoid his shield bash as it's one hit kill with low vigor. The shield scoop can be invicibility frame dodged by hopping off the horse at the right time. Avoid fire by staying where there's no flame.
+You just want to run up underneath him on the horse and rb/r1 his leg without the shackle, if he runs away sprint under him an just keep moving away from his foot stomps. Stay close underneath him in phase 1 to avoid his shield bash as it's one hit kill with low vigor. The shield scoop can be invincibility frame dodged by hopping off the horse at the right time. Avoid fire by staying where there's no flame.
 
-In phase 2 two arm the finger seal (Y+L1), then just run up and rot breath him when his arms hit the ground. This should poison him and now you just run around the map staying far away on the horse until he dies. If you fail to poison heal magic and breath again when you get an opening. Try not to get hit and stay out of the fire. The flame drake talisman helps prevent fire damage, but not much. You can swing at his knees and side, but it's not needed, just stay alive and let the poison do it's thing. Golden scarab and gold pickled fowl foot help get your more runes here.
+In phase 2 two arm the finger seal (Y+L1), then just take a step or two forward and rot breath him when his arms hit the ground. You might need to cast two back to back. This should poison him and now you just run around the map staying far away on the horse until he dies. If you fail to poison heal magic and breath again when you get an opening. Try not to get hit and stay out of the fire. The flame drake talisman helps prevent fire damage, but not much. You can swing at his knees and side, but it's not needed, just stay alive and let the poison do it's thing. Golden scarab and gold pickled fowl foot help get your more runes here.
+
+Note: Leveling the finger seal or using another seal like the dragon communion seal is not worth it and won't help with inflicting poison faster only and only aids in doing more damage from the initial spray.
 
 Talk to melina at the grace to go to the next area. This kills most everyone in the round table hold and really progresses the storyline, if you haven't done things and want to do so before talking to her here.
 
@@ -603,7 +606,7 @@ Talk to melina at the grace to go to the next area. This kills most everyone in 
 
 The next area you just want to run forward hitting the graces. Ignore the dragon and head west to the next grace. Keep going west. Head north to the next grace. At the dragon temple grace. You want to turn around and drop down to the stairs underneath you, then make your way to the back right. you are going to go inside, down the stairs and to the right to the next grace (Dragon Temple Transept).
 
-This boss is a very tough fight, summon Bernahl, head to the right and try to fight them.
+This boss can be very tough fight, summon Bernahl, head to the right and try to fight them.
 
 With the right levels they aren't so bad. This was my strategy at lvl 83 with 32 vigor.
 Summon, Buff, enter fog door on far left, immediately cast mimic, dodge roll behind pillars. Wait for an opening and bully one of them. Once one is killed it's a lot easier to kill the other. Keep hitting as they disappear. They will eventually spawn back in one at a time. Bully fast. If you are struggling they are weak to consumable sleep pots from a recipe on the graves near the third church of marika that you can craft. Keep in mind there are only so many trina lillies on the map though and you can run out. If that happens I would grind levels by killing birds at the Palace Approach Edge Road and keep getting levels until you can beat them. Santa at church of elleh sells an infinite supply of arrows as well. 
@@ -616,7 +619,7 @@ Allocate 5 magic flasks, run up and enter the gold fog door. Immediately exit th
 
 Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander equip it.
 
-Equip the tree sentinel armor, make sure you aren't overloaded just heavy.
+Equip the tree sentinel armor (if you didn't grab the easier tree sentinel armor earlier), make sure you aren't overloaded just heavy.
 
 Equip the jellyfish shield and finger seal.
 Equip radagons soreseal, dragon crest sheild talisman +2, axe talisman, and shard of alexander
@@ -627,7 +630,9 @@ Before the boss room buff shield, flame grant me strength, and golden vow. Head 
 
 Level faith, head forward south west to gideon. Before the door unequip finger seal and shield. Don't buff. Run to the left front pillar. Summon mimic, heal. Wait for gideon to attack mimic. Jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic. When he does punish. Might take a few tries.
 
-Run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
+If you are struggling consider grinding levels to 130. Skip to the end and you will how you should build your character if you respec to a greatsword with lion claw. 
+
+With the Golden Halberd build you can run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
 
 On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible.
 
@@ -635,20 +640,45 @@ Optional:
 Get the faith knot crystal tear east of church of pilgrimage.
 Get the dex knot crystal tear north west of the Laskyar Ruins.
 Mix those in your wondrous physick for an extra 20 levels of stats.
+The stonebarbed and opaline crystal tears aren't bad options either.
 
 Final boss time.
 
-You're going to have a rough time and you need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths.
+As a Golden Halberd built you're going to have a rough time and you need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 https://www.youtube.com/watch?v=29auhBPQT_A
 
-As a golden halberd tree sentinel build you are at a big disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% reduction. So you are mostly relying on physical damage. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch.
+As a golden halberd tree sentinel build you are at a big disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% reduction. So you are mostly relying on physical damage. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. This is where the build ultimately falls apart and we have to pivot. 
 
-There are two things I recommend doing. First grinding levels from Birds in Mogwyn Palace until you are at level 150. You can get 80k/runes/minute by going to mogywin palace and shooting a bird from the palace edge grace. The second thing I recommend you do is get new gear and respec. Certain builds are more optimized and a strength build around blashphemous blade with a high level will have a much easier time. In order to get this weapon you will need to spend about 30 minutes doing the volcano manner questline and getting the blashphemous blade from killing rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a good video guide as there is a ton of running.
+There are two things I recommend doing. First grinding levels from Birds in Mohgwyn Palace until you are at level 150. You can get by with less, it's just harder and won't take more than an hour. At a minimum I would do 120. You can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace. The second thing I recommend you do is get new gear and respec. 
 
-https://www.youtube.com/watch?v=v0JWm3o59qs
+Certain builds are more optimized and a strength build around blasphemous blade with a high level will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
 
-A +25 (Smithing stone) [Greatsword with Lions Claw is another good approach.](https://www.youtube.com/watch?v=no54ycvLl_Y)
+Another great option I recommend you do is using the Greatsword with Lions claw as it will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together.
+[Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
+
+At 130 I did this and it only took a few tries:
+- Respec: 49 Vigor, 20 mind, 35 endurance, 60 strength, 12 dex, 7 intel, 15 faith, 11 arcane (Additional points should go to mind or vigor)
+- Armor: Radahns set (purchase from two fingers in round table hold)
+- Talismans: Shard of Alexander(boosts lions claw damage), Dragoncrest Shield Talisman +2 (The greatshield is better, but requires beating Commander Niall back by the frost lake dragon), Haligdrake +2 Talisman (Mohgwyn Palace Corpse, boosts holy damage negation), Green Turtle Talisman (boosts stamina). By dropping Radagons Soreseal we save an additional 15% of damage.
+- Mimic +10
+- Heavy Greatsword +25 (Carriage in Caelid) (smithing stone bell bearing 1/2/3 (finish cave east of raya lucaria gate grace)(east of outer wall phantom tree grace is a cave with a chest at entrance)(In basement next to Zamor Ruins grace in mountaintops)), +25 (is in skull at Church of Repose in mountaintops), Lions Claw Ash of War (Fight easy boss in Fort Gael in Caelid)
+- Physick: Stonebarb Cracked Tear and Opaline (Use the +25 Heavy Greatsword and Mimic to kill Putrid Avatar North of Fort Faroth in Caelid to get both)
+- Dragon Seal (easy to get from first stonesword key door dungeon in game and is not as heavy as the finger seal)
+- Optional Buffs: Golden Vow (on dagger) + Flame Grant me Strength
+- Flasks: 10 heals, 4 magic
+- Make sure you are medium load, remove armor if you need to
+- Strategy: Summon Mimic at start of phase 1. Dodge and heal and eventually get behind to use Lions Claw when open. Before phase 2 heal, use physick. Start phase 2 by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
+
+Blasphemous Blade 130 build:
+- Respec: 55 Vigor, 23 Mind, 20 endurance, 22 strength, 15 dex, 7 Intel, 55 Faith, 11 Arcane
+- Armor: Radahns set (above)
+- Talisman: Shard of Alexander, Haligdrake Talisman +2, Dragoncrest Shield Talisman +2, Erdtree's Favor +2 (tree in Ashen Capital)
+- Physick: Flame-Shrouding Cracked Tear(Other putrid avatar in caelid by rotview balcony)+Opaline Hardtear(above)
+- Dragon Seal (above)
+- Golden Vow + Flame grant me strength
+- Flasks: 10 heals, 4 magic
+- Make sure you are medium load, remove armor if you need to
 
 Good luck with the final boss. If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
 
-If you don't want to grind right now to defeat the final boss, there's plenty of other content to do if you want to explore the map. Lookup the secret medallion if you want to learn about those areas. There is also a new dlc at mogywin palace, but you will also need to defeat another hard boss to get there. Summon help.
+If you don't want to grind right now to defeat the final boss, there's plenty of other content to do if you want to explore the map. Lookup the secret medallion if you want to learn about those areas. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
