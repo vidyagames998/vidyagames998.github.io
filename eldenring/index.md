@@ -614,9 +614,9 @@ Summon, Buff, enter fog door on far left, immediately cast mimic, dodge roll beh
 
 From here make your way west, grab the dragon crest sheild talisman +2 along the way. Run South to the dragon and grab the +10 somber behind the dragon, dodge all the birds along the way. Head up the hill and across the bridge and up the elevator to the grace (beside the greatbridge).
 
-Up the hill from here is a tree sentinel. He is extremely tough to fight, but he is weak to poison.
+Up the hill from here is a tree sentinel. He is extremely tough to fight as a golden halberd, but he is weak to poison.
 
-Allocate 5 magic flasks, run up and enter the gold fog door. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be behind the tree sentinel and you can crouch behind him and can poison mist him to death.
+Allocate 5 magic flasks, run up and enter the gold fog door. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed.
 
 Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander equip it.
 
