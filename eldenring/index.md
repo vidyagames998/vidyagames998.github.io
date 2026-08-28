@@ -424,13 +424,14 @@ Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [
 
 After Raya Lucaria, with two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far north east). In this area you can also get a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) to upgrade halberd from a stone on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder if you haven't already. 
 
-Optional Grind for better levels:
+Optional Grind for better levels and +10:
 South of raya lucaria is a church with the white masked man, talk to him and do his questline to get a severed finger.
 Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon an fight the mini boss.
 This is a really tough fight, I recommend just being very aggressive, you need to beat it to progress the questline and head back to the church
 Where he gives you a white cloth that needs a maidens blood, head to the bridge of sacrifice in weeping peninsula, and kill the girl to the south, then head back to the church, and receive an item that takes you to an area with the best rune farming in the game
 Head east then south and get to the grace at the top of the hill of enemies
 You can use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Arrows can be bought from santa. This is the most efficient farming method by far until you beat the game.
+There's a +10 Somber in a chest on top Mohgwyn Palace you can run up to once you get here
 
 ## Tree Sentinel 2.0
 
@@ -440,9 +441,9 @@ You can try and fight the guy, it's a fairly tough horse vs horse battle, but do
 
 Or you can simply crouch and walk through the trees and get behind him, then using poison mist (from weeping peninsula scarab) to drain all of his health before the battle even begins and you are never noticed. Each time it runs out just recast, this will take about 10 min and 10 casts, requiring multiple magic flasks, but it will eventually kill him. This is not a glitch, this was an intended kill otherwise this also would have been patched. There is also a trick to get him to jump off the cliff as well like the nights calvary, but this one doesn't seem intended to me. This requires using consumable throwing knives to try and bait him to the cliff and pushing him off.
 
-After defeating the second tree sentinel and having defeated these three main bosses gets you access to the capital where you can get a +7 Somber stone in the sewers and finish the upgrades to +9.
+After defeating the second tree sentinel and having defeated these three main bosses gets you access to the capital where you can get a +7 Somber stone in the sewers and finish the upgrades to +9, +10 if you have Mohgwyn unlocked.
 
-From here nothig really stops you from bum rushing the next set of bosses like a speedrunner and going to beat the game. You have an optimal build with an upgraded weapon.
+From here nothing really stops you from bum rushing the next set of bosses like a speedrunner and going to beat the game. You have an optimal build with an upgraded weapon.
 
 There's plenty of the world to explore if you are brave enough. I recommend going back and exploring a lot of the game and dungeons you have skipped now you are strong enough to not get bullied in them, don't worry it will still be really difficult. Look up some build guides on youtube and see if you find one you like, you should have the ability to get all the items you need to make any of them happen at this point without any difficult bosses in the way. If you want to stick with the strength build I would go get the mimic tear summon and upgrade it to the max with ghost glovewort 1-10. Fanged imps can hold their own, but they have nothing on the mimic tear even after it has been nerfed to oblivion. The first step to do so is going to go kill radahan, it's a semi difficult fight if you don't grind levels, I recommend using the dragon hearts from killing the big dragon and learning rot breath. Eventually you will find a third tree sentinel before a main boss who drops armor. I recommend switching to this armor completing your tree sentinel build.
 
