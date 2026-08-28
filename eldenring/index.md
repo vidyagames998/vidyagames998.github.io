@@ -392,13 +392,13 @@ Head to the round table hold and talk to the red robbed girl by the fireplace an
 There's also some more optional gear we can get to make this build way better.
 This is all way overkill, but this makes the next bosses way easier.
 
-Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. (West of Raya Lucaria)
-Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base of it is the flame grant me strength spell, this gives a damage buff as well
-Head to the round table hold and buy a finger seal so we can use the spell equip it at a grace, we'll need 15 faith for it.
-South of castle morne rampart grace in weeping peninsula on the left is a scarab that gives you poison mist, equip this, this can be used to kill tree sentinel 2.0 easily
-Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
-Mix the spiked crack tear and strength tear in the physick at a grace
-Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns) 
+- Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. (West of Raya Lucaria)
+- Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base of it is the flame grant me strength spell, this gives a damage buff as well
+- Head to the round table hold and buy a finger seal so we can use the spell equip it at a grace, we'll need 15 faith for it.
+- South of castle morne rampart grace in weeping peninsula on the left is a scarab that gives you poison mist, equip this, this can be used to kill tree sentinel 2.0 easily
+- Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
+- Mix the spiked crack tear and strength tear in the physick at a grace
+- Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns) 
 
 ## First two bosses
 
