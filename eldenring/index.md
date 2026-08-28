@@ -6,6 +6,8 @@ When it comes to what items, armors, and weapons you should use FromSoft the mak
 
 I wanted to write a guide as if I were choosing to play the game first time and recommending how I would approach the game.
 
+With this guide you should be able to complete the game in about 10 hours. 
+
 ## Starting off
 
 There are many classes and many ways to play this game.
