@@ -10,11 +10,11 @@ I wanted to write a guide as if I were choosing to play the game first time and 
 
 There are many classes and many ways to play this game.
 
-For a first play through I would recommend the Hero class.
+For a first play through I would recommend the Hero class with a Golden Halberd.
 
 ![](images/hero_class.jpg)
 
-Why? Strength builds are usually harder, but you can respec mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Renala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build you can get the Golden Halberd from defeating the first Tree Sentinel and this weapon can carry you through the game easily. Hero is better over confessor as the easy way to kill Radahan with rot breath requires 12 arcane.
+Why? Strength builds are usually harder, but you can respec mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Renala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build you can get the Golden Halberd from defeating the first Tree Sentinel and this weapon can carry you through the game easily. The Hero class is better over Confessor as the easy way to kill Radahan with rot breath requires 12 arcane. You can also get Tree Sentinel armor without fighting any additional bosses. 
 
 For a keepsake I would go Fanged Imp Ashes.
 
