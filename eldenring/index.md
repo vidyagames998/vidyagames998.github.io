@@ -312,7 +312,7 @@ At any point if you get bored and just want to progress the story line, head bac
 
 The tree sentinel is very tough and you will likely die if you just went to fight him head on. However there is actually a very easy way to kill this guy even at the starting level without really exploring. We have the Longsworn Greatsword from the first carriage and we can use it optimally with our Dexterity at 10. This boss is also weak to rot and there's a summon we can easily get that can poison him (rotten stray ashes). Together this makes this fight trivial.
 
-Head east of the first step grace into this destroyed village. Down the steps in the basement is a trap chest that warps you to a region of Caelid, once teleported run down the cave to escape to a grace at the entrance. If you head south you will find a large lake of rot that will poison you if you go in it, if you head North around it there is a rotten stray ashes summon on a body in a broken building, then keep following the lake around to another grace.
+Head east of the first step grace into this destroyed village. Down the steps in the basement is a trap chest that warps you to a region of Caelid, once teleported run down the cave to escape to a grace at the entrance. If you head south you will find a large lake of rot that will poison you if you go in it, if you keep heading around it there is a rotten stray ashes summon on a body in a broken building, then keep following the lake around to another grace.
 
 Optional: fast travel back to the very first church, buy the crafting kit. Press start, open item crafting, make rowa raisins out of the red rowa fruit that can be picked up around the church if you haven't grabbed some already. These heal your horse slowly.
 
