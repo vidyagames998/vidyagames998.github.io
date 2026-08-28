@@ -598,7 +598,7 @@ You just want to run up underneath him on the horse and rb/r1 his leg without th
 
 In phase 2 two arm the finger seal (Y+L1), then just take a step or two forward and rot breath him when his arms hit the ground. You might need to cast two back to back. This should poison him and now you just run around the map staying far away on the horse until he dies. If you fail to poison heal magic and breath again when you get an opening. Try not to get hit and stay out of the fire. The flame drake talisman helps prevent fire damage, but not much. You can swing at his knees and side, but it's not needed, just stay alive and let the poison do it's thing. Golden scarab and gold pickled fowl foot help get your more runes here.
 
-Note: Leveling the finger seal or using another seal like the dragon communion seal is not worth it and won't help with inflicting poison faster only and only aids in doing more damage from the initial spray.
+Note: Leveling the finger seal or using another seal like the dragon communion seal is not worth it and won't help with inflicting rot any faster and only aids in doing more damage from the initial spray.
 
 Talk to melina at the grace to go to the next area. This kills most everyone in the round table hold and really progresses the storyline, if you haven't done things and want to do so before talking to her here.
 
