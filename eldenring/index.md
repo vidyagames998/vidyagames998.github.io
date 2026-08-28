@@ -633,7 +633,7 @@ Before the boss room buff shield, flame grant me strength, and golden vow. Head 
 
 Level faith, head forward south west to gideon. Before the door unequip finger seal and shield. Don't buff. Run to the left front pillar. Summon mimic, heal. Wait for gideon to attack mimic. Jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic. When he does punish. Might take a few tries.
 
-With the Golden Halberd build you can run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
+With the Golden Halberd build this is another tough fight, but you can run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
 
 On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible.
 
@@ -645,7 +645,7 @@ The stonebarbed and opaline crystal tears aren't bad options either.
 
 Final boss time.
 
-As a Golden Halberd built you're going to have a rough time and you need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
+As a Golden Halberd built you're going to have a incredibly tough time and you need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 https://www.youtube.com/watch?v=29auhBPQT_A
 
 As a golden halberd tree sentinel build you are at a big disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% reduction. So you are mostly relying on physical damage. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. This is where the build ultimately falls apart and we have to pivot. 
@@ -654,7 +654,7 @@ There are two things I recommend doing. First grinding levels from Birds in Mohg
 
 Certain builds are more optimized and a strength build around blasphemous blade with a high level will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
 
-Another great option I recommend you do is using the Greatsword with Lions claw as it will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together.
+Another great option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together.
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 At 130 I did this and it only took a few tries:
