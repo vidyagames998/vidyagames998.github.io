@@ -587,17 +587,17 @@ Just keep going forward, across the skinny bridge, and up the mountain. Eventual
 
 You can do the alexander questline, but it's not very helpful here.
 
-Head to the altus plateu grace and head north a long ways through the mountain, through a valley, eventually getting to seethewater terminus, which has a lava lake that alexander is chilling in. The summon for Alexander is inside the fog wall for the fire giant fight. Summoning him is not very helpful as you lose access to your horse.
+Head to the altus plateu grace and head north a long ways through the mountain, through a valley, eventually getting to seethewater terminus, which has a lava lake that alexander is chilling in. The summon for Alexander is inside the fog wall for the fire giant fight. Summoning him is not very helpful as you lose access to your horse during the battle. 
 
-In summonwater village, there is a stonesword key fog door with a green turtle talisman, this helps recover stamina faster and can kinda help.
+In summonwater village, there is a stonesword key fog door with a green turtle talisman, this helps recover stamina faster and helps a lot.
 
-The mimic can be very stupid, I like to remove poison mist.
+The mimic can be very stupid, remove poison mist.
 
 Buff before the fog door.
 
 You just want to run up underneath him on the horse and rb/r1 his leg without the shackle, if he runs away sprint under him an just keep moving away from his foot stomps. Stay close underneath him in phase 1 to avoid his shield bash as it's one hit kill with low vigor. The shield scoop can be invincibility frame dodged by hopping off the horse at the right time. Avoid fire by staying where there's no flame.
 
-In phase 2 two arm the finger seal (Y+L1), then just take a step or two forward and rot breath him when his arms hit the ground. You might need to cast two back to back. This should poison him and now you just run around the map staying far away on the horse until he dies. If you fail to poison heal magic and breath again when you get an opening. Try not to get hit and stay out of the fire. The flame drake talisman helps prevent fire damage, but not much. You can swing at his knees and side, but it's not needed, just stay alive and let the poison do it's thing. Golden scarab and gold pickled fowl foot help get your more runes here.
+In phase 2 two arm the finger seal (Y+L1), then just take a step or two forward and rot breath him when his arms hit the ground. You might need to cast two back to back. This should rot him and now you just run around the map staying far away on the horse until he dies. If you fail to rot, heal magic and breathe again when you get an opening. Try not to get hit and stay out of the fire as it will likely kill you. The flame drake talisman helps prevent fire damage, but not very much. You can swing at his knees and side, but it's not needed, just stay alive and let the poison do it's thing. Golden scarab and gold pickled fowl foot help get your more runes here.
 
 Note: Leveling the finger seal or using another seal like the dragon communion seal is not worth it and won't help with inflicting rot any faster and only aids in doing more damage from the initial spray.
 
@@ -609,7 +609,7 @@ The next area you just want to run forward hitting the graces. Ignore the dragon
 
 This boss can be very tough fight, summon Bernahl, head to the right and try to fight them.
 
-With the right levels they aren't so bad. This was my strategy at lvl 83 with 32 vigor.
+With the right levels they aren't so bad. This boss is normally a huge skill check. This was my strategy at lvl 83 with 32 vigor.
 Summon, Buff, enter fog door on far left, immediately cast mimic, dodge roll behind pillars. Wait for an opening and bully one of them. Once one is killed it's a lot easier to kill the other. Keep hitting as they disappear. They will eventually spawn back in one at a time. Bully fast. If you are struggling they are weak to consumable sleep pots from a recipe on the graves near the third church of marika that you can craft. Keep in mind there are only so many trina lillies on the map though and you can run out. If that happens I would grind levels by killing birds at the Palace Approach Edge Road and keep getting levels until you can beat them. Santa at church of elleh sells an infinite supply of arrows as well. 
 
 From here make your way west, grab the dragon crest sheild talisman +2 along the way. Run South to the dragon and grab the +10 somber behind the dragon, dodge all the birds along the way. Head up the hill and across the bridge and up the elevator to the grace (beside the greatbridge).
