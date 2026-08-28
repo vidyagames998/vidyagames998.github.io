@@ -627,11 +627,11 @@ Equip radagons soreseal, dragon crest sheild talisman +2, axe talisman, and shar
 
 I had 35 vigor, 14 dex, 17 faith, 61 strength, 13 endurance at level 88. This is likely not optimal feel free to experiment.
 
+If you are struggling consider grinding levels to 130. Skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
+
 Before the boss room buff shield, flame grant me strength, and golden vow. Head in summon mimic immediately heal, dodge roll behind maliketh. As he fights your mimic jump and r2. In Phase 2 use R2s and jump R2s as he fights your mimic. Try and hide behind pillars. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to fight bernhal to get it.
 
 Level faith, head forward south west to gideon. Before the door unequip finger seal and shield. Don't buff. Run to the left front pillar. Summon mimic, heal. Wait for gideon to attack mimic. Jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic. When he does punish. Might take a few tries.
-
-If you are struggling consider grinding levels to 130. Skip to the end and you will how you should build your character if you respec to a greatsword with lion claw. 
 
 With the Golden Halberd build you can run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
 
