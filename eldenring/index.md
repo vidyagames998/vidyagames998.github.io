@@ -627,7 +627,7 @@ Equip the tree sentinel armor (if you didn't grab the easier tree sentinel armor
 Equip the jellyfish shield and finger seal.
 Equip radagons soreseal, dragon crest sheild talisman +2, axe talisman, and shard of alexander
 
-I had 35 vigor, 14 dex, 17 faith, 61 strength, 13 endurance at level 88. This is likely not optimal feel free to experiment.
+I had 35 vigor, 14 dex, 17 faith, 61 strength, 13 endurance at level 88. This is likely not optimal feel free to experiment. Less strength and more endurance would help a lot.
 
 If you are struggling consider grinding levels to 130. Skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
 
