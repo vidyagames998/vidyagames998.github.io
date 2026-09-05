@@ -268,7 +268,7 @@ I would recommend avoiding all the dungeons and battles for now and just run aro
 
 There are occasionally blue towers sometimes with small puzzles you should solve, it's worth climbing a couple to be able to equip more spells at once, but as a strength build you really have little use for them.
 
-Armor means almost nothing in this game and is mostly cosmetic. You can't upgrade it. You should pick up and use better heavier armor as you gain endurance. 
+Armor means almost nothing for early and mid game and is mostly cosmetic. You can't upgrade it. You should pick up and use better heavier armor as you gain endurance in late game. 
 
 Weapons should only be upgraded when you are absolutely certain this is the weapon you want.
 
