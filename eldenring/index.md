@@ -16,7 +16,7 @@ For a first play through I would recommend the Hero class with a Golden Halberd.
 
 ![](images/hero_class.jpg)
 
-Why? Strength builds are usually harder, but you can respec (Start over and redistribute your attributes to new ones without penalty or progress) mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Renala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build you can get the Golden Halberd from defeating the first Tree Sentinel and this weapon can carry you through the game easily. The Hero class is better over Confessor as the easy way to kill Radahan with rot breath requires 12 arcane. You can also get strong Tree Sentinel armor without fighting any additional bosses. 
+Why? Strength builds are usually harder, but you can respec (Start over and redistribute your attributes to new ones without penalty or progress) mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Renala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build, you can get the Golden Halberd from defeating the first Tree Sentinel, and this weapon can carry you through the game easily. The Hero class is better over Confessor, as the easy way to kill Radahan with rot breath requires 12 arcane. You can also get strong Tree Sentinel armor without fighting any additional bosses. 
 
 For a keepsake I would go Fanged Imp Ashes.
 
@@ -31,12 +31,12 @@ While an unusual choice, people really sleep on this summon as there are many to
 - A(Cross) is jump
 - B(Circle) is run
 - Y(Triangle) is activate things
+- X(Square) is use the item in your bottom left item slot. You can change these with the dpad up/down. You can equip different things into the slot.
 - L1(LB) is block / left attack
 - R1(RB) is quick attack
 - R2(RT) is slow charged attack
 - L2(LT) is a slow special move for your weapon, if one exists
 - Y+R1(RB) tells the game to two hand a weapon, useful if you are under leveled for the weapon
-- X(Square) is use the item in your bottom left item slot. You can change these with the dpad up/down. You can equip different things into the slot.
 - Holding Y(Triangle) and then pressing a dpad direction are other shortcuts you can program
 - Jumping and then midair pressing B(Circle) is a good way to activate run mode without starting to sprint or rolling, useful climbing weird places or near edges.
 - Start opens the menu to equip armor
@@ -111,10 +111,10 @@ If you open the map you will see a lot of brown fog and a small map. This will g
 
 Pressing Y toggles the HUD on and off.
 
-On the top left is a red bar which is your health
-The blue bar is how much magic you have
-The green bar is how much stamina you have
-The empty box will be used to indicate which great rune you chose that gives you a stat boost later
+On the top left is a red bar which is your health.
+The blue bar is how much magic you have.
+The green bar is how much stamina you have.
+The empty box will be used to indicate which great rune you chose that gives you a stat boost later.
 
 If you spin around you will see the top middle compass change based on the direction you are facing. North, East, South, West.
 
@@ -128,13 +128,13 @@ Down on the dpad rotates through equips items that can be easily activated with 
 
 Red flask heals hp, blue flask heals magic, Fanged imps can be summoned when you have enough magic and are near enemies.
 
-Head to the church and get the next grace.
+Head to the church of elleh (helle backwards) and get to the next grace.
 
 In the destroyed church there is a pedastal and a guy dressed as santa with a donkey. (Again weird anti christian vibes)
 
 ![](images/santa.jpg)
 
-The pedastal is there to teach you that you can upgrade weapons. In order to do so you need to find smithing stones. There are somber and normal smithing stones. Weapons use one or the other, but never both. Be extremely picky about what you choose to upgrade or you will be in for an extremely tough time.
+The pedastal is there to teach you that you can upgrade weapons. In order to do so you will need to find smithing stones. There are somber and normal smithing stones. Weapons use one or the other, but never both. Be extremely picky about what you choose to upgrade or you will be in for an extremely tough time.
 
 Santa sells a handful of useful items once you have an abundance of money. He has a torch so you can see in dungeons, an almost useless telescope that lets you get a birds eye view of places, cracked pots which make it so you can craft items to throw at bosses to put them to sleep or poison them, and a crafting kit so you can follow recipes you find to make certain items, the rest is pretty useless.
 
@@ -188,11 +188,13 @@ After debating life for a bit. Let's take a look around. You will see carriages.
 
 ![](images/carriage.jpg)
 
-These have prizes on the front or back and are often carried by trolls. You can swing your sword on the troll to stop a carriage and then rob the chest and run off to a nearby grace and should. Practice on the first one and run back to the grace. This gives us the Lordsworn Greatsword, but we are not strong to use the sword until we get one more level in Dex. Sometimes you get lucky with two handing weapons (Y+Rb), but not this time. This sword is really strong against that Tree Sentinel we saw earlier and we can use it to do horse on horse combat against him and make the fight way easier.
+These have prizes on the front or back and are often carried by trolls. You can swing your sword on the troll to stop a carriage and then rob the chest and run off to a nearby grace and should. Practice on the first one and run back to the grace. This gives us the Lordsworn Greatsword, but we are not strong enough to use the sword until we get one more level in Dex. Sometimes you get lucky with two handing weapons (Y+Rb), but not this time. This sword is really strong against that Tree Sentinel we saw earlier and we can use it to do horse on horse combat against him and make the fight way easier. 
 
-If you press start you will see status menu shows the strength of your weapon equipped, the axe has a damage of 141 and when two handed does 152. The equipment menu shows this weapon scales with Strength and Dexterity. The Longsworn Greatsword is at 81 because we don't have the Dex requirement and also scales with Strength and Dexterity. When we are level 11 with one point in Dexterity it will be 154 one handed and 161 two handed. Axe will be at 146/153. Meeting stat requirements matters a lot for whatever weapon you choose.
+If you press start you will see status menu shows the strength of your weapon equipped, the axe has a damage of 141 and when two handed does 152. The equipment menu shows this weapon scales with Strength and Dexterity. The Longsworn Greatsword is at 81 because we don't have the Dex requirement and also scales with Strength and Dexterity. When we are level 11 with one point in Dexterity it will be 154 one handed and 161 two handed. Axe will be at 146/153. Meeting stat requirements matters a lot for whatever weapon you choose. The stats are very similar, but the real reason why this sword does so well against the tree sentinel is because it has a very long reach, way more than the axe. 
 
-For now head to the middle of town and head down the staircase to a chest at the bottom at that gives you a charged move (L2/LT ash of war) you can equip to your weapon at a grace. You will need few different knives to be able to use different moves on different weapons, these are unlocked via certain chests throughout the map. Run outside and go south to your next grace. Rob the other carriage and come back.
+Most the damage in this game comes from upgrading your weapon and not from upgrading your stats in certain levels until late game. A maxed out +10 somber weapon will give you 800 damage on it's own, the remaining 200 or so damage come from levels. It's counter intuitive, but it's not worth dumping all your points into Strength to do more damage. I highly recommend just getting the stats you need to use your weapon and then focusing on vigor so you have enough health to be able to take some hits and not die to one hit all the time. Endurance helps a ton as well as it helps you do more consecutive hits and helps you wear much stronger armor.  
+
+For now head to the middle of town and head down the staircase to a chest at the bottom at that gives you a charged move (L2/LT ash of war) you can equip to your weapon at a grace. You will need few different blades to be able to use different moves on different weapons, these are unlocked via certain chests throughout the map. Run outside and go south to your next grace. Rob the other carriage and come back.
 
 Killing enemies gives you money, but its usually very slow and you are better off robbing all the graves to get your first levels. To get to the first graveyard run North through the gate following the road to shack with the next grace. Grab the golden seed off the yellow tree on the way. Your horse can double jump over barricades. If you click in on the right stick you will jump off the horse easily.
 
