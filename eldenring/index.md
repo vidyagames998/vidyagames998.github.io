@@ -516,9 +516,9 @@ Head north and then west to a new light the fires challenge. At the second fire 
 
 There's a stonesword key wall on the far side with the mimic tear summon in the chest. Grab it. Exit the church to the south and grab the other grace. North of here is a chest for Ranni's questline and a portal back out of this city to the fire statues.
 
-This is optional to the Rani questline, but while we are here. Light the 6 statues and fight the next deer boss. Easy at +9 avoid his magic spell on the ground, it wrecks the imps. Buff up before the fight. This isn't a super easy boss, but shouldn't take too many tries just dodge his main attack and counter.
+This is optional to the Rani questline, but while we are here. Light the 6 statues and fight the next deer boss. Easy at +9/+10 avoid his magic spell on the ground, it wrecks the imps. Buff up before the fight. This isn't a super easy boss, but shouldn't take too many tries just dodge his main attack and counter.
 
-Now you have an option do you want to fight a really tough boss at +9 or do you want to do Rani's questline. I recommend Rani's questline.
+Now you have an option do you want to fight a really tough boss at +9/+10 or do you want to do Rani's questline. I recommend Rani's questline.
 
 Hard way: Go to Ancestral Woods, head North to the jellyfish and hop off the ledge. Keep going north and you will get to the twin Gargoyle fight. At half health the second gargoyle spawns in. He also likes to use a poison attack that will kill you. The gargoyles are able to hit you from further away than you can hit them with the halberd which makes the fight even tougher. If you win you get access to a casket that teleports you to the deeproot depths which you can run through to another coffin which takes you to Ainsel river well.
 
