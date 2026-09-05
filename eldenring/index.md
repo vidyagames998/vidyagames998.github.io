@@ -409,7 +409,7 @@ When you are ready you can head into the castle northwest from stormhill shack g
 
 This boss should be possible even with a +1 halberd and not doing any of the optional rune farming or upgrading your imps.
 
-To make the fight easier you can get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the gave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for like 5 seconds and gives you plenty of time to just wail on him. 
+To make the fight easier you can get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the cave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for like 5 seconds and gives you plenty of time to just wail on him. 
 
 For additional help I would summon the sorcerer rogier (ai helper) at the yellow summon before the battle and cast your fanged imps immediately at the start of the fight. 
 
