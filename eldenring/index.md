@@ -681,11 +681,11 @@ Blasphemous Blade 130 build:
 - Flasks: 10 heals, 4 magic
 - Make sure you are medium load, remove armor if you need to
 
-Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, just not nearly as easy as it looks.   
+Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, just not nearly as easy as it looks. Additionally you'll find people like to post hype videos for their builds, be skeptical before choosing one and be mindful Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker.    
 
 Good luck with the final boss. If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
 
 If you don't want to grind right now to defeat the final boss, there's plenty of other content to do if you want to explore the map. Lookup the secret medallion if you want to learn about those areas. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
 
-~Fin~
+`~Fin~`
 
