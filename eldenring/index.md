@@ -322,7 +322,7 @@ Optional: fast travel back to the very first church, buy the crafting kit. Press
 
 Fast travel to the first step, equip the rotten stray summon, equip the raisins which can be used to slowly heal your horse, equip the lordsworn greatsword from the gatefront carriage. If you don't have the radagon sorseal equipped from Fort Faroth it will have a red x on it indicating you aren't strong enough to use it effectively, sell runes and put one level into dex and then press Y+R1 to two hand the sword. The X should go away when at 10 Dex. Mix the strength knot from the very first water basin into the physick if you have it (not needed) to give an extra +10 strength.
 
-If you want to make the fight even easier sell your runes and put most of them in strength. After the fight you will get a halberd that requires 30 Strength, 14 Dex, and 12 Faith. Radagons soreseal boosts strength and dex by +5 so I got Faith to 12 and put the rest in Strength. After the fight I worked to get Faith to 15 so I could use the finger seal. I also worked to get arcane to 12 so I could use the rot breath spell to easily kill a future boss Radahn (this is why I recommend hero over confessor). A few points in vigor wouldn't hurt to help being able to tank a hit as well.
+If you want to make the fight even easier sell your runes and split your stats between vigor and strength. After the fight you will get a halberd that requires 30 Strength, 14 Dex, and 12 Faith. To add to the build you will use the finger seal, requiring 15 Faith. Further adding to the build, to use rot breath you need 12 arcane to easily kill a future boss Radahn (this is why I recommend hero over confessor). Lastly from Forth Faroth you will get Radagons Soreseal which boosts vigor, endurance, strength and dex each by +5 at a cost that you take 15% more damage which pairs really well early game. For the easiest time future points should be split between vigor and endurance until you feel strong enough to tank hits and able to walk around without being overloaded in good gear. You can spend some points in strength for extra damage if you want, but it's really not too beneficial past 30 and it's way better to just upgrade your weapon if you want to deal more damage. 
 
 Hop on the horse, walk up to the tree sentinel, summon the rotten stray ashes, drink your physick. Sprint into the tree sentinel and press r1/l1 to attack. Let the dog take the aggression. After each hit, sprint in a circle and come back sprinting into the sentinel and do it again. Eventually the dog will poison the tree sentinel as indicated by red smoke and you can run and sit on top the small building to the right until he dies from the poison without worry of the sentinel attacking you. This might take a few tries. Heal when you need to. You need to distract the sentinel from the dog enough so it can attack enough to inflict poison.
 
@@ -332,9 +332,9 @@ The tree sentinel drops a Golden Halberd our weapon of choice for the playthroug
 
 ## Leveling up 
 
-If you haven't made it to Caelids Fort Faroth, head back to Selia Under-Stair, light the three towers in town, then leave north and head up the hill to the church. Take the spirit spring to the fort to the north. In the fort run inside and up the ladder and grab the medallion. Turn around and jump into the hole and find your way past the rats to the radagon sore seal and equip it.
+If you haven't made it to Caelids Fort Faroth, head back to Selia Under-Stair by the rotten stray ash summon, light the three towers in town, then leave north and head up the hill to the church. Take the spirit spring to the fort to the north. In the fort run inside and up the ladder and grab the medallion. Turn around and jump into the hole and find your way past the rats and down to the radagon sore seal and equip it. It's on the floor and was the item you saw when you first walked into the fort. 
 
-The radagon sore seal boosts our stats 25 levels giving us +5 vigor, endurance, strength, and dex.
+The radagon sore seal boosts our stats 20 levels giving us +5 vigor, endurance, strength, and dex.
 
 If at this point you still need more runes to level to use the Golden Halberd, there's an easy grind.
 
@@ -342,7 +342,7 @@ Head northeast until you get to the giant tower called Lenne's rise. Head West d
 
 If that feels cheap you can also grind other enemies around here if you wanted to.
 
-You'll want 15 faith, 12 arcane, 14 Dex , 18 or so vigor and the rest can dump into strength.
+You'll want 30 strength, 15 faith, 12 arcane, 14 Dex, and at least 18 vigor. 
 
 From here you really need to decide how much grinding do you really want to do? You don't have to grind to get runes if you are willing to do some side quests to earn runes.
 
@@ -350,40 +350,13 @@ Head back to the first steps and behind the church jump off the cliff to the spi
 
 Optional Mission to Kill the black horse (Knights Calvary) in Caelid:
 
-I'm going to keep it 100 here, this is very much an end game area and the guy is meant to be fought at end game gear. There are so many different ways and tricking the horse to play nice and jump off the cliff isn't easy. It originally took me hours and it would have been way faster to just farm 60k runes from balls. https://www.youtube.com/watch?v=9CBCVE-chko
+I'm going to keep it 100 here, this is very much an end game area and the guy is meant to be fought at end game gear. There are so many different ways and tricking the horse to play nice and jump off the cliff isn't easy. It originally took me hours to learn how and it would have been way faster to just farm 60k runes from balls. https://www.youtube.com/watch?v=9CBCVE-chko
 
 Head back to Lenne's Rise. Pass time until nightfall.
 
 There's a black horse here who has an insane amount of health and is really difficult to fight, we want to kill it.
 
-Thankfully there is also a really easy way to kill this horse, you just gotta convince it to jump off the cliff. This is not a glitch and was an intended mechanic otherwise it would have been patched by now. There a lot of different videos on how to do so and it will take a while to learn a setup that works for you. Just be sure to use the gold pickled fowl foot after he dies and before the runes show up to earn an extra 20k runes.
-
-While this is not a glitch this is a not a easy trick to pull off. So don't worry if you can't or don't want to do it.
-
-Optional Mission to get the golden scarab:
-
-You'll need either bloodhound step from killing the black horse or the quick step ash of war
-Travel to warmaster's shack from earlier (just north east of the gatefront) in limgrave and buy quick step for 800 runes
-Travel to the round table hold and buy a dagger for 400 runes from the shop
-At the grace equip bloodhound step/quick step to the dagger
-
-Fast travel to fort faroth, follow the orange wall west until you see a dragon and a scarab together, right below them is a cave entrance.
-
-Equip and two hand the dagger (Y+Rb). Run into the river of rot and use bloodhound step/quick step (Left trigger) to travel across faster and not get fully poisoned. Head left then run forward until you get to the boss. Use your imp summons and fight the dual boss. Be aggressive to prioritize killing one asap while the imps are still alive. This is much easier when your sword is upgraded and you are higher level. After beating the boss you earn a golden scarab with is a gold pickled fowl foot you can equip last second and stacks with gold pickled fowl foots to get even more runes.
-
-Optional Mission to kill the dragon:
-From the original carriages we robbed by gatefront there is a flail that does bleed damage.
-Equip the flail with two hands and the golden scarab and have a gold pickled fowl foot.
-Fast travel to Fort Faroth, walk up to the dragons back left foot, and hold LT/L2. Bleed will build and do a large percentage damage. When the dragon dies use the gold pickled fowl foot and get 115k runes vs 65k with no buffs.
-
-There's a glitch to be able to repeat farm it if you go back to the grace at the right time.
-
-https://www.youtube.com/watch?v=TQjR4axsl6k
-
-Optional glitch to kill another dragon:
-Back near lenne's rise there's a long bridge, there's a glitch to kill this dragon and get 100k runes by luring him to the end of the bridge and having it float in the sky near the tree until the game kills him for you. This glitch is way easier than convincing the knights calvary to jump off the cliff in my opinion.
-
-https://www.youtube.com/watch?v=p7VmiX50vO4
+The easy way to kill the horse is to convince it to jump off the cliff. This is not a glitch and was an intended mechanic otherwise it would have been patched by now. There a lot of different videos on how to do so and it will take a while to learn a setup that works for you. Just be sure to use the gold pickled fowl foot after he dies and before the runes show up to earn an extra 20k runes. While this is not a glitch this is a not a easy trick to pull off. So don't worry if you can't or don't want to do it.
 
 Optional upgrading fanged imps:
 
@@ -391,18 +364,44 @@ At the bottom of the map in weeping peninsula, just south of the church of pilgr
 
 North of the rot view balcony behind the giant tree is a cave with grave glovewort 3/4/5.
 
-Head to the round table hold and talk to the red robbed girl by the fireplace and the black smith multiple times about her. This opens a shop next to the blacksmith where you can upgrade your imps in exchange for the glovewort and some runes.
+Head to the round table hold and talk to the red robbed girl by the fireplace and talk to the black smith multiple times about her. This opens a shop next to the blacksmith where you can upgrade your imps in exchange for the glovewort and some runes.
+
+Optional Mission to get the golden scarab:
+
+You'll need either bloodhound step from killing the black horse or the quick step ash of war.
+
+To get the quick step ash of war, travel to warmaster's shack from earlier (just north east of the gatefront) in limgrave and buy quick step for 800 runes. Then travel to the round table hold and buy a dagger for 400 runes from the shop. At the grace you can equip bloodhound step/quick step to the dagger.
+
+Fast travel to fort faroth, follow the orange wall west until you see a dragon and a scarab together, right below them is a cave entrance.
+
+Equip and two hand the dagger (Y+Rb). Run straight and to left into the river of rot and use bloodhound step/quick step (Left trigger) to travel across faster and not get fully poisoned. Head left then run forward and right until you get to the boss. The imp summons are very useful on this fight and help a ton with distracting the dual boss so you can kill them one at a time. Be aggressive to prioritize killing one asap while the imps are still alive. This is much easier when your sword is upgraded and you are higher level. After beating the boss you earn a golden scarab which is a gold pickled fowl foot you can equip last second after beating any boss and stacks with gold pickled fowl foots to get even more runes.
+
+Optional Mission to kill the giant dragon:
+From the original carriages we robbed by gatefront there is a flail that does bleed damage. It's kind of slow to inflict bleed, but can do the job.  
+South of Limgrave in Weeping Peninsula is another carriage with a morning star, this one works better at inflicting bleed. 
+Equip the morning star with two hands (Y+Rb) and then equip the golden scarab and have a gold pickled fowl foot in the action bar ready to use.
+Fast travel to Fort Faroth, walk up to the dragons back left foot, and keep tapping Rb until it dies. Bleed will build and do a large percentage damage. When the dragon dies use the gold pickled fowl foot and get 115k runes. Without both these buffs you will only get 65k runes.
+
+There's a glitch to be able to repeat farm it if you go back to the grace fast enough. I'm not a fan of 5 min of pressing Rb so I usually don't bother. 
+
+https://www.youtube.com/watch?v=TQjR4axsl6k
+
+Optional glitch to kill another dragon:
+Back near lenne's rise there's a long bridge, there's a glitch to kill this dragon and get 100k runes by luring him to the end of the bridge and having it float in the sky near the tree until the game kills him for you. This glitch is way easier than convincing the knights calvary to jump off the cliff in my opinion, but can take some luck. 
+
+https://www.youtube.com/watch?v=p7VmiX50vO4
 
 There's also some more optional gear we can get to make this build way better.
 This is all way overkill, but this makes the next bosses way easier.
 
-- Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. (West of Raya Lucaria)
-- Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base of it is the flame grant me strength spell, this gives a damage buff as well
-- Head to the round table hold and buy a finger seal so we can use the spell equip it at a grace, we'll need 15 faith for it.
+- Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. (West of Raya Lucaria in North Limgrave)
+- Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base behind two enemies is the flame grant me strength spell which gives a damage buff.
+- Head to the round table hold and buy a finger seal, with 15 faith we can use it to cast poison mist and rot breath with 12 arcane. 
 - South of castle morne rampart grace in weeping peninsula on the left is a scarab that gives you poison mist, equip this, this can be used to kill tree sentinel 2.0 easily
 - Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
 - Mix the spiked crack tear and strength tear in the physick at a grace
-- Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns) 
+- Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
+- In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill 
 
 ## First two bosses
 
@@ -410,21 +409,21 @@ When you are ready you can head into the castle northwest from stormhill shack g
 
 This boss should be possible even with a +1 halberd and not doing any of the optional rune farming or upgrading your imps.
 
-I would summon the sorcerer rogier (ai helper) at the yellow summon before the battle and cast your fanged imps. There's a Margit shackle you can get for 5k runes in the Murkwater cave by killing or keeping Patches alive, just east of the telescope in Limgrave. When used it traps the boss for like 5 seconds, but it's current utility is not worth the investment at this time.
+To make the fight easier you can get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the gave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for like 5 seconds and gives you plenty of time to just wail on him. 
 
-After defeating the first boss, head to the gate talk to the guy and go through the front door. Storm your way into the castle and [run all the way to the North East](https://www.youtube.com/watch?v=1mBdjb-jQFI&t=53s) and get ready to fight the second boss. 
+For additional help I would summon the sorcerer rogier (ai helper) at the yellow summon before the battle and cast your fanged imps immediately at the start of the fight. 
 
-At this point you really want a +5 golden halberd and +5 fanged imps.
+After defeating the first boss, head to the gate, talk to the guy and go through the front door storming your way into the castle. You basically want to [run all the way to the North East](https://www.youtube.com/watch?v=1mBdjb-jQFI&t=53s) and get ready to fight the second boss. To make life easier if you follow the left side when running in and immediately turn around there's a grace right above the entrance. 
 
-There's also a quick sidequest you need to do to unlock the helper for the boss. Just head back to the golden seed and there's a entrance with a hero class npc to talk to.
+Before fighting this boss I recommend getting a +5 golden halberd and +5 fanged imps. I also recommend doing a quick sidequest to unlock Nephelia who you can summon to help you fight the boss. From the grace before the boss turn around run past the troll and to the right of the golden seed there's a entrance with a female hero class npc. Unlocking Nephelia now and using her helps a lot for later on to track her down when doing Seluvis's quest. 
 
 Now we can take on godrick the grafted
 
-Use the summon to get help against boss, cast contagious fury, cast golden vow, use physick, summon imps. Do some jump R1's and charged R2's. When he dies equip golden scarab for extra runes.
+Use the npc summon to get help against boss, cast contagious fury, cast golden vow, use physick, step in side and summon imps. Run up and do some jump R1's and charged R2's. When he dies equip golden scarab for extra runes.
 
-Head east of stormveil castle along the long bridge path and get the Godrick great rune, you can use rare expensive consumable rune arcs to get a stat boost until you die. I'm not a fan of burning consumables like this so I don't use it often.
+After the boss you can head east of stormveil castle along the long bridge path and get the Godrick great rune, you can use rare expensive consumable rune arcs to get a stat boost until you die. I'm not a fan of burning consumables like this so I don't use it often. You can also keep heading North and it'll take you to Liurnia. 
 
-Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [get the key](https://www.youtube.com/watch?v=zy5em746nAQ) from behind the magic dragon west of the town. No need to kill the dragon. The Castle itself is very easy as a strength build. It's [linear](https://www.youtube.com/watch?v=f4jBaPFZAXM&t=174), just run through, make your way up, kill the red dog, then the queen. After killing the queen you get the ability to change spec with easily available [larval tears](https://www.youtube.com/watch?v=VauyWwBwiHA) and leave the strength build if you want and switch to something like a [magic build](https://www.youtube.com/watch?v=pi7eXTxb0vw). I would recommend against it though unless you love exploring as you will have to get a ton of different items.
+Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [get the key](https://www.youtube.com/watch?v=zy5em746nAQ) from behind the magic dragon west of the town. You do not need to kill the dragon. The Castle itself is very easy as a strength build. It's [linear](https://www.youtube.com/watch?v=f4jBaPFZAXM&t=174), just run through, make your way up, kill the red dog, then the queen. After killing the queen you get the ability to change spec with easily available [larval tears](https://www.youtube.com/watch?v=VauyWwBwiHA) and leave the strength build if you want and switch to something like a [magic build](https://www.youtube.com/watch?v=pi7eXTxb0vw). I would recommend against it though unless you love exploring as you will have to get a ton of different items.
 
 After Raya Lucaria, with two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far north east). In this area you can also get a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) to upgrade halberd from a stone on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder if you haven't already. 
 
