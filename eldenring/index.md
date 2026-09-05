@@ -401,7 +401,9 @@ This is all way overkill, but this makes the next bosses way easier.
 - Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
 - Mix the spiked crack tear and strength tear in the physick at a grace
 - Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
-- In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill 
+- In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
+- In summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle.
+
 
 ## First two bosses
 
@@ -580,17 +582,15 @@ Head back the queens bedchamber grace, summon the dung eater and melina. Buff up
 
 ## Fire Giant
 
-From the avenue balcony grace make your way to the new red indicator on the map, this is the start of a very long run to the next boss. Just keep going forward and up the lift, grab the flamedrak talisman, then run across the bridge and down the elevator to the grace. Head east, then north east across the snow field to a gargoyle run by and keep going to a grace by the lift and take it up to the next grace.
+From the avenue balcony grace make your way to the new red indicator on the map, this is the start of a very long run to the next boss. Just keep going forward and up the lift, grab the flamedrak talisman, then run across the bridge and down the elevator to the grace. Head east, then north east across the snow field to a gargoyle (grab the golden seed along the way) run by and keep going to a grace by the lift and take it up to the next grace.
 
-This lift can also go down with two halves of the secret medallion to an optional area of the game and is where the hardest actual boss of the game lives. 
+This lift can also go down with two halves of the secret medallion to an optional area of the game and is where the hardest actual boss of the game lives. One half is in the village south of raya lucaria, the other is from beating a boss in a castle to the north in the foggy top middle part of the map. 
 
 Just keep going forward, across the skinny bridge, and up the mountain. Eventually you'll get to the freezing lake, take a right and head southwest past a freeze dragon to the "first church of marika". Head west and continue up the mountain and across the bridge. Continue up the hill till you find the foot of the forge grace next to a chain bridge. The church has an invader so run in as quick as possible from the side and get the grace.
 
 You can do the alexander questline, but it's not very helpful here.
 
 Head to the altus plateu grace and head north a long ways through the mountain, through a valley, eventually getting to seethewater terminus, which has a lava lake that alexander is chilling in. The summon for Alexander is inside the fog wall for the fire giant fight. Summoning him is not very helpful as you lose access to your horse during the battle. 
-
-In summonwater village, there is a stonesword key fog door with a green turtle talisman, this helps recover stamina faster and helps a lot.
 
 The mimic can be very stupid, remove poison mist.
 
