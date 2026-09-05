@@ -492,7 +492,7 @@ From here there's not really much we can do without killing Radahn or progressin
 
 Radahn is very tough boss, but thankfully he is also weak to rot.
 
-In the southern part of Caelid there's a church on the hill, head there and touch the grace. In the church is a red fountain where you should trade a dead dragon heart from killing the big dragon for rotten breath. This moves requires 12 arcane and is why I recommend the hero class over the confessor class.
+In the southern part of Caelid there's a church on the hill, head there and touch the grace. In the church is a red fountain where you should trade a dead dragon heart from killing the big dragon for rotten breath. This move requires 12 arcane and is why I recommend the hero class over the confessor class.
 
 Head southeast of here and you'll find a tower at the Impassable Greatbridge grace with a portal. Take the portal into the castle and make your way to the Jester that is talking about the great battle.
 
