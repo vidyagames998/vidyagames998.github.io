@@ -646,10 +646,10 @@ The stonebarbed and opaline crystal tears aren't bad options either.
 
 Final boss time.
 
-As a Golden Halberd built you're going to have a incredibly tough time and you need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
+With a Golden Halberd you are going to have a incredibly tough time and you will need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 https://www.youtube.com/watch?v=29auhBPQT_A
 
-As a golden halberd tree sentinel build you are at a big disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% reduction. So you are mostly relying on physical damage. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. This is where the build ultimately falls apart and we have to pivot. 
+The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction. So you are mostly relying on physical damage. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. This is where the build ultimately falls apart and we have to pivot. 
 
 There are two things I recommend doing. First grinding levels from Birds in Mohgwyn Palace until you are at level 150. You can get by with less, it's just harder and won't take more than an hour. At a minimum I would do 120. You can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace. The second thing I recommend you do is get new gear and respec. 
 
