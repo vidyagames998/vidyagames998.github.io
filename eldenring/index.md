@@ -427,14 +427,12 @@ Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [
 
 After Raya Lucaria, with two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far north east). In this area you can also get a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) to upgrade halberd from a stone on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder if you haven't already. 
 
-Optional Grind for better levels and +10:
+Optional Grind for better levels and +10 Somber:
 South of raya lucaria is a church with the white masked man, talk to him and do his questline to get a severed finger.
-Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon an fight the mini boss.
-This is a really tough fight, I recommend just being very aggressive, you need to beat it to progress the questline and head back to the church
-Where he gives you a white cloth that needs a maidens blood, head to the bridge of sacrifice in weeping peninsula, and kill the girl to the south, then head back to the church, and receive an item that takes you to an area with the best rune farming in the game
-Head east then south and get to the grace at the top of the hill of enemies
-You can use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Arrows can be bought from santa. This is the most efficient farming method by far until you beat the game.
-There's a +10 Somber in a chest on top Mohgwyn Palace you can run up to once you get here
+Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon and fight the mini boss.
+This is a really tough fight, I recommend just being very aggressive, swing your sword before he gets to you to intimidate him, you need to beat him to progress the questline and then you can head back to the church.
+Where he gives you a white cloth that needs a maidens blood, head to the bridge of sacrifice in weeping peninsula, and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church east of the dectus medallion lift), then head back to the church south of raya lucaria, and receive an item that takes you to an area with the best rune farming in the game.
+Use the item to teleport. Then head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches. A bow can be bought from the round table hold. Arrows can be bought from Santa. This is by far the most efficient farming method until you beat the game. Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here and along the way are some high consumable runes found on the ground.   
 
 ## Tree Sentinel 2.0
 
