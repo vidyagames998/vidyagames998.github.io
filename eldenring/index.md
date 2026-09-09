@@ -182,11 +182,11 @@ Most items you pickup on the map are one time. They never regenerate and if you 
 
 Enemies respawn after every grace. Enemies can drop different items when you kill them, most weapons you get from an enemy have an incrediby rare 1% or less drop chance and you will spend a significant portion of time farming certain enemies if you find a video of a cool one you want to use.
 
+You might be asking yourself, why do they keep making up words and expect you to know what they mean? What does it even mean to be maidenless? Why is there so much unexplained lore? Why does this game obsess over fingers so much? Why does everything want to kill me? TBH, google is your friend on a lot of these. Fromsoft makes their games so they are open for interpretation purposefully expecting you to find a popular video explaining what they don't, so they don't have to. It adds to the replay-ability of a game, but it's really an advertising tactic to drive a fan base and isn't for everyone. Combine that with the dopamine reward of finally defeating a boss that instantly killed you 50 times and you get their recipe for success. 
+
 ## Limgrave
 
-After debating life for a bit. Why do they keep making up words and expect you to know what they mean? What does it even mean to be maidenless? Why are there so much unexplained lore? Why does this game obsess over fingers so much? Why does everything want to kill me? TBH, google is your friend on a lot of these. Fromsoft makes there games so they are open for interpretation purposefully expecting you to find a popular video explaining what they don't so they don't have to. It's an advertising tactic to drive a fan base and isn't for everyone. When in doubt on something just ask google.  
-
-Let's take a look around. You will see carriages.
+Take a look around and you will see carriages.
 
 ![](images/carriage.jpg)
 
