@@ -4,9 +4,9 @@ Elden Ring is a very tough game. For most this entire game you will easily die t
 
 When it comes to what items, armors, and weapons you should use FromSoft the makers of this game have gone way out of their way to try and balance every single optimized build. Over hyped videos have come out documenting super over powered game breaking builds and the game would see a patch in days breaking that build to try and maintain the games difficulty.
 
-I wanted to write a guide as if I were choosing to play the game first time and recommending how I would approach the game.
+With the tarnished edition coming out, I wanted to write a guide as if I were choosing to play the game first time and recommending how I would approach the game.
 
-With this guide you should be able to complete the game in about 10 hours. 
+With this guide you should be able to complete the game, excluding the DLC in about 10 hours. 
 
 ## Starting off
 
