@@ -184,7 +184,9 @@ Enemies respawn after every grace. Enemies can drop different items when you kil
 
 ## Limgrave
 
-After debating life for a bit. Let's take a look around. You will see carriages.
+After debating life for a bit. Why do they keep making up words and expect you to know what they mean? What does it even mean to be maidenless? Why are there so much unexplained lore? Why does this game obsess over fingers so much? Why does everything want to kill me? TBH, google is your friend on a lot of these. Fromsoft makes there games so they are open for interpretation purposefully expecting you to find a popular video explaining what they don't so they don't have to. It's an advertising tactic to drive a fan base and isn't for everyone. When in doubt on something just ask google.  
+
+Let's take a look around. You will see carriages.
 
 ![](images/carriage.jpg)
 
