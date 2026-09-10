@@ -392,9 +392,16 @@ This is all way overkill, but this makes the next bosses way easier.
 - Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
 - Mix the spiked crack tear and strength tear in the physick at a grace
 - Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
+- This same tree sentinel armor dunegon has grave glovewort 6 for your imps (optional)
+- Grave glovewort 7 [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(7)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(7)) (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - In summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle.
 
+Optional Grave Glovewort 8/9/10:
+8/9/10 Requires beating Tree Sentinel 2.0 and isn't really worth it
+[https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8))
+[https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9))
+[https://eldenring.wiki.fextralife.com/Grave_Glovewort_(10)](https://eldenring.wiki.fextralife.com/Great_Grave_Glovewort)
 
 ## First two bosses
 
