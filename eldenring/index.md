@@ -393,7 +393,7 @@ This is all way overkill, but this makes the next bosses way easier.
 - Mix the spiked crack tear and strength tear in the physick at a grace
 - Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
 - This same tree sentinel armor dunegon has grave glovewort 6 for your imps (optional)
-- Grave glovewort 7 [[https://eldenring.wiki.fextralife.com/Grave_Glovewort_(7)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(7))](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) (optional)
+- [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - In summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle.
 
