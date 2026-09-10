@@ -665,7 +665,7 @@ There are two things I recommend doing. First grinding levels from Birds in Mohg
 
 Certain builds are more optimized and a strength build around blasphemous blade with a high level will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
 
-The better option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together.
+The better option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The greatsword is way easier to acquire, you just need to run around grabbing 12 of each size of the normal smith stones or paying quite a bit with the bell bearings to purchase them. 
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 At 130 I did this and it only took a few tries:
@@ -676,7 +676,7 @@ At 130 I did this and it only took a few tries:
 - Heavy Greatsword +25 (Carriage in Caelid) (smithing stone bell bearing 1/2/3 (finish cave east of raya lucaria gate grace)(east of outer wall phantom tree grace is a cave with a chest at entrance)(In basement next to Zamor Ruins grace in mountaintops)), +25 (is in skull at Church of Repose in mountaintops), Lions Claw Ash of War (Fight easy boss in Fort Gael in Caelid)
 - Physick: Stonebarb Cracked Tear and Opaline (Use the +25 Heavy Greatsword and Mimic to kill Putrid Avatar North of Fort Faroth in Caelid to get both)
 - Dragon Seal (easy to get from first stonesword key door dungeon in game and is not as heavy as the finger seal)
-- Optional Buffs: Golden Vow (on dagger) + Flame Grant me Strength
+- Buffs: Golden Vow (on dagger) + Flame Grant me Strength
 - Flasks: 10 heals, 4 magic
 - Make sure you are medium load, remove pieces of armor if you need to
 - Strategy: Summon Mimic at start of phase 1. Dodge and heal and eventually get behind to use Lions Claw when open. Before phase 2 heal, use physick. Start phase 2 by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
