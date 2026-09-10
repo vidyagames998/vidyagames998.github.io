@@ -649,14 +649,14 @@ Final boss time.
 With a Golden Halberd you are going to have a incredibly tough time and you will need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 https://www.youtube.com/watch?v=29auhBPQT_A
 
-The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You can do the math, but you are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route, we need to get a little more strategic and optimize. This is the build I would go with and focus on jump R2's. 
+The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route, we need to get a little more strategic and optimize. This is the build I would go with and focus on jump R2's. 
 
-- Armor: Radahns helm, gauntlets, greaves with Raptors Black Feather Chest
-- Talismans: Axe Talisman, Claw Talisman, Ritual Sword Talisman, Haligdrake Talisman +2
-- Physick: Spiked Cracked Tear, Stonebarbed
-- Buff: Golden vow, flame grant me strength
+- Armor: Radahns helm, gauntlets, greaves with Raptors Black Feather Chest (+10% jump)
+- Talismans: Axe Talisman (+10% charged), Claw Talisman(+15% jump), Ritual Sword Talisman(+10% attack at full hp), Haligdrake Talisman +2 (20% holy damage negation)
+- Physick: Spiked Cracked Tear(+15% charged), Stonebarbed (+30% poise, boosts stance damage which helps stagger them so they stop beating on you and gives a free critical)
+- Buff: Golden vow (+11.5% extra damage, 7.5% damage negation), flame grant me strength(+20% physical damage, +20% fire damage, +20% stamina recovery)
 - Try to get 54 Strength as it gives you about an extra ~18% Damage over just 30 Strength 
-- Don't use contagious fury as it only helps if you one hand and you are better off two handing as it boosts strength 1.5x so 60 becomes 90. 
+- Don't use contagious fury (+12.5% damage) as it only helps if you one hand and you are better off two handing as it boosts strength 1.5x so 60 becomes 90. 
 - At level 130 I would do: 60 vigor, 12 mind, 35 endurance, 54 strength, 14 dex, 15 faith, 12 arcane. 
 
 Give it a shot, but ultimately this is where the build falls apart and I strongly suggest you just pivot.
