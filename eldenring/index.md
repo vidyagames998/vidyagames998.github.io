@@ -289,7 +289,7 @@ The Liurnia part of the maps is available by going past Finger Reader Crone Nort
 
 ![](images/map_north_limgrave.jpg)
 
-After rising up the second lift all the way to the north east of here is another tree sentinel boss you have to beat to get to the next area and he is even tougher than the first and you will really need to level up to beat him.
+After rising up the second lift all the way to the north east of here is another tree sentinel boss you have to beat to get to the next area and he is even tougher than the first and you will really need to level up to beat him without using poison.
 
 Spend a few hours exploring the map and planning out what caves you want to go into, talk to all the npcs if they don't attack.
 
