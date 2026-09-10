@@ -242,21 +242,10 @@ You can jump off the cliff to the bottom of these and as long as you are in the 
 
 Nearby is a glowing ball enemy, they usually have good items when killed.
 
-Near the grace is a guy asking for help, you can hit him free, but don't kill him and fully finish his questline throughout the game if you want an item to make your strength build stronger.
+From here I could go step by step go through everything or you could watch a video, but I recommend exploring the entire map on your own first. 
 
-From here I could go step by step go through everything, but I recommend exploring the entire map.
-
-Avoid going to the top left castle of the starting map as this is where the first real boss is and just see how far you can explore everything. Enjoy the beauty of the game and just take it all in.
-
-Rob all the graves.
-
-Visit all the churches.
-
-Collect all the map pieces.
-
-Collect all the golden seeds on the map.
-
-Collect all the water basins.
+Avoid going to the top left castle of the starting map as this is where the first real boss is and just see how far you can explore everything. Enjoy the beauty of the game and just take it all in. Rob all the graves.
+Visit all the churches. Collect all the map pieces. Collect all the golden seeds on the map. Collect all the water basins.
 
 Here's a good [map](https://mapgenie.io/elden-ring/maps/the-lands-between).
 
