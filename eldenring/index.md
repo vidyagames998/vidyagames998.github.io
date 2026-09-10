@@ -665,7 +665,7 @@ There are two things I recommend doing. First grinding levels from Birds in Mohg
 
 Certain builds are more optimized and a strength build around blasphemous blade with a high level will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
 
-The better option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The greatsword is way easier to acquire, you just need to run around grabbing 12 of each size of the normal smith stones or paying quite a bit with the bell bearings to purchase them. 
+The better option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The greatsword is way easier to acquire, you just need to run around grabbing 12 of each size of the normal smith stones or paying a bit with the bell bearings to purchase them. This build also doesn't require nearly as much optimization to work well. 
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 At 130 I did this and it only took a few tries:
