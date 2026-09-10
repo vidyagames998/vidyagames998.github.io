@@ -649,7 +649,7 @@ Final boss time.
 With a Golden Halberd you are going to have a incredibly tough time and you will need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 https://www.youtube.com/watch?v=29auhBPQT_A
 
-The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You can do the math, but you are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route, this is the build I would go with and focus on jump R2's. 
+The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You can do the math, but you are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route, we need to get a little more strategic and optimize. This is the build I would go with and focus on jump R2's. 
 
 - Armor: Radahns helm, gauntlets, greaves with Raptors Black Feather Chest
 - Talismans: Axe Talisman, Claw Talisman, Ritual Sword Talisman, Haligdrake Talisman +2
