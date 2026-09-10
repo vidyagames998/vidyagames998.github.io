@@ -333,7 +333,7 @@ Head northeast until you get to the giant tower called Lenne's rise. Head West d
 
 If that feels cheap you can also grind other enemies around here if you wanted to.
 
-You'll want 30 strength, 15 faith, 12 arcane, 14 Dex, and at least 18 vigor. 
+You'll want 30 strength, 15 faith, 12 arcane, 14 Dex, and at least 18 vigor. The next goal with future runes should be 25 vigor and 25 endurance. They help a lot with being able to take multiple hits from enemies and being able to dish out lots of damage without running out of stamina. Endurance also helps you carry heavy armor without fat rolling. 
 
 From here you really need to decide how much grinding do you really want to do? You don't have to grind to get runes if you are willing to do some side quests to earn runes.
 
@@ -490,7 +490,7 @@ From here there's not really much we can do without killing Radahn or progressin
 
 ## Radahn Fight
 
-Radahn is very tough boss, but thankfully he is also weak to rot.
+Radahn is very tough boss, but thankfully he is also weak to rot. It's worth putting a couple points into mind to make rotting enemies easier, but not necessary. 
 
 In the southern part of Caelid there's a church on the hill, head there and touch the grace. In the church is a red fountain where you should trade a dead dragon heart from killing the big dragon for rotten breath. This move requires 12 arcane and is why I recommend the hero class over the confessor class.
 
@@ -500,7 +500,9 @@ Once in the battle you want to run forward, this will cause the arrow to hit the
 
 Once the boss is sufficiently distracted sprint your way to the top of the hill and cast dragon breath (Left to select finger spell, 2 hand the finger spell (Y+LB/L1) then to use press and hold RB/R1). It should hopefully take and he'll start smoking. Run away and resummon people on the top of the hill when they die. At half health he'll fly up and come crashing down again. Sprint to the side to dodge him as he comes back down. You need to re poison with dragon breath until he dies. If you are struggling the golden halberd at +9/+10 can take him on too and make the damage happen quicker. Optionally equip the golden scarab and use a pickled fowl foot when he dies for 100k runes.
 
-Each time you kill a main boss they drop a item that can either be traded for 1 of 2 new boss specific gear at the Table of Lost Grace or used for extra money. On the south most part of the map is a giant land turtle by the fourth church of marika. If you knock off the barnacles it will fall and you can duplicate a single boss rememberance. Duplicating the Radahn rememberance gives you an extra 40k runes each. If you want both the items just farm runes, but free extra runes are useful at this point in the game. There are other giant turtles around the map as well.
+After killing Radahn at the table of lost grace you can buy his gear from the two fingers. It's expensive, but you should as it will be used for the rest of the run. 
+
+If you haven't noticed each time you kill a main boss they also drop a item that can either be traded for 1 of 2 new boss specific gear at the Table of Lost Grace or used for extra money. On the south most part of the map is a giant land turtle by the fourth church of marika. If you knock off the barnacles it will fall and you can duplicate a single boss rememberance. Duplicating the Radahn rememberance gives you an extra 40k runes each. If you want both the items just farm runes, but free extra runes are useful at this point in the game. There are other giant turtles around the map as well.
 
 ![](images/giant_turtle.jpg)
 
@@ -576,7 +578,7 @@ From Agheel lake north head north east and drop down into the river by the sprin
 
 Travel to east capital rampart, look out over the city and go to the building with the gold dome that's destroyed. On the third floor is a seedbed curse on a chair. Go to the round table hold and talk to a red guy past the item shop to get a key. Travel to the underground roadside grace in the capital city. Head north and drop down by the gate. Head west past all the flower enemies, up the ladder, and let the guy out of the jail. This makes it so we can fight the next boss ahead with an extra summon.
 
-Head back the queens bedchamber grace, summon the dung eater and melina. Buff up then head inside. Run back and summon your mimic and heal. Run up and get close, then use the shackle and get a few hits in. Let the summons tank damage and hit and run away. When he gets up you can shackle him again. You'll likely need to dodge to the left and right a lot. At half health run away to dodge the spell he uses. This should be a pretty easy fight with the shackle and summons.
+Head back the queens bedchamber grace, summon the dung eater and melina. Buff up then head inside. Run back and summon your mimic and heal. When you summons start attacking use the shackle. Then run up and get close and get a few hits in. Let the summons tank damage and hit and run away. You'll likely need to dodge to the left and right a lot. At half health run away to dodge the spell he uses. This should be a pretty easy fight with the shackle and summons.
 
 ## Fire Giant
 
@@ -586,7 +588,7 @@ This lift can also go down with two halves of the secret medallion to an optiona
 
 Just keep going forward, across the skinny bridge, and up the mountain. Eventually you'll get to the freezing lake, take a right and head southwest past a freeze dragon to the "first church of marika". Head west and continue up the mountain and across the bridge. Continue up the hill till you find the foot of the forge grace next to a chain bridge. The church has an invader so run in as quick as possible from the side and get the grace.
 
-You can do the alexander questline, but it's not very helpful here.
+You can do the alexander questline, but it's not very helpful here as it stops you from being able to do the fight on your horse. 
 
 Head to the altus plateu grace and head north a long ways through the mountain, through a valley, eventually getting to seethewater terminus, which has a lava lake that alexander is chilling in. The summon for Alexander is inside the fog wall for the fire giant fight. Summoning him is not very helpful as you lose access to your horse during the battle. 
 
@@ -600,7 +602,7 @@ In phase 2 two arm the finger seal (Y+L1), then just take a step or two forward 
 
 Note: Leveling the finger seal or using another seal like the dragon communion seal is not worth it and won't help with inflicting rot any faster and only aids in doing more damage from the initial spray.
 
-Talk to melina at the grace to go to the next area. This kills most everyone in the round table hold and really progresses the storyline, if you haven't done things and want to do so before talking to her here.
+Talk to melina at the grace to go to the next area. This kills most everyone in the round table hold and really progresses the storyline, if you haven't done storyline things and want to, do so before talking to her here.
 
 ## Farum Azula
 
@@ -615,22 +617,22 @@ From here make your way west, grab the dragon crest sheild talisman +2 along the
 
 Up the hill from here is a tree sentinel. He is extremely tough to fight as a golden halberd, but he is weak to poison.
 
-Allocate 5 magic flasks, run up and enter the gold fog door. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed.
+Allocate 5 magic flasks, run up and enter the gold fog door. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed just like the last tree sentinel. 
 
-Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander equip it.
+Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander. It won't help the golden halberd, but does help other builds. 
 
-Equip the tree sentinel armor (if you didn't grab the easier tree sentinel armor earlier), make sure you aren't overloaded just heavy.
+Equip the tree sentinel armor (if you didn't grab the easier tree sentinel armor or radahn's set from earlier), make sure you aren't overloaded just heavy.
 
-Equip the jellyfish shield and finger seal.
-Equip radagons soreseal, dragon crest sheild talisman +2, axe talisman, and shard of alexander
+Equip the finger seal.
+Equip radagons soreseal, dragon crest sheild talisman +2, axe talisman, and claw talisman
 
-I had 35 vigor, 14 dex, 17 faith, 61 strength, 13 endurance at level 88. This is likely not optimal feel free to experiment. Less strength and more endurance would help a lot.
+I had 35(+5) vigor, 11 mind, 14(+5) dex, 15 faith, 30(+5) strength, 35(+5) endurance, and 12 arcane. Extra points should go into strength or vigor.  
 
 If you are struggling consider grinding levels to 130. Skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
 
 Before the boss room buff shield, flame grant me strength, and golden vow. Head in summon mimic immediately heal, dodge roll behind maliketh. As he fights your mimic jump and r2. In Phase 2 use R2s and jump R2s as he fights your mimic. Try and hide behind pillars. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to fight bernhal to get it.
 
-Level faith, head forward south west to gideon. Before the door unequip finger seal and shield. Don't buff. Run to the left front pillar. Summon mimic, heal. Wait for gideon to attack mimic. Jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic. When he does punish. Might take a few tries.
+Head forward and south west to gideon. Before the door unequip finger seal and shield. Don't buff. Run to the left front pillar. Summon mimic, heal. Wait for gideon to attack mimic. Jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic. When he does punish. Might take a few tries.
 
 With the Golden Halberd build this is another tough fight, but you can run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
 
@@ -640,33 +642,43 @@ Optional:
 Get the faith knot crystal tear east of church of pilgrimage.
 Get the dex knot crystal tear north west of the Laskyar Ruins.
 Mix those in your wondrous physick for an extra 20 levels of stats.
-The stonebarbed and opaline crystal tears aren't bad options either.
+The stonebarbed and opaline crystal tears would work better, but it's not needed and takes more effort to get them. (kill Putrid Avatar North of Fort Faroth in Caelid to get both)
 
 Final boss time.
 
 With a Golden Halberd you are going to have a incredibly tough time and you will need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 https://www.youtube.com/watch?v=29auhBPQT_A
 
-The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction. You can do the math, but you are likely only hitting for ~40% of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. This is where the build ultimately falls apart and we have to pivot. 
+The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You can do the math, but you are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route, this is the build I would go with and focus on jump R2's. 
+
+- Armor: Radahns helm, gauntlets, greaves with Raptors Black Feather Chest
+- Talismans: Axe Talisman, Claw Talisman, Ritual Sword Talisman, Haligdrake Talisman +2
+- Physick: Spiked Cracked Tear, Stonebarbed
+- Buff: Golden vow, flame grant me strength
+- Try to get 54 Strength as it gives you about an extra ~18% Damage over just 30 Strength 
+- Don't use contagious fury as it only helps if you one hand and you are better off two handing as it boosts strength 1.5x so 60 becomes 90. 
+- At level 130 I would do: 60 vigor, 12 mind, 35 endurance, 54 strength, 14 dex, 15 faith, 12 arcane. 
+
+Give it a shot, but ultimately this is where the build falls apart and I strongly suggest you just pivot.
 
 There are two things I recommend doing. First grinding levels from Birds in Mohgwyn Palace until you are at level 150. You can get by with less, it's just harder and won't take more than an hour. At a minimum I would do 120. You can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace. The second thing I recommend you do is get new gear and respec. 
 
 Certain builds are more optimized and a strength build around blasphemous blade with a high level will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
 
-Another great option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together.
+The better option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together.
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 At 130 I did this and it only took a few tries:
 - Respec: 49 Vigor, 20 mind, 35 endurance, 60 strength, 12 dex, 7 intel, 15 faith, 11 arcane (Additional points should go to mind or vigor)
 - Armor: Radahns set (purchase from two fingers in round table hold)
-- Talismans: Shard of Alexander(boosts lions claw damage), Dragoncrest Shield Talisman +2 (The greatshield is better, but requires beating Commander Niall back by the frost lake dragon), Haligdrake +2 Talisman (Mohgwyn Palace Corpse, boosts holy damage negation), Green Turtle Talisman (boosts stamina). By dropping Radagons Soreseal we save an additional 15% of damage.
+- Talismans: Shard of Alexander(boosts lions claw damage), Dragoncrest Shield Talisman +2 (The greatshield is better, but requires beating Commander Niall back by the frost lake dragon), Haligdrake +2 Talisman (Mohgwyn Palace Corpse, boosts holy damage negation), Green Turtle Talisman (boosts stamina). By dropping Radagons Soreseal we save an additional 15% of damage and is definitely worth doing so at these levels. 
 - Mimic +10
 - Heavy Greatsword +25 (Carriage in Caelid) (smithing stone bell bearing 1/2/3 (finish cave east of raya lucaria gate grace)(east of outer wall phantom tree grace is a cave with a chest at entrance)(In basement next to Zamor Ruins grace in mountaintops)), +25 (is in skull at Church of Repose in mountaintops), Lions Claw Ash of War (Fight easy boss in Fort Gael in Caelid)
 - Physick: Stonebarb Cracked Tear and Opaline (Use the +25 Heavy Greatsword and Mimic to kill Putrid Avatar North of Fort Faroth in Caelid to get both)
 - Dragon Seal (easy to get from first stonesword key door dungeon in game and is not as heavy as the finger seal)
 - Optional Buffs: Golden Vow (on dagger) + Flame Grant me Strength
 - Flasks: 10 heals, 4 magic
-- Make sure you are medium load, remove armor if you need to
+- Make sure you are medium load, remove pieces of armor if you need to
 - Strategy: Summon Mimic at start of phase 1. Dodge and heal and eventually get behind to use Lions Claw when open. Before phase 2 heal, use physick. Start phase 2 by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
 
 Blasphemous Blade 130 build:
