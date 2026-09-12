@@ -618,7 +618,7 @@ From here make your way west, grab the dragon crest sheild talisman +2 along the
 
 ### Tree Sentinel 3.0
 
-Up the hill from here is a tree sentinel 3.0, just like 2.0 he is extremely tough to fight as a golden halberd, but he is weak to poison.
+Up the hill from here is a tree sentinel 3.0, just like 2.0 he is pretty tough to fight as a golden halberd, but he is weak to poison.
 
 Allocate 5 magic flasks, run up and enter the gold fog door to start the Maliketh fight. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be outside the boss and behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed.
 
