@@ -608,69 +608,79 @@ Talk to melina at the grace to go to the next area. This kills most everyone in 
 
 The next area you just want to run forward hitting the graces. Ignore the dragon and head west to the next grace. Keep going west. Head north to the next grace. At the dragon temple grace. You want to turn around and drop down to the stairs underneath you, then make your way to the back right. you are going to go inside, down the stairs and to the right to the next grace (Dragon Temple Transept).
 
-This boss can be very tough fight, summon Bernahl, head to the right and try to fight them.
+### Godskin Duo
 
-With the right levels they aren't so bad. This boss is normally a huge skill check. This was my strategy at lvl 83 with 32 vigor.
-Summon, Buff, enter fog door on far left, immediately cast mimic, dodge roll behind pillars. Wait for an opening and bully one of them. Once one is killed it's a lot easier to kill the other. Keep hitting as they disappear. They will eventually spawn back in one at a time. Bully fast. If you are struggling they are weak to consumable sleep pots from a recipe on the graves near the third church of marika that you can craft. Keep in mind there are only so many trina lillies on the map though and you can run out. If that happens I would grind levels by killing birds at the Palace Approach Edge Road and keep getting levels until you can beat them. Santa at church of elleh sells an infinite supply of arrows as well. 
+This boss can be very tough fight and is normally a huge skill check for players, but thanks to our build and sleep pots these two are not so bad. 
+
+Craft and equip the sleep pot (recipe is from graves near the third church of marika). Summon Bernahl, then buff flame grant me strength and golden vow before entering. Go inside, immediately summon your mimic, then run to the left and hide behind the pillar. When you get an opening throw a sleep pot on one of them. When one falls asleep bully the other and leave the sleeping one alone. Keep swinging when it fades away. Once one is killed go kill the other. Remember to keep hitting as they disappear for more damage. They will eventually spawn back in one at a time. Bully fast. Keep in mind there are only so many trina lillies on the map though and you can run out so if die to this boss a lot and waste all your sleep pots consider leaving one and just have your mimic use it as they don't count against you. If you are really struggling grind levels by killing birds at the Palace Approach Edge Road and keep getting levels until you can beat them. The sisters at the roundtable hold sell a bow. Santa at church of elleh sells an infinite supply of arrows as well. 
 
 From here make your way west, grab the dragon crest sheild talisman +2 along the way. Run South to the dragon and grab the +10 somber behind the dragon, dodge all the birds along the way. Head up the hill and across the bridge and up the elevator to the grace (beside the greatbridge).
 
-Up the hill from here is a tree sentinel. He is extremely tough to fight as a golden halberd, but he is weak to poison.
+### Tree Sentinel 3.0
 
-Allocate 5 magic flasks, run up and enter the gold fog door. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed just like the last tree sentinel. 
+Up the hill from here is a tree sentinel 3.0, just like 2.0 he is extremely tough to fight as a golden halberd, but he is weak to poison.
 
-Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander. It won't help the golden halberd, but does help other builds. 
+Allocate 5 magic flasks, run up and enter the gold fog door to start the Maliketh fight. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be outside the boss and behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed.
 
-Equip the tree sentinel armor (if you didn't grab the easier tree sentinel armor or radahn's set from earlier), make sure you aren't overloaded just heavy.
+Once he is dead head back to the grace. This is the final boss rush before the end of the game and we should make sure we are ready. Now is a good time to go optionally go grind levels for a little bit to make your life easier. Just head to Moghywn Palace and at the Palace Edge grace pull out a bow and shoot the bird off the cliff repeat for about 30 min and you should be around level 120.
 
-Equip the finger seal.
-Equip radagons soreseal, dragon crest sheild talisman +2, axe talisman, and claw talisman
+Before Maliketh I also recommend getting the Stonebarded crystal tear and Opaline crystal tear. You can do so by killing the Putrid Avatar North of Fort Faroth in Caelid. Just use your mimic do two R2's and run away then repeat until dead. The stonebarbed cyrstal tear boosts stance damage which helps stagger them so bosses stop beating on you and helps give you a free critical.
 
-I had 35(+5) vigor, 11 mind, 14(+5) dex, 15 faith, 30(+5) strength, 35(+5) endurance, and 12 arcane. Extra points should go into strength or vigor.  
+Before proceeding you should have:
+Stats: 35(+5) vigor, 11 mind, 14(+5) dex, 15 faith, 30(+5) strength, 35(+5) endurance, and 12 arcane. Extra points should go into strength or vigor.  
+Armor: Tree Sentinel/Radahn's Set (Medium load ideally)
+Equip: Golden Halberd +10, Finger Seal/Dragon Seal (Lighter easy to get from an enemy in the very first stonesword key door dungeon at the first steps)
+Talismans: Radagons Soreseal, Dragoncrest Shield Talisman +2/Dragoncrest Greatshield(long hour journey that isn't needed just helps), Axe Talisman, Green Turtle/Claw Talisman (From on top stormveil castle)
+Spells: Flame Grant Me Strength and Rot Breath
+Physick: Spiked Cracked and Strength/Stonebarbed
 
-If you are struggling consider grinding levels to 130. Skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
+### Maliketh
+Before the boss room buff flame grant me strength and golden vow, then unequip the seal and two hand the halberd. Unequiping the seal makes your mimic fight more instead of sitting there. Head in, summon mimic immediately then run to the pillar to the left and heal. This is a good place to hide from Maliketh's attacks and get his focus on your mimic. This should put Maliketh between you and the summon, try and keep it that way. As he fights your mimic, jump and r2 then run away. In Phase 2 immediately run to the back left behind the pillar. Time when to attack and use R2s and jump R2s as he fights your mimic. The pillar is your friend. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to venture off and finish the long [Rykard questline](https://www.youtube.com/watch?v=v0JWm3o59qs) and fight bernhal to get it.
 
-Before the boss room buff shield, flame grant me strength, and golden vow. Head in summon mimic immediately heal, dodge roll behind maliketh. As he fights your mimic jump and r2. In Phase 2 use R2s and jump R2s as he fights your mimic. Try and hide behind pillars. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to fight bernhal to get it.
+If you are struggling consider grinding levels to 130-150. You can also skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
 
-Head forward and south west to gideon. Before the door unequip finger seal and shield. Don't buff. Run to the left front pillar. Summon mimic, heal. Wait for gideon to attack mimic. Jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic. When he does punish. Might take a few tries.
+### Gideon
+After Maliketh you land in the ash covered capital city. Just run forward and to the right a bit to take the elevator up to Gideon. Buff Flame grant me strength and golden vow, summon mimic, charged R2's and quick R1's to kill. Very easy fight. Then head up the tree and keep going forward to Godfrey.
 
-With the Golden Halberd build this is another tough fight, but you can run up to the next boss. Summon mimic, heal. Run up to him when he throws his sword roll forward. Try and get behind him. Do jump charged r2s. Try to dodge roll all his attacks and keep aggression on the mimic. You'll have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll wait till it's needed.
-
-On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible.
+### Godfrey
+Buff flame grant me strengh and golden vow, unequip the seal then go in. Summon mimic and heal. Wait for Godfrey to attack your mimic. Then go in for a jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic and punish. I think this fight is easier than Maliketh as the attacks are easy to dodge and the mimic does really good damage. You may have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll and wait till it's actually needed. On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible.
 
 Optional:
+Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander. 
 Get the faith knot crystal tear east of church of pilgrimage.
 Get the dex knot crystal tear north west of the Laskyar Ruins.
-Mix those in your wondrous physick for an extra 20 levels of stats.
-The stonebarbed and opaline crystal tears would work better, but it's not needed and takes more effort to get them. (kill Putrid Avatar North of Fort Faroth in Caelid to get both)
+The stonebarbed and opaline crystal tears if you haven't already
 
 Final boss time.
 
-With a Golden Halberd you are going to have a incredibly tough time and you will need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a good video that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
-https://www.youtube.com/watch?v=29auhBPQT_A
+### Radagon / Elden Beast
 
-The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route, we need to get a little more strategic and optimize. This is the build I would go with and focus on jump R2's. 
+With a Golden Halberd you are going to have a incredibly tough time and you will need to spend some time learning how to fight both final bosses. There are tons of guides online. Here is a [good video](https://www.youtube.com/watch?v=29auhBPQT_A) that explains the bosses movesets and can save you from countless deaths. The secret to phase 1 is rolling into him. 
 
-- Armor: Radahns helm, gauntlets, greaves with Raptors Black Feather Chest (+10% jump)
-- Talismans: Axe Talisman (+10% charged), Claw Talisman(+15% jump), Ritual Sword Talisman(+10% attack at full hp), Haligdrake Talisman +2 (20% holy damage negation)
-- Physick: Spiked Cracked Tear(+15% charged), Stonebarbed (+30% poise, boosts stance damage which helps stagger them so they stop beating on you and gives a free critical)
+The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch. If you want to attempt this route I would recommend leveling to 150 then do the following.
+
+- Armor: Tree Sentinel 
+- Talismans: Axe Talisman (+10% charged), Claw Talisman(+15% jump), Dragoncrest greatshield talisman/Dragoncrest Shield +2, Haligdrake Talisman +2 (20% holy damage negation)
+- Physick: Spiked Cracked Tear(+15% charged), Stonebarbed (+30% poise, )
 - Buff: Golden vow (+11.5% extra damage, 7.5% damage negation), flame grant me strength(+20% physical damage, +20% fire damage, +20% stamina recovery)
-- Try to get 54 Strength as it gives you about an extra ~18% Damage over just 30 Strength 
+- At least 54 Strength as it gives you about an extra ~18% Damage over just 30 Strength 
 - Don't use contagious fury (+12.5% damage) as it only helps if you one hand and you are better off two handing as it boosts strength 1.5x so 60 becomes 90. 
-- At level 130 I would do: 60 vigor, 12 mind, 35 endurance, 54 strength, 14 dex, 15 faith, 12 arcane. 
+- At level 130 I would do: 60 vigor, 12 mind, 35 endurance, 54 strength, 14 dex, 15 faith, 12 arcane. At 150 go to 60 strength and dump the rest in endurance. 
 
-Give it a shot, but ultimately this is where the build falls apart and I strongly suggest you just pivot.
+You can give it a shot, but ultimately this is where the build falls apart and you would have a much easier time if you just pivot and I strongly suggest you do so.
 
-There are two things I recommend doing. First grinding levels from Birds in Mohgwyn Palace until you are at level 150. You can get by with less, it's just harder and won't take more than an hour. At a minimum I would do 120. You can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace. The second thing I recommend you do is get new gear and respec. 
+First I would really strive to get to Level 150. You can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace.
 
-Certain builds are more optimized and a strength build around blasphemous blade with a high level will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are easy and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
+Then let's get some new gear and respec. 
 
-The better option I recommend you do is using the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The greatsword is way easier to acquire, you just need to run around grabbing 12 of each size of the normal smith stones or paying a bit with the bell bearings to purchase them. This build also doesn't require nearly as much optimization to work well. 
+Certain builds are more optimized and a strength build around Blasphemous Blade will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are way easier and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running. 
+
+As a better option I recommend instead you use a build around the Greatsword with Lions claw as it is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The Greatsword is way easier to acquire over the Blashphemous Blade and you just need to run around grabbing 12 of each size of the normal smith stones or paying a bit with the bell bearings to purchase them. This build also doesn't require nearly as much optimization to work well and you can beat elden beast potentially without grinding. 
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 At 130 I did this and it only took a few tries:
 - Respec: 49 Vigor, 20 mind, 35 endurance, 60 strength, 12 dex, 7 intel, 15 faith, 11 arcane (Additional points should go to mind or vigor)
-- Armor: Radahns set (purchase from two fingers in round table hold)
+- Armor: Radahns set (purchase from two fingers in round table hold)/Tree Sentinel(Heavier, but slightly better)
 - Talismans: Shard of Alexander(boosts lions claw damage), Dragoncrest Shield Talisman +2 (The greatshield is better, but requires beating Commander Niall back by the frost lake dragon), Haligdrake +2 Talisman (Mohgwyn Palace Corpse, boosts holy damage negation), Green Turtle Talisman (boosts stamina). By dropping Radagons Soreseal we save an additional 15% of damage and is definitely worth doing so at these levels. 
 - Mimic +10
 - Heavy Greatsword +25 (Carriage in Caelid) (smithing stone bell bearing 1/2/3 (finish cave east of raya lucaria gate grace)(east of outer wall phantom tree grace is a cave with a chest at entrance)(In basement next to Zamor Ruins grace in mountaintops)), +25 (is in skull at Church of Repose in mountaintops), Lions Claw Ash of War (Fight easy boss in Fort Gael in Caelid)
@@ -683,7 +693,7 @@ At 130 I did this and it only took a few tries:
 
 Blasphemous Blade 130 build:
 - Respec: 55 Vigor, 23 Mind, 20 endurance, 22 strength, 15 dex, 7 Intel, 55 Faith, 11 Arcane
-- Armor: Radahns set (above)
+- Armor: Radahns set (above)/Tree Sentinel
 - Talisman: Shard of Alexander, Haligdrake Talisman +2, Dragoncrest Shield Talisman +2, Erdtree's Favor +2 (tree in Ashen Capital)
 - Physick: Flame-Shrouding Cracked Tear(Other putrid avatar in caelid by rotview balcony)+Opaline Hardtear(above)
 - Dragon Seal (above)
@@ -691,11 +701,11 @@ Blasphemous Blade 130 build:
 - Flasks: 10 heals, 4 magic
 - Make sure you are medium load, remove armor if you need to
 
-Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, just not nearly as easy as it looks. Additionally you'll find people like to post hype videos for their builds, be skeptical before choosing one and be mindful Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. I recommend thinking back to the builds at the start of the game and thinking about how you would optimize for stats they are best at, they most emphasize on one or two stats. Think about the different weapon classes and find which would pair well in whatever one or two stats you chose for your class. These strong pairings likely won't see patches nerfing them as they were intended and well balanced with proper leveling and are probably an ok way to play the game on a second play through.  
+Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, it's just not nearly as easy as it looks. Additionally you'll find people like to post hype videos for their builds, be skeptical before choosing one and be mindful Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. I recommend thinking back to the builds at the start of the game and thinking about how you would optimize for stats they are best at, they most emphasize on one or two stats. Think about the different weapon classes and find which would pair well in whatever one or two stats you chose for your class. These strong pairings likely won't see patches nerfing them as they were intended and well balanced with proper leveling and are probably an ok way to play the game on a second play through.  
 
 Good luck with the final boss. If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
 
-If you don't want to grind right now to defeat the final boss, there's plenty of other content to do if you want to explore the map. Lookup the secret medallion if you want to learn about those areas. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
+If you don't want to grind right now to defeat the final boss, there's plenty of other content to do if you want to explore the map. Lookup the secret medallion if you want to learn about those areas to take the second lift down and through the snow fields to Miquella. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
 
 `~Fin~`
 
