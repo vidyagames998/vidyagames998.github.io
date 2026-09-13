@@ -484,9 +484,9 @@ In the Raya Lucaria Castle, you can take the lift down to the bottom and die to 
 
 If we go back to the Sofra River (South of the third church of marika in East Limgrave and down the elevator). We can light the 8 statues and fight a giant deer boss (optional) and make your way to the dragon kin soldier face down in the water from a portal. With a +9 on the horse he's not so bad, but he can and will easily one shot kill you.
 
-Eventually if we come back here after Radahan we can take a teleportation casket and make our way to a extremely tough double gargoyle fight (even at +9 lvl 60). We could also walk through and spend our stonesword keys to unlock a lift to caelid, but it's a waste since we've already been there.
+Eventually if we come back here after Radahn we can take a teleportation casket and make our way to a extremely tough double gargoyle fight (even at +9 lvl 60). We could also walk through and spend our stonesword keys to unlock a lift to caelid and get an item that helps us carry more weight, but it's a waste this early as the fights are kind of tough. 
 
-From here there's not really much we can do without killing Radahn or progressing the harder IMO capital city bosses.
+What we can do down here is pretty exhausted until we kill Radahn and it's not worth trying to kill the double gargoyle. 
 
 ## Radahn Fight
 
@@ -576,7 +576,7 @@ Head up to the next grace. Now before we fight Margott we can optionally take a 
 
 From Agheel lake north head north east and drop down into the river by the spring. Run south until you get invaded and defeat him it should be very easy with a +9, then head in the murkwater cave. Take right and fight and kill patches. Use the bell he drops at the round table hold item shop to buy margits shackle for 5k. His bell bearing also sells a recipe to make gold pickled fowl foots.
 
-Travel to east capital rampart, look out over the city and go to the building with the gold dome that's destroyed. On the third floor is a seedbed curse on a chair. Go to the round table hold and talk to a red guy past the item shop to get a key. Travel to the underground roadside grace in the capital city. Head north and drop down by the gate. Head west past all the flower enemies, up the ladder, and let the guy out of the jail. This makes it so we can fight the next boss ahead with an extra summon.
+Travel to east capital rampart, look out over the city and go to the building with the gold dome that's destroyed. On the third floor is a seedbed curse on a chair. Go to the round table hold and talk to a red guy past the item shop to get a key. Travel to the underground roadside grace in the capital city. Head north and drop down by the gate. Head west past all the flower enemies, up the ladder, and let the guy out of the jail. This makes it so we can fight the next boss ahead with an extra summon. The basement of the capital city goes down pretty far, but we don't need to explore this or fight any of the mini bosses down here.  
 
 Head back the queens bedchamber grace, summon the dung eater and melina. Buff up then head inside. Run back and summon your mimic and heal. When you summons start attacking use the shackle. Then run up and get close and get a few hits in. Let the summons tank damage and hit and run away. You'll likely need to dodge to the left and right a lot. At half health run away to dodge the spell he uses. This should be a pretty easy fight with the shackle and summons.
 
