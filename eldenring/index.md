@@ -703,9 +703,11 @@ Greatsword with Lions Claw 130+ build:
 
 Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, what they do at low levels is just not nearly as easy as it looks. Additionally you'll find people who like to post hype videos for their builds to get views, be skeptical before choosing one and be mindful as Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. All builds have been pretty well balanced. The Greatsword is shown in the loading screen all the time so I doubt they will nerf it. If you go into New Game+ and don't want to be a Tree Sentinel again. I recommend you start by picking a weapon class, then a weapon you want to use for the next playthrough, then pick the matching class that pairs with what the weapon scales with. Once you meet your weapons minimum requirements, load up on vigor, then continue leveling according to the weapon attributes. 
 
-Good luck with the final "boss". If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
+Good luck with the final "boss" (The optional Miquella fight is often referred to as the real final boss as she is by far the hardest to beat). 
 
-If you don't want to grind right now to defeat the final boss, there's plenty of other content to do. There's a lot left to the map and a ton of bosses to fight. Lookup the secret medallion if you want to learn about those areas to take the second lift down and through the snow fields to Miquella. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
+If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
+
+If you don't want to grind right now to defeat Elden Beast, there's plenty of other content to do. There's a lot left to the map and a ton of bosses and mini bosses to fight. Lookup the secret medallion if you want to learn about those areas to take the second lift down and through the snow fields to Miquella. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
 
 `~Fin~`
 
