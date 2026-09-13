@@ -320,7 +320,7 @@ Hop on the horse, walk up to the tree sentinel, summon the rotten stray ashes, d
 
 If you are truly stuck you can ask for help and summon a random multiplayer cooperator on the internet at the statue and you might get lucky and have someone kill him for you.
 
-The tree sentinel drops a Golden Halberd our weapon of choice for the playthrough. It upgrades with Somber Smithing Stones which are way easier to come by and make early game upgrades. The halberd also has a golden vow L2 temporary enchantment to buff attack damage and damage negation. Getting a +3 Somber requires exploring north of Limgrave unless you want to rely on a very rare random drop in the selia cave you got teleported to. We can easily upgrade to somber 5 without too much difficulty. Getting somber +6 requires either killing a tough boss in Caelid, killing a tough boss at the North most part of the map, taking a long and scary excursion to Volcano Manor via Raya Lucaria or just picking up both halves of dectus medallion and climbing the long ladder near the top left of the map to a chair overlooking the map. Getting the +7 requires getting past the next tree sentinel(easy) or fight a dual boss fight in a cave underneath the tree sentinel (very hard) in addition to killing Queen Rannala(easy) or Radahn(hard). 
+The tree sentinel drops a Golden Halberd our weapon of choice for the playthrough. It upgrades with Somber Smithing Stones which are way easier to come by and make early game upgrades. The halberd also has a golden vow L2 temporary enchantment to buff attack damage and damage negation. Getting a +3 Somber requires exploring north of Limgrave unless you want to rely on a very rare random drop in the selia cave you got teleported to. We can easily upgrade to somber 5 without too much difficulty. Getting somber +6 requires either killing a tough boss in Caelid, killing a tough boss at the North most part of the map, taking a long and scary excursion to Volcano Manor via Raya Lucaria or just picking up both halves of dectus medallion and climbing the long ladder near the top left of the map to a chair overlooking the map. Getting the +7 requires either fighting Godskin noble in Volcano Manor (very hard), getting past the next tree sentinel (easy), or fighting a dual boss fight in a cave underneath the tree sentinel (very hard) in addition to killing Queen Rannala(easy) or Radahn(hard). Once you get a +7 you can easily upgrade to +10 by going to Mohgwyn Palace early. 
 
 ## Leveling up 
 
@@ -383,23 +383,22 @@ Back near lenne's rise there's a long bridge, there's a glitch to kill this drag
 
 https://www.youtube.com/watch?v=p7VmiX50vO4
 
-There's also some more optional gear we can get to make this build way better.
-This is all way overkill, but this makes the next bosses way easier.
+There's also some more optional gear we can get to make this build better. This is all way overkill, but this makes the next bosses way easier.
 
 - Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. (West of Raya Lucaria in North Limgrave)
 - Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base behind two enemies is the flame grant me strength spell which gives a damage buff.
 - Head to the round table hold and buy a finger seal, with 15 faith we can use it to cast poison mist and rot breath with 12 arcane. 
 - South of castle morne rampart grace in weeping peninsula on the left is a scarab that gives you poison mist, equip this, this can be used to kill tree sentinel 2.0 easily
-- Upstairs of sofria river well is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
+- Upstairs of sofria river well elevator is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman, equip this.
 - Mix the spiked crack tear and strength tear in the physick at a grace
 - Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
 - This same tree sentinel armor dunegon has grave glovewort 6 for your imps (optional)
 - [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
-- In summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle.
+- In summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
 Optional Grave Glovewort 8/9/10:
-8/9/10 Requires beating Tree Sentinel 2.0 and isn't really worth it
+These require beating Tree Sentinel 2.0 and isn't really worth it once we get the mimic.
 [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8))
 [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9))
 [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(10)](https://eldenring.wiki.fextralife.com/Great_Grave_Glovewort)
@@ -408,32 +407,32 @@ Optional Grave Glovewort 8/9/10:
 
 When you are ready you can head into the castle northwest from stormhill shack grace and face the first boss without too much struggle.
 
-This boss should be possible even with a +1 halberd and not doing any of the optional rune farming or upgrading your imps.
+This boss should be possible even with a +0 halberd and not doing any of the optional rune farming or upgrading your imps.
 
-To make the fight easier you can get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the cave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for like 5 seconds and gives you plenty of time to just wail on him. 
+To make this and a future boss easier you should get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the cave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for about 5 seconds and gives you plenty of time to just wail on him. 
 
 For additional help I would summon the sorcerer rogier (ai helper) at the yellow summon before the battle and cast your fanged imps immediately at the start of the fight. 
 
-After defeating the first boss, head to the gate, talk to the guy and go through the front door storming your way into the castle. You basically want to [run all the way to the North East](https://www.youtube.com/watch?v=1mBdjb-jQFI&t=53s) and get ready to fight the second boss. To make life easier if you follow the left side when running in and immediately turn around there's a grace right above the entrance. 
+After defeating the first boss, head to the gate, talk to the guy and go through the front door storming your way into the castle. You basically want to [run all the way to the North East](https://www.youtube.com/watch?v=1mBdjb-jQFI&t=53s) and get ready to fight the second boss. To make life easier if you follow the left side when running in and immediately turn around there's a grace right above the entrance. From here jump over the edge and run up the right side to the next grace. From that grace stay off the path and follow the grass to avoid the flame arrows until you get into the courtyard and the next grace on the back left wall. From here take the elevator up and over to the boss grabbing some reusable crafting pots along the way. 
 
-Before fighting this boss I recommend getting a +5 golden halberd and +5 fanged imps. I also recommend doing a quick sidequest to unlock Nephelia who you can summon to help you fight the boss. From the grace before the boss turn around run past the troll and to the right of the golden seed there's a entrance with a female hero class npc. Unlocking Nephelia now and using her helps a lot for later on to track her down when doing Seluvis's quest. 
+Before fighting this boss I recommend getting a +5/6 golden halberd and +5/6 fanged imps. I also recommend doing a quick sidequest to unlock Nephelia who you can summon to help you fight the boss. From the grace before the boss turn around run past the troll and to the right of the golden seed there's a entrance with a female hero class npc. Unlocking Nephelia now and using her helps a lot for later on to track her down when doing Seluvis's quest. 
 
 Now we can take on godrick the grafted
 
-Use the npc summon to get help against boss, cast contagious fury, cast golden vow, use physick, step in side and summon imps. Run up and do some jump R1's and charged R2's. When he dies equip golden scarab for extra runes.
+Use the npc summon to get help against boss, cast contagious fury, cast golden vow, use physick, step inside and summon imps. Run up and do some jump R1's and charged R2's. When he dies equip golden scarab for extra runes.
 
 After the boss you can head east of stormveil castle along the long bridge path and get the Godrick great rune, you can use rare expensive consumable rune arcs to get a stat boost until you die. I'm not a fan of burning consumables like this so I don't use it often. You can also keep heading North and it'll take you to Liurnia. 
 
 Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [get the key](https://www.youtube.com/watch?v=zy5em746nAQ) from behind the magic dragon west of the town. You do not need to kill the dragon. The Castle itself is very easy as a strength build. It's [linear](https://www.youtube.com/watch?v=f4jBaPFZAXM&t=174), just run through, make your way up, kill the red dog, then the queen. After killing the queen you get the ability to change spec with easily available [larval tears](https://www.youtube.com/watch?v=VauyWwBwiHA) and leave the strength build if you want and switch to something like a [magic build](https://www.youtube.com/watch?v=pi7eXTxb0vw). I would recommend against it though unless you love exploring as you will have to get a ton of different items.
 
-After Raya Lucaria, with two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far north east). In this area you can also get a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) to upgrade halberd from a stone on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder if you haven't already. 
+After Raya Lucaria the next area is to the North east. With two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far far north east). Altus Plateau has a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) you can pickup off the ground to upgrade halberd. It's located on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder. 
 
 Optional Grind for better levels and +10 Somber:
-South of raya lucaria is a church with the white masked man, talk to him and do his questline to get a severed finger.
-Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon and fight the mini boss.
-This is a really tough fight, I recommend just being very aggressive, swing your sword before he gets to you to intimidate him, you need to beat him to progress the questline and then you can head back to the church.
-Where he gives you a white cloth that needs a maidens blood, head to the bridge of sacrifice in weeping peninsula, and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church east of the dectus medallion lift), then head back to the church south of raya lucaria, and receive an item that takes you to an area with the best rune farming in the game.
-Use the item to teleport. Then head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches. A bow can be bought from the round table hold. Arrows can be bought from Santa. This is by far the most efficient farming method until you beat the game. Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here and along the way are some high consumable runes found on the ground.   
+- South of raya lucaria is a church with the white masked man, talk to him and do his questline to get a severed finger.
+- Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon and fight the mini boss.
+This is a really tough fight, I recommend just being very aggressive, swing your sword before he gets to you to intimidate him, you need to beat him to progress the questline (Beating him also drops another somber +6) and then you can head back to the church. 
+Where he gives you a white cloth that needs a maidens blood, head to the bridge of sacrifice in weeping peninsula, and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church way up the hill on east of the dectus medallion lift), then head back to the church south of raya lucaria, and receive an item that takes you to an area with the best rune farming in the game.
+Use the item to teleport. Then head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches and collecting eagle talons and gold fireflies from weeping peninsula. A bow can be bought from the round table hold. Unlimited arrows can be bought from Santa. This is by far the most efficient farming method until you beat the game and even then it's still pretty good. Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here and along the way are some high consumable runes found on the ground that can level you up quickly.   
 
 ## Tree Sentinel 2.0
 
