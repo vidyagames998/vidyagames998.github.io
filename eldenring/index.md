@@ -627,15 +627,15 @@ Once he is dead head back to the grace. This is the final boss rush before the e
 Before Maliketh I also recommend getting the Stonebarded crystal tear and Opaline crystal tear. You can do so by killing the Putrid Avatar North of Fort Faroth in Caelid. Just use your mimic do two R2's and run away then repeat until dead. The stonebarbed cyrstal tear boosts stance damage which helps stagger them so bosses stop beating on you and helps give you a free critical.
 
 Before proceeding you should have:
-Stats: 35(+5) vigor, 11 mind, 14(+5) dex, 15 faith, 30(+5) strength, 35(+5) endurance, and 12 arcane. Extra points should go into strength or vigor.  
-Armor: Tree Sentinel/Radahn's Set (Medium load ideally)
-Equip: Golden Halberd +10, Finger Seal/Dragon Seal (Lighter easy to get from an enemy in the very first stonesword key door dungeon at the first steps)
-Talismans: Radagons Soreseal, Dragoncrest Shield Talisman +2/Dragoncrest Greatshield(long hour journey that isn't needed just helps), Axe Talisman, Green Turtle/Claw Talisman (From on top stormveil castle)
-Spells: Flame Grant Me Strength and Rot Breath
-Physick: Spiked Cracked and Strength/Stonebarbed
+- Stats: 35(+5) vigor, 11 mind, 14(+5) dex, 15 faith, 30(+5) strength, 35(+5) endurance, and 12 arcane. Extra points should go into strength or vigor.  
+- Armor: Tree Sentinel/Radahn's Set (Medium load ideally)
+- Equip: Golden Halberd +10, Finger Seal/Dragon Seal (Lighter easy to get from an enemy in the very first stonesword key door dungeon at the first steps)
+- Talismans: Radagons Soreseal, Dragoncrest Shield Talisman +2/Dragoncrest Greatshield(long hour journey that isn't needed just helps), Axe Talisman, Green Turtle/Claw Talisman (From on top stormveil castle)
+- Spells: Flame Grant Me Strength and Rot Breath
+- Physick: Spiked Cracked and Strength/Stonebarbed
 
 ### Maliketh
-Before the boss room buff flame grant me strength and golden vow, then unequip the seal and two hand the halberd. Unequiping the seal makes your mimic fight more instead of sitting there. Head in, summon mimic immediately then run to the pillar to the left and heal. This is a good place to hide from Maliketh's attacks and get his focus on your mimic. This should put Maliketh between you and the summon, try and keep it that way. As he fights your mimic, jump and r2 then run away. In Phase 2 immediately run to the back left behind the pillar. Time when to attack and use R2s and jump R2s as he fights your mimic. The pillar is your friend. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to venture off and finish the long [Rykard questline](https://www.youtube.com/watch?v=v0JWm3o59qs) and fight bernhal to get it.
+Before the boss room buff flame grant me strength and golden vow, then unequip the seal and two hand the halberd. Unequiping the seal makes your mimic fight more instead of sitting there. Head in, summon mimic immediately then run to the pillar to the left and heal. This is a good place to hide from Maliketh's attacks and get his focus on your mimic. This should put Maliketh between you and the summon, try and keep it that way. As he fights your mimic, jump and r2 then run away. In Phase 2 immediately run to the back left behind the pillar. Time when to attack and use R2s and jump R2s as he fights your mimic. The pillar is your friend. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to venture off and finish the long [Rykard questline](https://www.youtube.com/watch?v=v0JWm3o59qs) and fight bernhal to get it. Maliketh is also weak to rot breath in phase 1. 
 
 If you are struggling consider grinding levels to 130-150. You can also skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
 
