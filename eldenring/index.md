@@ -109,12 +109,13 @@ If you open the map you will see a lot of brown fog and a small map. This will g
 
 ![](images/map_blank.jpg)
 
-Pressing Y toggles the HUD on and off.
+Pressing Y toggles the HUD on and off. You can also change it to always stay on in the settings. 
 
 On the top left is a red bar which is your health.
 The blue bar is how much magic you have.
 The green bar is how much stamina you have.
-The empty box will be used to indicate which great rune you chose that gives you a stat boost later.
+Underneath the green bar is where you can see what status modifiers are in effect or if you have activated a statue of marika. When you die you either spawn at the last grace you touched or the last statue you visited.
+The empty box will be used to indicate which great rune you chose that gives you a stat boost later. To activate them they require using a rare consumable and they deactivate on your death. You don't need them. 
 
 If you spin around you will see the top middle compass change based on the direction you are facing. North, East, South, West.
 
