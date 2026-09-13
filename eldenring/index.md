@@ -75,13 +75,13 @@ Once you make your way through the door you'll get to a grace.
 
 ![](images/first_grace.jpg)
 
-These yellow campfires are like save points, you can level up, perform upgrades. When you activate these you enable a fast travel point, if you activate them a second time or more you will sit down and the enemies will stop chasing after you and you can take a sigh of relief as you are safe. These are littered throughout the map. 
+These yellow campfires are like save points, you can level up, perform upgrades. When you activate these you enable a fast travel point, if you activate them a second time or more you will sit down and the enemies will stop chasing after you and you can take a sigh of relief as you are safe. These are littered throughout the map. When leveling be very careful what stats you choose to put points into because if you balance them out evenly you will be in for a very difficult playthrough. I recommend prioritizing leveling to meet stat requirements for whatever weapon you choose, then leveling vigor until 30 or so, then going back into whichever single stat scales best for your weapon. I'll walk you through what to do for this build.  
 
 Grey walls like the ones seen to the right of the first grace require a one time use stonesword key to remove at the weird gargoyle statue. Sometimes they take two. This dungeon is fairly difficult, so if you chose the stonesword key keepsake I would save it and skip doing it until you level up quite a bit. 
 
 ![](images/first_grace_sitting.jpg)
 
-At graces you can use Golden Seeds to increase the quantity of your flask so you can heal more or replenish mp more. 
+At graces you can use Golden Seeds to increase the quantity of your flask so you can heal more or replenish magic more. 
 
 There are various destroyed churches throughout the game. They usually have an item that increases how much each heal does (Sacred Tears), you will need to talk to a grace to activate them.
 
@@ -622,7 +622,7 @@ Up the hill from here is a tree sentinel 3.0, just like 2.0 he is pretty tough t
 
 Allocate 5 magic flasks, run up and enter the gold fog door to start the Maliketh fight. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be outside the boss and behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed.
 
-Once he is dead head back to the grace. This is the final boss rush before the end of the game and we should make sure we are ready. Now is a good time to go optionally go grind levels for a little bit to make your life easier. Just head to Moghywn Palace and at the Palace Edge grace pull out a bow and shoot the bird off the cliff repeat for about 30 min and you should be around level 120.
+Once he is dead head back to the grace. This is the final boss rush before the end of the game and we should make sure we are ready. Now is a good time to optionally go grind levels for a little bit to make your life easier. Just head to Moghywn Palace and at the Palace Edge grace pull out a bow and shoot the bird off the cliff repeat for about 30 min and you should be around level 120.
 
 Before Maliketh I also recommend getting the Stonebarded crystal tear and Opaline crystal tear. You can do so by killing the Putrid Avatar North of Fort Faroth in Caelid. Just use your mimic do two R2's and run away then repeat until dead. The stonebarbed cyrstal tear boosts stance damage which helps stagger them so bosses stop beating on you and helps give you a free critical.
 
@@ -637,7 +637,7 @@ Before proceeding you should have:
 ### Maliketh
 Before the boss room buff flame grant me strength and golden vow, then unequip the seal and two hand the halberd. Unequiping the seal makes your mimic fight more instead of sitting there. Head in, summon mimic immediately then run to the pillar to the left and heal. This is a good place to hide from Maliketh's attacks and get his focus on your mimic. This should put Maliketh between you and the summon, try and keep it that way. As he fights your mimic, jump and r2 then run away. In Phase 2 immediately run to the back left behind the pillar. Time when to attack and use R2s and jump R2s as he fights your mimic. The pillar is your friend. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to venture off and finish the long [Rykard questline](https://www.youtube.com/watch?v=v0JWm3o59qs) and fight bernhal to get it. Maliketh is also weak to rot breath in phase 1. 
 
-If you are struggling consider grinding levels to 130-150. You can also skip to the end and you will see how you should build your character if you respec to a greatsword with lion claw. 
+If you are struggling consider grinding levels to 130-150. You can also skip to the end and you will see how you should more optimally build your character if you respec to a greatsword with lion claw. 
 
 ### Gideon
 After Maliketh you land in the ash covered capital city. Just run forward and to the right a bit to take the elevator up to Gideon. Buff Flame grant me strength and golden vow, summon mimic, charged R2's and quick R1's to kill. Very easy fight. Then head up the tree and keep going forward to Godfrey.
@@ -701,11 +701,11 @@ Greatsword with Lions Claw 130+ build:
 - Make sure you are medium load, remove pieces of armor if you need to
 - Strategy: Summon Mimic immediately at start of Radagon. Dodge and heal and eventually get behind to use Lions Claw when open. Before Elden Beast heal, use physick. Start Elden Beast by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
 
-Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, it's just not nearly as easy as it looks. Additionally you'll find people like to post hype videos for their builds, be skeptical before choosing one and be mindful Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. I recommend thinking back to the builds at the start of the game and thinking about how you would optimize for stats they are best at, they most emphasize on one or two stats. Think about the different weapon classes and find which would pair well in whatever one or two stats you chose for your class. These strong pairings likely won't see patches nerfing them as they were intended and well balanced with proper leveling and are probably an ok way to play the game on a second play through.  
+Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, what they do at low levels is just not nearly as easy as it looks. Additionally you'll find people who like to post hype videos for their builds to get views, be skeptical before choosing one and be mindful as Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. All builds have been pretty well balanced. The Greatsword is shown in the loading screen all the time so I doubt they will nerf it. If you go into New Game+ and don't want to be a Tree Sentinel again. I recommend you start by picking a weapon class, then a weapon you want to use for the next playthrough, then pick the matching class that pairs with what the weapon scales with. Once you meet your weapons minimum requirements, load up on vigor, then continue leveling according to the weapon attributes. 
 
-Good luck with the final boss. If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
+Good luck with the final "boss". If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
 
-If you don't want to grind right now to defeat the final boss, there's plenty of other content to do if you want to explore the map. Lookup the secret medallion if you want to learn about those areas to take the second lift down and through the snow fields to Miquella. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
+If you don't want to grind right now to defeat the final boss, there's plenty of other content to do. There's a lot left to the map and a ton of bosses to fight. Lookup the secret medallion if you want to learn about those areas to take the second lift down and through the snow fields to Miquella. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
 
 `~Fin~`
 
