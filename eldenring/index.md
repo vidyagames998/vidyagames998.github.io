@@ -667,7 +667,7 @@ The golden halberd tree sentinel build is at a huge disadvantage as Holy damage 
 - Don't use contagious fury (+12.5% damage) as it only helps if you one hand and you are better off two handing as it boosts strength 1.5x so 60 becomes 90. 
 - At level 130 I would do: 60 vigor, 12 mind, 35 endurance, 54 strength, 14 dex, 15 faith, 12 arcane. At 150 go to 60 strength and dump the rest in endurance. 
 
-You can give it a shot, but ultimately this is where the build falls apart and you would have a much easier time if you just pivot and I strongly suggest you do so.
+You can give it a shot, but ultimately this is where the build falls apart and you would have a much easier time if you just pivot and I strongly suggest you do so especially if you plan to do optional bosses or DLC. 
 
 First I would really strive to get to Level 150. You can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace.
 
@@ -685,7 +685,7 @@ Blasphemous Blade 130+ build:
 - Flasks: 10 heals, 4 magic
 - Make sure you are medium load, remove armor if you need to
 
-Option 2 (recommended): A strength build around a heavy Greatsword with the Lions Claw ash of war. This is a great all around build for these final bosses and will also set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The Greatsword is way easier to acquire over the Blashphemous Blade and you just need to run around grabbing 12 of each size of the normal smith stones or paying a bit with the bell bearings to purchase them. This build also doesn't require nearly as much optimization to work well and you can beat elden beast potentially without grinding. 
+Option 2 (recommended): A strength build around a heavy Greatsword with the Lions Claw ash of war. This is a great all around build for these final bosses and will also set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The Greatsword is way easier to acquire over the Blashphemous Blade and you just need to run around grabbing 12 of each size of the normal smith stones or paying a bit with the bell bearings to purchase them which will cost around 200k runes. This build also doesn't require nearly as much optimization to work well and you can beat elden beast potentially without grinding. 
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 Greatsword with Lions Claw 130+ build:
@@ -701,9 +701,17 @@ Greatsword with Lions Claw 130+ build:
 - Make sure you are medium load, remove pieces of armor if you need to
 - Strategy: Summon Mimic immediately at start of Radagon. Dodge and heal and eventually get behind to use Lions Claw when open. Before Elden Beast heal, use physick. Start Elden Beast by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
 
+Option 3: Dragon Halberd. Play style will be similar to the Golden Halberd, easy to get, upgrades cheaply with somber. Spin to win at times. Elden beast is immune to frost so good, but not the best. Frost helps with Malenia. It's a decent choice for DLC. 
+
+Option 4: Ruins Greatsword. Ranged Ash of war like Blasphemous Blade. Relatively easy to get after killing radahn, upgrades with somber. Attack is kinda slow and won't be as forgiving on Melania, but is decent in DLC. 
+
+Option 5: Great Stars with Lions Claw. Lighter version of Greatsword with bleed and a slight heal with each hit. I like the greatsword better as you have wider reach, but they are both pretty good. Smithing stone upgrades. 
+
+Option 6: Nightrider Glaive with Lions Claw/Black Flame Tornado/Cragblade. Halberd. Easy to get just beat the knights calvary before the dectus lift. Plenty of ashes of war you can play with. All physical damage so better against elden beast. Requires smithing stone upgrades. 
+
 Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, what they do at low levels is just not nearly as easy as it looks. Additionally you'll find people who like to post hype videos for their builds to get views, be skeptical before choosing one and be mindful as Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. All builds have been pretty well balanced. If you go into New Game+ to get the other endings and don't want to be a Tree Sentinel again. I recommend you start by picking a [weapon class](https://eldenring.wiki.fextralife.com/Weapons), then a weapon you want to use for the next playthrough, then pick the matching class that pairs with what the weapon scales with. Once you meet your weapons minimum requirements, load up on vigor, then continue leveling according to the weapon attributes. Most any weapon can be optimized to do well, you just might have to put in a bit of work to find the right build for it and be forewarned it can be a bit overwhelming. There's a guy on a mission to [beat the game with every weapon](https://www.youtube.com/@WildAmericanAppears) and will have done most the hard work for you. He's currently at 193/409. 
 
-Good luck with the final "boss" (The optional Miquella fight is often referred to as the real final boss as she is by far the hardest to beat). 
+Good luck with the final "boss" (The optional Malenia fight is often referred to as the real final boss as she is by far the hardest to beat). 
 
 If you are truly stuck there's no shame in summoning a multiplayer cooperator on the internet.
 
