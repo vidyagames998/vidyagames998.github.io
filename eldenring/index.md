@@ -646,10 +646,10 @@ After Maliketh you land in the ash covered capital city. Just run forward and to
 Buff flame grant me strengh and golden vow, unequip the seal then go in. Summon mimic and heal. Wait for Godfrey to attack your mimic. Then go in for a jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic and punish. I think this fight is easier than Maliketh as the attacks are easy to dodge and the mimic does really good damage. You may have to watch some vidoes and learn how to dodge his attacks. Don't just spam dodge roll and wait till it's actually needed. On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible.
 
 Optional:
-Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander. 
-Get the faith knot crystal tear east of church of pilgrimage.
-Get the dex knot crystal tear north west of the Laskyar Ruins.
-The stonebarbed and opaline crystal tears if you haven't already
+- Head to dragon temple altar and unlock the grey stonesword key door and get to the dragon temple lift grace. Head forward and to the right to fight alexander and get the shard of alexander. He only shows up after you talk to him after Radahn fight and again outside Volcano Manor. 
+- Get the faith knot crystal tear east of church of pilgrimage.
+- Get the dex knot crystal tear north west of the Laskyar Ruins.
+- The stonebarbed and opaline crystal tears if you haven't already
 
 Final boss time.
 
@@ -673,15 +673,25 @@ First I would really strive to get to Level 150. You can get 80k/runes/minute by
 
 Then let's get some new gear and respec. 
 
-Option 1: A strength build around Blasphemous Blade will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are way easier and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running. 
+Option 1: A strength build around Blasphemous Blade will have the easiest time with elden beast. In order to get the Blasphemous weapon you will need to spend about 30 minutes doing the volcano manner questline and kill the giant snake Rykard. At our current high levels the boss and enemies in this are way easier and the monsters aren't nearly as scary. Here's a [good video guide](https://www.youtube.com/watch?v=v0JWm3o59qs) as there is a ton of running.
+
+Blasphemous Blade 130+ build:
+- Respec: 55 Vigor, 23 Mind, 20 endurance, 22 strength, 15 dex, 7 Intel, 55 Faith, 11 Arcane
+- Armor: Radahns set/Tree Sentinel
+- Talisman: Shard of Alexander, Haligdrake Talisman +2, Dragoncrest Shield Talisman +2, Erdtree's Favor +2 (tree in Ashen Capital)
+- Physick: Flame-Shrouding Cracked Tear(Other putrid avatar in caelid by rotview balcony)+Opaline Hardtear(above)
+- Dragon Seal (above)
+- Golden Vow + Flame grant me strength
+- Flasks: 10 heals, 4 magic
+- Make sure you are medium load, remove armor if you need to
 
 Option 2 (recommended): A strength build around a heavy Greatsword with the Lions Claw ash of war. This is a great all around build for these final bosses and will also set you up for an easier time fighting Mohg to do the DLC. This will take 30 min to an hour to fully piece together. The Greatsword is way easier to acquire over the Blashphemous Blade and you just need to run around grabbing 12 of each size of the normal smith stones or paying a bit with the bell bearings to purchase them. This build also doesn't require nearly as much optimization to work well and you can beat elden beast potentially without grinding. 
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
-At 130 I did this and it only took a few tries:
+Greatsword with Lions Claw 130+ build:
 - Respec: 49 Vigor, 20 mind, 35 endurance, 60 strength, 12 dex, 7 intel, 15 faith, 11 arcane (Additional points should go to mind or vigor)
-- Armor: Radahns set (purchase from two fingers in round table hold)/Tree Sentinel(Heavier, but slightly better)
-- Talismans: Shard of Alexander(boosts lions claw damage), Dragoncrest Shield Talisman +2 (The greatshield is better, but requires beating Commander Niall back by the frost lake dragon), Haligdrake +2 Talisman (Mohgwyn Palace Corpse, boosts holy damage negation), Green Turtle Talisman (boosts stamina). By dropping Radagons Soreseal we save an additional 15% of damage and is definitely worth doing so at these levels. 
+- Armor: Radahns set/Tree Sentinel
+- Talismans: Shard of Alexander(boosts lions claw damage), Dragoncrest Shield Talisman +2 (The greatshield is better, but requires beating Commander Niall back by the frost lake dragon and Loretta in Miquella's Haligtree), Haligdrake +2 Talisman (Mohgwyn Palace Corpse, boosts holy damage negation), Green Turtle Talisman (boosts stamina). By dropping Radagons Soreseal we save an additional 15% of damage and is definitely worth doing so at these levels. 
 - Mimic +10
 - Heavy Greatsword +25 (Carriage in Caelid) (smithing stone bell bearing 1/2/3 (finish cave east of raya lucaria gate grace)(east of outer wall phantom tree grace is a cave with a chest at entrance)(In basement next to Zamor Ruins grace in mountaintops)), +25 (is in skull at Church of Repose in mountaintops), Lions Claw Ash of War (Fight easy boss in Fort Gael in Caelid)
 - Physick: Stonebarb Cracked Tear and Opaline (Use the +25 Heavy Greatsword and Mimic to kill Putrid Avatar North of Fort Faroth in Caelid to get both)
@@ -689,17 +699,7 @@ At 130 I did this and it only took a few tries:
 - Buffs: Golden Vow (on dagger) + Flame Grant me Strength
 - Flasks: 10 heals, 4 magic
 - Make sure you are medium load, remove pieces of armor if you need to
-- Strategy: Summon Mimic at start of phase 1. Dodge and heal and eventually get behind to use Lions Claw when open. Before phase 2 heal, use physick. Start phase 2 by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
-
-Blasphemous Blade 130 build:
-- Respec: 55 Vigor, 23 Mind, 20 endurance, 22 strength, 15 dex, 7 Intel, 55 Faith, 11 Arcane
-- Armor: Radahns set (above)/Tree Sentinel
-- Talisman: Shard of Alexander, Haligdrake Talisman +2, Dragoncrest Shield Talisman +2, Erdtree's Favor +2 (tree in Ashen Capital)
-- Physick: Flame-Shrouding Cracked Tear(Other putrid avatar in caelid by rotview balcony)+Opaline Hardtear(above)
-- Dragon Seal (above)
-- Golden Vow + Flame grant me strength
-- Flasks: 10 heals, 4 magic
-- Make sure you are medium load, remove armor if you need to
+- Strategy: Summon Mimic immediately at start of Radagon. Dodge and heal and eventually get behind to use Lions Claw when open. Before Elden Beast heal, use physick. Start Elden Beast by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
 
 Speed runners like to use bloodhounds fang, serpent hunter, iron balls, or moonveil/rivers of blood and they make the final boss look really easy at low levels. Trust this is not the case, unless you want to have to watch tons of videos on boss move sets, I wouldn't recommend using these weapons. They aren't bad weapons, it's just not nearly as easy as it looks. Additionally you'll find people like to post hype videos for their builds, be skeptical before choosing one and be mindful Elden Ring is on 1.17 currently and there have been tons of updates as overly strong builds have been found and they have been made intentionally weaker. I recommend thinking back to the builds at the start of the game and thinking about how you would optimize for stats they are best at, they most emphasize on one or two stats. Think about the different weapon classes and find which would pair well in whatever one or two stats you chose for your class. These strong pairings likely won't see patches nerfing them as they were intended and well balanced with proper leveling and are probably an ok way to play the game on a second play through.  
 
