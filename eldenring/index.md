@@ -1,8 +1,8 @@
 # Elden Ring
 
-Elden Ring is a very tough game. For most this entire game you will easily die to one hits from random mobs or falling off cliffs. This is a scary thought to most people, but it truly is a fun game and if you want to enjoy this game I recommend just accepting and embracing this reality. Most deaths won't set you back more than like 30 seconds and you'll be back to where you were.
+Elden Ring is a very tough game. For most this entire game you will easily die to one to two hits from random mobs or falling off cliffs. This is a scary thought to most people, but it truly is a fun game and if you want to enjoy this game I recommend just accepting and embracing this reality. Most deaths won't set you back more than like 30 seconds and you'll be back to where you were.
 
-When it comes to what items, armors, and weapons you should use FromSoft the makers of this game have gone way out of their way to try and balance every single optimized build. Over hyped videos have come out documenting super over powered game breaking builds and the game would see a patch in days breaking that build to try and maintain the games difficulty.
+When it comes to what items, armors, and weapons you should use FromSoft the makers of this game have gone way out of their way to try and balance every single optimized build. Over hyped videos have come out documenting super over powered game breaking builds and the game would see a patch in days breaking that build to try and maintain the games difficulty. What currently remains are likely the intended ways to beat the game. 
 
 With the tarnished edition coming out, I wanted to write a guide as if I were choosing to play the game first time and recommending how I would approach the game.
 
@@ -12,11 +12,11 @@ With this guide you should be able to complete the game, excluding the DLC in ab
 
 There are many classes and many ways to play this game.
 
-For a first play through I would recommend the Hero class with a Golden Halberd.
+For a first play through I would recommend the Hero class with a Halberd weapon. 
 
 ![](images/hero_class.jpg)
 
-Why? Strength builds are usually harder, but you can respec (Start over and redistribute your attributes to new ones without penalty or progress) mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Rennala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build, you can get the Golden Halberd from defeating the first Tree Sentinel, and this weapon can carry you through the game easily. The Hero class is better over Confessor, as the easy way to kill Radahan with rot breath requires 12 arcane. You can also get strong Tree Sentinel armor without fighting any additional bosses. 
+Why? Strength builds are usually harder, but you can respec (Start over and redistribute your attributes to new ones without penalty or progress) mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Rennala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build, you can get the Golden Halberd from defeating the first Tree Sentinel, and this weapon can carry you through most the game easily. The Hero class is better over Confessor, as the easy way to kill Radahan with rot breath requires 12 arcane. You can also get strong Tree Sentinel armor without fighting any additional bosses.
 
 For a keepsake I would go Fanged Imp Ashes.
 
@@ -24,7 +24,7 @@ For a keepsake I would go Fanged Imp Ashes.
 
 Why? Well you can really pick any or none of them as they all can be acquired later.
 
-While an unusual choice, people really sleep on this summon as there are many to choose from. It lets you call two strong helpers at the start of the game to help you fight early battles and is a good choice to upgrade with the limited resources they give for you to upgrade things. It is honestly perfect for a beginner. When upgraded right it can do quite significant damage on a lot of the early game bosses. Choosing this option now saves you from walking 15 min to a vendor outside Raya Lucaria to buy the summon for 2k runes.
+While an unusual choice, people really sleep on this summon as there are many to choose from. It lets you call two strong helpers at the start of the game to help you fight early battles and is a good choice to upgrade with the limited resources they give for you to upgrade things. It is honestly perfect for a beginner. When upgraded right it can do quite significant damage on a lot of the early game bosses and mobs. Choosing this option now saves you from walking 15 min to a vendor outside Raya Lucaria to buy the summon for 2k runes.
 
 # Controls and Mechanics
 
@@ -53,13 +53,13 @@ The game tracks button inputs when fighting enemies. If the enemy senses you are
 
 You are invincible while a door opening animation is playing, use this to your advantage. You are sometimes invincible when dodging, using a spirit ash, or getting on or off a horse. Look up i-frames in elden ring to learn more. 
 
-Random and rarely walls disappear when you hit them.
+Occasionally walls disappear when you hit them, if a wall looks out of place don't be afraid to smack it. 
 
 ## Opening area
 
-Grab the item, head out, enjoy the scenary, take a left and die to the boss. If you manage to beat him (near impossible for a beginner) run off the ledge.
+Grab the item(finger), head out, enjoy the scenary, take a left and die to the boss. If you manage to beat him (near impossible for a beginner) run off the ledge.
 
-The key to defeating this boss is timing shield blocks precisely allowing you to perry, but this is not easy to learn and beating this boss will take a lot of unneeded practice.
+The key to defeating this boss is timing shield blocks precisely allowing you to perry, but this is not easy to learn and beating this boss will take a lot of practice.
 
 ## When you wake
 
@@ -320,7 +320,9 @@ Hop on the horse, walk up to the tree sentinel, summon the rotten stray ashes, d
 
 If you are truly stuck you can ask for help and summon a random multiplayer cooperator on the internet at the statue and you might get lucky and have someone kill him for you.
 
-The tree sentinel drops a Golden Halberd our weapon of choice for the playthrough. It upgrades with Somber Smithing Stones which are way easier to come by and make early game upgrades. The halberd also has a golden vow L2 temporary enchantment to buff attack damage and damage negation. Getting a +3 Somber requires exploring north of Limgrave unless you want to rely on a very rare random drop in the selia cave you got teleported to. We can easily upgrade to somber 5 without too much difficulty. Getting somber +6 requires either killing a tough boss in Caelid, killing a tough boss at the North most part of the map, taking a long and scary excursion to Volcano Manor via Raya Lucaria or just picking up both halves of dectus medallion and climbing the long ladder near the top left of the map to a chair overlooking the map. Getting the +7 requires either fighting Godskin noble in Volcano Manor (very hard), getting past the next tree sentinel (easy), or fighting a dual boss fight in a cave underneath the tree sentinel (very hard) in addition to killing Queen Rannala(easy) or Radahn(hard). Once you get a +7 you can easily upgrade to +10 by going to Mohgwyn Palace early. 
+The tree sentinel drops a Golden Halberd our weapon of choice for most the playthrough. It upgrades with Somber Smithing Stones which are way easier to come by and make early game upgrades. The halberd also has a golden vow L2 temporary enchantment to buff attack damage and damage negation. Getting a +3 Somber requires exploring north of Limgrave unless you want to rely on a very rare random drop in the selia cave you got teleported to. We can easily upgrade to somber 5 without too much difficulty. Getting somber +6 requires either killing a tough boss in Caelid, killing a tough boss at the North most part of the map, taking a long and scary excursion to Volcano Manor via Raya Lucaria or just picking up both halves of dectus medallion and climbing the long ladder near the top left of the map to a chair overlooking the map. Getting the +7 requires either fighting Godskin noble in Volcano Manor (very hard), getting past the next tree sentinel (easy), or fighting a dual boss fight in a cave underneath the tree sentinel (very hard) in addition to killing Queen Rannala(easy) or Radahn(hard). Once you get a +7 you can easily upgrade to +10 by going to Mohgwyn Palace early. 
+
+If you want there are other Halberds you can get relatively early on as well like the Dragon Halberd and the Nightrider Glaive both of which require a boss and are a little harder to beat. The Dragon Halberd is an award for defeating Dragonkin Soldier in the underground world Nokstella and is a relatively hard early game boss, but has weak feet if you run underneath and get behind him. It upgrades with Somber and has frost damage as well, this is a decent substitute for the Golden Halberd and can be used the whole game. The nightrider glaive is the reward for killing the knights calvary by Raya Lucaria and upgrades with normal smithing stones and can be buffed with the cragblade ash of war for straight physical damage. For ease of play I recommend going with the Golden Halberd as it is cheap to level and then switching to the nightriders glaive once it is easy to get money for the late game bosses that have holy damage resistance. 
 
 ## Leveling up 
 
