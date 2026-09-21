@@ -16,7 +16,7 @@ For a first play through I would recommend the Hero class with a Halberd weapon.
 
 ![](images/hero_class.jpg)
 
-Why? Strength builds are usually harder, but you can respec (Start over and redistribute your attributes to new ones without penalty or progress) mid game and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing midgame after fighting a necessary boss (Queen Rennala). As a beginner trying to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build, you can get the Golden Halberd from defeating the first Tree Sentinel, and this weapon can carry you through most the game easily. The Hero class is better over Confessor, as the easy way to kill Radahan with rot breath requires 12 arcane and 15 faith. You can also get strong Tree Sentinel armor without fighting any additional bosses.
+Why? Strength builds are usually considered most difficult, but this is really not the case. Around mid game you are allowed to respec (Start over and redistribute your attributes to new ones without penalty or progress) and choose whatever build you like after you get a feel for things and spend some time with the game and have a better idea on how you will want to play. Speedrunners typically go Samurai for speed, but running through this game as fast as possible is actually incredibly difficult if you aren't well practiced. If you read online you'll often see beginners are told they should pick Astrologer as ranged magic attacks make this game easier, but in my opinion this is bad advice and it's much better to switch to this class once you unlock respecing after fighting Queen Rennala. As a beginner if you try to fight a magic boss as a magic user you'll find a lot of your attacks aren't very strong and the boss is fairly difficult and the game is very hard to progress. If you go strength build, you can get the Golden Halberd from defeating the first Tree Sentinel, and this weapon can carry you through most the game easily. The Hero class is better over Confessor, as the easy way to kill Radahan with rot breath requires 12 arcane and 15 faith. You can also get strong Tree Sentinel armor without fighting any additional bosses.
 
 For a keepsake I would go Fanged Imp Ashes.
 
@@ -147,7 +147,7 @@ If you look at the map now you will see an orange pillar.
 
 These are the locations of parts of a map so everything isn't all foggy and brown. You can mark it and it will show up on the compass and you can head that way. Once you get there you will be ambushed by some enemies, grab the map piece, then head up the hill and activate the next grace by the gate and sit down so you don't have to fight them.
 
-It will turn night time and Melina will introduce herself. Accept her mission to go to the giant yellow tree and she will give you a horse. Press start go to equipment and equip the whistle ring to the item slot at the bottom by the flasks, so you can summon the horse.
+It will turn night time and Melina will introduce herself. Accept her mission to go to the giant yellow tree and she will give you a horse and let you level up. Press start go to equipment and equip the whistle ring to the item slot at the bottom by the flasks, so you can summon the horse.
 
 While it is night time, press back and fast travel back to the church and talk to Renna the witch, she will give you a bell which allows you to summon the fanged imps.
 
@@ -203,7 +203,7 @@ Killing enemies gives you money, but its usually very slow and you are better of
 
 Use the seed to level up your flask. Turn around and grab the stone sword key off the body.
 
-Talk to the lady to start the summons questline so we can level up fanged imps later.
+If you ignore the lady in the hut you can come back later after Godrick when she moves to the roundtable hold and get a free golden seed. 
 
 Head south and you'll see a guy sitting in a chair in a field with smithing stones to upgrade our weapon. You'll see random chairs throughout this game, they usually have good item drops next to them.
 
@@ -213,7 +213,7 @@ Head northeast and you'll find the first graveyard with money you can rob. Colle
 
 ![](images/graves.jpg)
 
-Northeast of here is another shack with a grace with a guy (Bernahl) who will sell you various ashes of war. You don't need any of them. Press start to open your inventory and use 4 gold runes until you have 800, so we can finally put one point in dex and be able to use the Lordsworn Greatsword more effectively.
+Northeast of here is another shack with a grace with a guy (Bernahl) who will sell you various ashes of war. You don't need any of them. Press start to open your inventory and use 4 gold runes until you have 800, so we can finally put one point in dex and be able to use the Lordsworn Greatsword more effectively. If you have extra runes quickstep from Bernahl is nice to grab. 
 
 Fast travel back to the first shack (stormhill).
 
@@ -227,17 +227,17 @@ Keeping heading straight off the ledge, you will see these giant steps you can w
 
 Once down head south back to the second shack.
 
-Head east and you will find a camp with a lot of enemies who want to kill you. Optionally to the left there's a giant chest with a nice shield. Just north of here on top the cliff is a horse enemy you can practice fighting, LB/L1 to attack on the left side of the horse, RB/R1 to attack on the right. If you beat him you get the golden vow ash of war which increases your attack damage by 15% and decreases damage taken by 10% for 80 seconds when used. I wouldn't add this to the axe as it changes scaling from D tier to E tier and the axe is very heavy. From here we can make our way to the lance on top the building in camp. Keeping going east following the road to the next grace. Someone will ask for help, head back and up the cliff to the south to find a giant pot (Alexander) on the edge and hit him to help break him free.
+Head east and you will find a camp with a lot of enemies who want to kill you. Optionally to the left there's a giant chest with a nice shield. Just north of here on top the cliff is a horse enemy you can practice fighting. Use the Lordsworn Greatsword. LB/L1 to attack on the left side of the horse, RB/R1 to attack on the right. If you beat him you get the golden vow ash of war which increases your attack damage by 15% and decreases damage taken by 10% for 80 seconds when used. I wouldn't add this to the axe as it changes scaling from D tier to E tier and the axe is very heavy. From here we can make our way to the lance on top the building in camp. Keeping going east following the road to the next grace. Someone will ask for help, head back and up the cliff to the south to find a giant pot (Alexander) on the edge and hit him to help break him free.
 
 If you kill him you can get a item that weakly buffs attack damage when equipped. If you do his questline and wait till the end of the game it rewards a stronger version and I recommend waiting.
 
-Go north of here and you will find a cave off the cliff with a door on it and a grace inside. This is a catacomb (Deathtouched), you cannot fast travel from within these, you have to go outside. These always have a mini boss at the end usually behind a door you have to unlock. Its a good idea to rob these for grave glovewart and other items. This one has grave glovewart 1 which can do the first upgrade to your fanged imps and has a nice sword. Run around the skeletons collect stuff, pull the lever and go back to the grace.
+Go north of here and you will find a cave off the cliff with a door on it and a grace inside. This is a catacomb (Deathtouched), you cannot usually fast travel from within these, you have to go outside. These always have a mini boss at the end usually behind a door you have to unlock. Its a good idea to rob these for grave glovewart and other items. This one has grave glovewart 1 which can do the first upgrade to your fanged imps and has a nice sword. Run around the skeletons collect stuff, pull the lever and go back to the grace.
 
 If you want to fight the mini boss yellow walls indicate mini bossess are in the next room. The imps can take care of this boss no problem and it's good practice to learn how to help them and gives a decent amount of runes you can use to upgrade strength. Jumping (A) and then attacking (R1) and running or rolling away (B) works well.
 
 Head back to the grace, on the right of the bridge is a spirit spring you can use to get down.
 
-![](images/spirit_spring.jpg)<photo>
+![](images/spirit_spring.jpg)
 
 You can jump off the cliff to the bottom of these and as long as you are in the wind you will not die, you can also jump in the spring and come all the way back to the top
 
@@ -258,15 +258,15 @@ There are occasional trap chests that when you open that will take you to differ
 
 I would recommend avoiding all the dungeons and battles for now and just run around on your horse and get stronger first.
 
-There are occasionally blue towers sometimes with small puzzles you should solve, it's worth climbing a couple to be able to equip more spells at once, but as a strength build you really have little use for them.
+There are occasionally blue towers sometimes with small puzzles you can solve, it's worth climbing a couple to be able to equip more spells at once, but as a strength build you really have little use for them.
 
-Armor means almost nothing for early and mid game and is mostly cosmetic. You can't upgrade it. You should pick up and use better heavier armor as you gain endurance in late game. 
+You should pick up and use better heavier armor as you gain endurance in late game. 
 
-Weapons should only be upgraded when you are absolutely certain this is the weapon you want.
+Weapons should only be upgraded when you are absolutely certain this is the weapon you want. I would stick with the Golden Halberd for your somber and Nightriders Graive for your regular smithing stones.
 
-Doing so will require either somber or regular smithing stones. Somber weapons are way easier to level until you have access to easy to grind money and the smithing stone bell bearing 1 and 2. Remember spend money and stones very carefully or you will be in a for a rough time of grinding low level enemies.
+Upgrading weapons withh require either somber or regular smithing stones. Somber weapons are way easier to level until you have access to easy to grind money and the smithing stone bell bearing 1,2, and 3. I'm mentioning it again because its really important. Remember to spend money and stones very carefully or you will be in a for a rough time of grinding low level enemies.
 
-If you keep heading east from the Saintsbridge grace you will find a purple boat boss that is tough, skip them, then a church with an enemy that will ambush you that you can also skip, these exist at random places throughout the map and it's best to run away until you are very strong, then keep heading east and you will enter this red area of the map called Caelid where all the enemies are super strong and everything will really try to kill you. I would just keep running till you find the Rotview Balcony grace and rest. This area is great for finding lots of money to get stronger.
+If you keep heading east from the Saintsbridge grace you will find a purple boat boss that is tough, skip them. Then a stonesword key door to the right of boss. Go inside and grab the green turtle talisman. Keep heading east and you will see a church with an enemy that will ambush that's worth skipping. These ambushes exist at random places throughout the map and it's best to run away until you are very strong, then keep heading east and you will enter this red area of the map called Caelid where all the enemies are super strong and everything will really try to kill you. I would just keep running till you find the Rotview Balcony grace and rest. 
 
 Now that we finally explored outside the main area. Melina thinks we're cool enough to join the roundtable and we can talk to a bunch of npcs.
 
@@ -296,7 +296,7 @@ Spend a few hours exploring the map and planning out what caves you want to go i
 
 I recommend getting all the map fragments, golden seeds, both halves of the dectus medallions, and visiting all the churches you can.
 
-There are a number of guides out there on how to do so, if you don't know where they are, or just want to follow an optimal path someone made with minimal time investment. I recommend this one: https://www.youtube.com/watch?v=lxfZdm6PO0I Skip the end part in getting 150k runes as you should use gold pickled fowl foots and the golden scarab to get even more runes and save yourself some grinding and annoyance. I'll explain it later.
+There are a number of guides out there on how to do so, if you don't know where they are, or just want to follow an optimal path someone made with minimal time investment. I recommend this one: https://www.youtube.com/watch?v=lxfZdm6PO0I Skip the end part for now in getting 150k runes as you should use the golden scarab to get even more runes and save yourself some minor grinding and annoyance. 
 
 Here's what the world looks like with the bottom half explored.
 
@@ -336,7 +336,7 @@ If that feels cheap you can also grind other enemies around here if you wanted t
 
 You'll want 30 strength, 15 faith, 12 arcane, 14 Dex, and at least 18 vigor. The next goal with future runes should be 25 vigor and 25 endurance. They help a lot with being able to take multiple hits from enemies and being able to dish out lots of damage without running out of stamina. Endurance also helps you carry heavy armor without fat rolling. 
 
-From here you really need to decide how much grinding do you really want to do? You don't have to grind to get runes if you are willing to do some side quests to earn runes.
+From here we're going to collect more runes.
 
 Head back to the first steps and behind the church jump off the cliff to the spirit spring and get the gold pickled fowl foot. Then head to Agheel Lake North head south and cross the bridge and grab the gold pickled fowl foot by the not crucifixes.
 
@@ -345,8 +345,6 @@ Optional Mission to Kill the black horse (Knights Calvary) in Caelid:
 I'm going to keep it 100 here, this is very much an end game area and the guy is meant to be fought at end game gear. There are so many different ways and tricking the horse to play nice and jump off the cliff isn't easy. It originally took me hours to learn how and it would have been way faster to just farm 60k runes from balls. https://www.youtube.com/watch?v=9CBCVE-chko
 
 Head back to Lenne's Rise. Pass time until nightfall.
-
-There's a black horse here who has an insane amount of health and is really difficult to fight, we want to kill it.
 
 The easy way to kill the horse is to convince it to jump off the cliff. This is not a glitch and was an intended mechanic otherwise it would have been patched by now. There a lot of different videos on how to do so and it will take a while to learn a setup that works for you. Just be sure to use the gold pickled fowl foot after he dies and before the runes show up to earn an extra 20k runes. While this is not a glitch this is a not a easy trick to pull off. So don't worry if you can't or don't want to do it.
 
@@ -360,7 +358,7 @@ Head to the round table hold and talk to the red robbed girl by the fireplace an
 
 Optional Mission to get the golden scarab:
 
-You'll need either bloodhound step from killing the black horse or the quick step ash of war.
+You'll need either bloodhound step from killing the black horse or the quick step ash of war from Bernahl.
 
 To get the quick step ash of war, travel to warmaster's shack from earlier (just north east of the gatefront) in limgrave and buy quick step for 800 runes. Then travel to the round table hold and buy a dagger for 400 runes from the shop. At the grace you can equip bloodhound step/quick step to the dagger.
 
@@ -383,7 +381,7 @@ Back near lenne's rise there's a long bridge, there's a glitch to kill this drag
 
 https://www.youtube.com/watch?v=p7VmiX50vO4
 
-There's also some more optional gear we can get to make this build better. This is all way overkill, but this makes the next bosses way easier.
+There's also some more optional gear we can get to make this build better. This is all way overkill.
 
 - Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. (West of Raya Lucaria in North Limgrave)
 - Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base behind two enemies is the flame grant me strength spell which gives a damage buff.
@@ -395,7 +393,7 @@ There's also some more optional gear we can get to make this build better. This 
 - This same tree sentinel armor dunegon has grave glovewort 6 for your imps (optional)
 - [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
-- In summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
+- If you didn't grab it earlier in summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
 Optional Grave Glovewort 8/9/10:
 These require beating Tree Sentinel 2.0 and isn't really worth it once we get the mimic.
@@ -403,13 +401,26 @@ These require beating Tree Sentinel 2.0 and isn't really worth it once we get th
 [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9))
 [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(10)](https://eldenring.wiki.fextralife.com/Great_Grave_Glovewort)
 
+After Raya Lucaria the next area is to the North east. With two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far far north east). Altus Plateau has a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) you can pickup off the ground to upgrade halberd. It's located on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder. 
+
+## Mohgwyn Palace 
+This place has easy to grind enemies that give lots of runes. 
+
+- At the roundtable hold talk to the two fingers
+- South of raya lucaria is a church with the white masked man, talk to him to get a severed finger.
+- Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon to fight the mini boss. You don't need to beat him just make three attempts. The secret to this fight is being aggressive.   
+- Head back to the church and receive the white cloth. Head to the bridge of sacrifice in weeping peninsula and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church way up the hill on east of the dectus medallion lift).
+- Head back to the church, use the item he gives you to teleport to Mohgwyn Palace
+- Head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches and collecting eagle talons and gold fireflies from weeping peninsula. A bow can be bought from the round table hold for 1200. Unlimited arrows can be bought from Santa in church of Elleh for 20 each. This is by far the most efficient farming method until you beat the game and even then it's still pretty good.
+- Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here
+
 ## First two bosses
 
 When you are ready you can head into the castle northwest from stormhill shack grace and face the first boss without too much struggle.
 
 This boss should be possible even with a +0 halberd and not doing any of the optional rune farming or upgrading your imps.
 
-To make this and a future boss easier you should get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the cave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for about 5 seconds and gives you plenty of time to just wail on him. 
+To make this and a future boss easier you should get the Margit shackle for 5k runes. Just east of the telescope in Limgrave is a cave. Inside the cave is a mini boss called Patches. Kill him and use the bell bearing at the two sisters in the round table hold to buy the shackle. When used during the Margit fight it traps the boss for about 5 seconds and gives you plenty of time to just wail on him. You can use it twice in the battle.
 
 For additional help I would summon the sorcerer rogier (ai helper) at the yellow summon before the battle and cast your fanged imps immediately at the start of the fight. 
 
@@ -425,15 +436,6 @@ After the boss you can head east of stormveil castle along the long bridge path 
 
 Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [get the key](https://www.youtube.com/watch?v=zy5em746nAQ) from behind the magic dragon west of the town. You do not need to kill the dragon. The Castle itself is very easy as a strength build. It's [linear](https://www.youtube.com/watch?v=f4jBaPFZAXM&t=174), just run through, make your way up, kill the red dog, then the queen. After killing the queen you get the ability to change spec with easily available [larval tears](https://www.youtube.com/watch?v=VauyWwBwiHA) and leave the strength build if you want and switch to something like a [magic build](https://www.youtube.com/watch?v=pi7eXTxb0vw). I would recommend against it though unless you love exploring as you will have to get a ton of different items.
 
-After Raya Lucaria the next area is to the North east. With two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far far north east). Altus Plateau has a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) you can pickup off the ground to upgrade halberd. It's located on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder. 
-
-Optional Grind for better levels and +10 Somber:
-- South of raya lucaria is a church with the white masked man, talk to him and do his questline to get a severed finger.
-- Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon and fight the mini boss.
-This is a really tough fight (you do not need to kill him, just try 3 times), I recommend just being very aggressive, swing your sword before he gets to you to intimidate him, you do NOT need to beat him to progress the questline (Beating him also drops another somber +6) and then you can head back to the church. 
-Where he gives you a white cloth that needs a maidens blood, head to the bridge of sacrifice in weeping peninsula, and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church way up the hill on east of the dectus medallion lift), then head back to the church south of raya lucaria, and receive an item that takes you to an area with the best rune farming in the game.
-Use the item to teleport. Then head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches and collecting eagle talons and gold fireflies from weeping peninsula. A bow can be bought from the round table hold. Unlimited arrows can be bought from Santa. This is by far the most efficient farming method until you beat the game and even then it's still pretty good. Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here and along the way are some high consumable runes found on the ground that can level you up quickly.   
-
 ## Tree Sentinel 2.0
 
 In order to get to the next section we need to kill the next tree sentinel that is at the top right of the map.
@@ -442,7 +444,7 @@ You can try and fight the guy, it's a fairly tough horse vs horse battle, but do
 
 Or you can simply crouch and walk through the trees and get behind him, then using poison mist (from weeping peninsula scarab by the map piece) to drain all of his health before the battle even begins and you are never noticed. Each time it runs out just recast, this will take about 10 min and 10 casts, requiring multiple magic flasks, but it will eventually kill him. This is not a glitch, this was an intended kill otherwise this also would have been patched. There is also a trick to get him to jump off the cliff as well like the nights calvary, but this one doesn't seem intended to me. This requires using consumable throwing knives to try and bait him to the cliff and pushing him off.
 
-After defeating the second tree sentinel and having defeated these three main bosses gets you access to the capital where you can get a +7 Somber stone in the sewers and finish the upgrades to +9, +10 if you have Mohgwyn unlocked.
+After defeating the second tree sentinel and having defeated these three main bosses gets you access to the capital where you can get a +7 Somber stone in the sewers and finish the upgrades to +9 or +10 if you have Mohgwyn unlocked.
 
 From here nothing really stops you from bum rushing the next set of bosses like a speedrunner and going to beat the game. You have an optimal build with an upgraded weapon.
 
@@ -457,7 +459,7 @@ From the entrance of the elden city you want to run this route and get to the gr
 From the red line end. Continue northwest until you find a well under the dragons wing and head down inside.
 Open the gate, run past the rats, open the door, jump down to the left and get the Underground Roadside grace.
 From the grace head northeast and take the ladder down.
-Jump on the giant pipe, run south, and then drop down to the lower pipe, and down again in front of the crab to the ground with the long awaited somber +7 on a body, inside the pipe ahead is another +7 somber.
+Jump on the giant pipe, run south, and then drop down to the lower pipe, and down again in front of the crab to the ground with the long awaited somber +7 on a body, inside the pipe ahead is another +7 somber. Just outside the pipe is Mohg's Shackle and a grace in the hallway. 
 
 Get out of here and upgrade your weapon.
 
@@ -465,7 +467,7 @@ Near the dragonbarrow map piece in caelid there's a Dragonbarrow West grace.
 Next to here is a scarab to the North by the giant tower you can kill with a +8
 There is a +9 here as well at the base of the giant tower.
 
-Progressing in the capital city requires fighting two pretty hard strength bosses, I would recommend getting and upgrading the mimic tear first which requires killing Radahan.
+Progressing in the capital city requires fighting two pretty hard strength bosses, I would recommend getting and upgrading the mimic tear first which requires killing Radahan. 
 
 ## Optional exploring
 
@@ -568,7 +570,7 @@ In the red area up ahead you can stick around and fight a tough boss, but I reco
 
 ## Godfrey and Margott
 
-Now we can finally head back to the capital city and not get wrecked. From the avenue balcony grace, head up the giant dragons wing, through the building and eventually to the west capital rampart.
+Now with our mimic we can finally head back to the capital city and not get wrecked. From the avenue balcony grace, head up the giant dragons wing, through the building and eventually to the west capital rampart.
 
 Travel back to the west capital rampart, run by the gargoyle and up the tree root to Godfrey. Summon your spirit and the boss should be pretty easy. Equip the golden scarab for extra runes.
 
@@ -708,7 +710,7 @@ Greatsword with Lions Claw 130+ build:
 - Make sure you are medium load, remove pieces of armor if you need to
 - Strategy: Summon Mimic immediately at start of Radagon. Dodge and heal and eventually get behind to use Lions Claw when open. Before Elden Beast heal, use physick. Start Elden Beast by running up and spamming lions claw. When Elden Beast runs away get on the horse and run closer while Elden beast attacks your mimic. Keep attacking with Lions Claw until dead.
 
-Option 3: Dragon Halberd. Play style will be similar to the Golden Halberd, easy to get, easy to upgrade as you likely have the somber already. Spin to win at times. Elden beast is immune to frost so the build is good, but not the best. The Dragon Halberds Frost damage helps with Miquella and is a decent choice for DLC. 
+Option 3: Dragon Halberd. Play style will be similar to the Golden Halberd, easy to get, easy to upgrade as you likely have the somber already. Spin to win. Elden beast is immune to frost so the build is good, but not the best. The Dragon Halberds Frost damage helps with Miquella and is a decent choice for DLC. 
 
 Option 4: Ruins Greatsword. Ranged Ash of war like Blasphemous Blade, but rock/gravity. Relatively easy to get after killing radahn, upgrades with somber. Attack is kinda slow and it won't be as forgiving on Miquella, but it is decent in DLC. 
 
