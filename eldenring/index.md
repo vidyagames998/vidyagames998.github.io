@@ -743,17 +743,19 @@ Nightrider Glaive Mohg 120: Swap for Cragblade, Spec to 50 Vig, 15 mind, 35 endu
 
 Now that you have beaten the game. You can explore some of the other classes and get a surprisingly different playthrough and experience. 
 
-Here are some recommendations for weapon types based on class that might be worth exploring
+Here are some recommendations for weapon types based on class that might be worth exploring. There's a lot of ways to play this game. 
 
-- Samurai: Start with the Uchikatana. For a somber weapon either get the moonveil or bloodhouds fang. After you get rivers of blood by fire giant you can optionally switch to a bleed build. 
-- Vagabond: Start by grabbing the bloodhounds fang and it can carry you throughout
-- Mage: Head over to caelid and grab the meteorite staff and rock sling. Lean heavy into the imps to carry you. There is a flask to get unlimited magic usage for a set time and pairs well with Comet Azur up in Altus. For the end game get Meteorite of Astel. There are a number of spells you can grab along the way and you will likely go to many parts of the mapped you have yet to explore. 
-- Confessor: We did the golden halberd build already so I would take a look at sword of night and flame if you want something different.
-- Warrior: Bloodhounds fang/ dual bandit curved swords (farmed 3% drop). You could also just use the starting dual scimitars.
+- Mage: Head over to caelid and grab the meteorite staff and rock sling. Lean heavy into the imps to carry you. There is a flask to get unlimited magic usage for a set time and pairs well with Comet Azur up in Altus. For the end game get Meteorite of Astel. There are a number of spells you can grab along the way and you will likely go to many parts of the map you have yet to explore. 
+- Samurai: Start with the Uchikatana. For a somber weapon either get the Moonveil or Bloodhouds Fang. After you get Rivers of Blood by Fire Giant you can optionally switch to a bleed build. 
+- Vagabond: Grab Bloodhounds Fang and it can carry you throughout
+- Confessor: We did the golden halberd build already so I would take a look at Sword of Night and Flame if you want something different.
+- Warrior: Bloodhounds fang/dual bandit curved swords (farmed 3% drop). You could also just use the starting dual scimitars.
 - Bandit: Reduvia
-- Prisoner: moonveil/esotec to frozen needle to wing of astel once you beat radahn
+- Prisoner: Esotec to Frozen Needle to Wing of Astel once you beat radahn
 - Hero: We already did Golden Halberd. I would kill Edgar in Castle Morne to get a +8 Banished Knight's Halberd, use that to beat Misbegotten and get the Grafted Blade, use sleep pots to kill Godskin in Volcano Manor and make your way to Serpent Hunter.
-- Prophet: Use the dragon incantations
-- 
+- Prophet: Dragon Seal and Dragon incantations
+- Wretch: Club to Great Stars (there's two on the map so you don't need to kill Magnus)
+
+
 `~Fin~`
 
