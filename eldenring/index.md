@@ -739,5 +739,21 @@ It's recommended to start the DLC at level 150. You have to fight a fairly tough
 
 Nightrider Glaive Mohg 120: Swap for Cragblade, Spec to 50 Vig, 15 mind, 35 endurance, 60 strength, 10 dex, 7 int, 15 faith, 12 arcane. Equip Greatjar Arsenal/Jar Arsenal, Dragoncrest Greatshield, Axe Talisman, Claw Talisman. Get Mohg's shackle from where we got our first Somber 7 on a body near the two crabs in the basement of the capital city. Go inside, two hand, summon mimic, flame grant be strength, cragblade, wait till right before mohg attacks your mimic and shackle him. Then get close and Jump R2, repeat until riposte, you can shackle one more time, when his health gets weak he transitions and does three health steal attacks, heal through them, continue the Jump R2s. Shackle does nothing once he phase changes and he does the health steal. 
 
+## New Game Plus
+
+Now that you have beaten the game. You can explore some of the other classes and get a surprisingly different playthrough and experience. 
+
+Here are some recommendations for weapon types based on class that might be worth exploring
+
+- Samurai: Start with the Uchikatana. For a somber weapon either get the moonveil or bloodhouds fang. After you get rivers of blood by fire giant you can optionally switch to a bleed build. 
+- Vagabond: Start by grabbing the bloodhounds fang and it can carry you throughout
+- Mage: Head over to caelid and grab the meteorite staff and rock sling. Lean heavy into the imps to carry you. There is a flask to get unlimited magic usage for a set time and pairs well with Comet Azur up in Altus. For the end game get Meteorite of Astel. There are a number of spells you can grab along the way and you will likely go to many parts of the mapped you have yet to explore. 
+- Confessor: We did the golden halberd build already so I would take a look at sword of night and flame if you want something different.
+- Warrior: Bloodhounds fang/ dual bandit curved swords (farmed 3% drop). You could also just use the starting dual scimitars.
+- Bandit: Reduvia
+- Prisoner: moonveil/esotec to frozen needle to wing of astel once you beat radahn
+- Hero: We already did Golden Halberd. I would kill Edgar in Castle Morne to get a +8 Banished Knight's Halberd, use that to beat Misbegotten and get the Grafted Blade, use sleep pots to kill Godskin in Volcano Manor and make your way to Serpent Hunter.
+- Prophet: Use the dragon incantations
+- 
 `~Fin~`
 
