@@ -735,7 +735,7 @@ If you are truly stuck there's no shame in summoning a multiplayer cooperator on
 If you don't want to grind right now to defeat Elden Beast, there's plenty of other content to do. There's a lot left to the map and a ton of bosses and mini bosses to fight. Lookup the secret medallion if you want to learn about those areas to take the second lift down and through the snow fields to Miquella. There is also a new dlc at Mohgwyn Palace, but you will also need to defeat another hard boss to get there. Summon help.
 
 ## Mohgwyn Palace DLC
-It's recommended to start the DLC at level 150. At the top is a fairly tough boss. 
+It's recommended to start the DLC at level 150. You have to fight a fairly tough boss at the top to get there and being at level 150 helps a ton. 
 
 Nightrider Glaive Mohg 120: Swap for Cragblade, Spec to 50 Vig, 15 mind, 35 endurance, 60 strength, 10 dex, 7 int, 15 faith, 12 arcane. Equip Greatjar Arsenal/Jar Arsenal, Dragoncrest Greatshield, Axe Talisman, Claw Talisman. Get Mohg's shackle from where we got our first Somber 7 on a body near the two crabs in the basement of the capital city. Go inside, two hand, summon mimic, flame grant be strength, cragblade, wait till right before mohg attacks your mimic and shackle him. Then get close and Jump R2, repeat until riposte, you can shackle one more time, when his health gets weak he transitions and does three health steal attacks, heal through them, continue the Jump R2s. Shackle does nothing once he phase changes and he does the health steal. 
 
