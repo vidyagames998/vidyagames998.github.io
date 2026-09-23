@@ -702,7 +702,7 @@ Blasphemous Blade 130+ build:
 - Flasks: 10 heals, 4 magic
 - Make sure you are medium load, remove armor if you need to
 
-Option 2 (2nd Recommended): The Greatsword with the Lions Claw ash of war. This is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. You can pickup the sword right away from a carriage in Caelid. This will take 20 min to fully piece together if you don't have the bell bearing 1-3 and the 200k runes. Additionally this build doesn't require nearly as much optimization to work well as the iframes are very generous when using the ash of war.  
+Option 2 (2nd Recommended): The Greatsword with the Lions Claw ash of war. This is a great all around build for these final bosses and will set you up for an easier time fighting Mohg to do the DLC. You can pickup the sword right away from a carriage in Caelid. This will take 20 min to fully piece together if you don't have the bell bearing 1-3 and the 200k runes. Additionally this build doesn't require nearly as much optimization to work well as the iframes are very generous when using the ash of war. 
 [Greatsword with Lions Claw Level 100 build](https://www.youtube.com/watch?v=no54ycvLl_Y)
 
 Greatsword with Lions Claw 130+ build:
@@ -720,9 +720,9 @@ Greatsword with Lions Claw 130+ build:
 
 Option 3: Ruins Greatsword. Ranged Ash of war like Blasphemous Blade, but rock/gravity. Upgrades with somber. You do have to kill a duo boss at Redmane Castle which [can be done before beating Radahn](https://www.youtube.com/watch?v=KZ7TaBMrh_4) it's just not an easy fight and much easier to get to after Queen Rennala via the portal. The attack is kinda slow and it won't be very forgiving on Miquella, but it is decent in DLC. There is a [cheese for this boss](https://www.youtube.com/watch?v=nrDkXU6DE-Y) so you could potentially use this instead of the Golden Halberd [from the start](https://www.youtube.com/watch?v=op9hxIngMCI&t=551s). Keep in mind it also needs 50 strength and 16 int so while available, definitely not the best choice for starting the game.  
 
-Option 4: Great Stars with Lions Claw. Lighter version of Greatsword with bleed and carries a slight heal with each hit. I like the greatsword better as you have much wider reach, but they are both pretty good. Smithing stone upgrades. Probably better for DLC over the greatsword. 
+Option 4: Great Stars with Lions Claw. Lighter version of Greatsword with bleed and carries a slight heal with each hit. I like the greatsword better as you have much wider reach, but they are both pretty good. Smithing stone upgrades. Probably better for DLC over the greatsword. Available early game if you cheese him with [dragon encantations](https://www.youtube.com/watch?v=L9xRdKDJ7lI). 
 
-Option 5 (Recommended): Nightrider Glaive with Black Flame Tornado (dropped from godskin duo). Instead of the Ice Spears frost this build uses physical/fire damage and is way better against elden beast. It does require some good timing and skill to use effectively, so definitely not as brain dead easy like the greatsword. The Nightrider glaive later pairs well with cragblade for Mohg and giant hunt for Miquella. There's 18 larval tears to respec in the base game. 
+Option 5 (Recommended): Nightrider Glaive with Black Flame Tornado (dropped from godskin duo). Instead of the Ice Spears frost this build uses physical/fire damage and is way better against elden beast. It does require some good timing and skill to use effectively, so definitely not as brain dead easy like the greatsword. The Nightrider glaive later pairs well with cragblade for Mohg and giant hunt for Miquella. There's 18 larval tears to respec in the base game before going into new game plus. 
 
 ## Closing thoughts
 
