@@ -384,7 +384,7 @@ There's a glitch to be able to [repeat farm](https://www.youtube.com/watch?v=TQj
 Optional glitch to kill another dragon:
 Back near lenne's rise there's a long bridge, there's a [glitch to kill this dragon](https://www.youtube.com/watch?v=p7VmiX50vO4) and get 100k runes by luring him to the end of the bridge and having it float in the sky near the tree until the game kills him for you. This glitch is way easier than convincing the knights calvary to jump off the cliff in my opinion, but can take some luck. 
 
-There's also some more optional gear we can get to make this build better. This is all way overkill.
+There's also some more optional gear we can get to make this build better.
 
 - Pickup the jellyfish shield next to foot of the four belfries grace with a contagious fury damage buff L2. Gives +15% damage, but only works if one hand the halberd. It is located West of Raya Lucaria in North Limgrave. 
 - Head south of rotview balcony in Caelid to the fort, on the south side of the fort at the base behind two enemies is the flame grant me strength spell which gives a damage buff.
