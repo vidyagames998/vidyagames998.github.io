@@ -394,7 +394,7 @@ There's also some more optional gear we can get to make this build better.
 - Mix the spiked crack tear and strength tear in the physick at a grace
 - Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
 - This same tree sentinel armor dunegon has grave glovewort 6 for your imps to get you to level 6 (optional)
-- You can find a [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) in Altus Plateu (optional)
+- You can find a [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) in Altus Plateu at the start of the Gelmirs Heros Grave (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - If you didn't grab it earlier in summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
@@ -403,7 +403,7 @@ After Tree Sentinel 2.0 we can go get the rest of the upgrades for the imps but 
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9))
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(10)](https://eldenring.wiki.fextralife.com/Great_Grave_Glovewort)
 
-You can get a grave glovewort 7/8/9/10 all from giant conquering heros grave right before fire giant without fighting mini bosses. 
+If you wait till after Margott you can get a grave glovewort 7/8/9/10 all easily from the giant conquering heros grave which is the grave right before fire giant after the long chain and you won't need to fight any mini bosses. The mimic summon has been nerfed pretty heavily and is no longer anywhere close to as strong as it was in original release. I recommend the mimic, but if you would like you can probably get by with just the imps.
 
 After Raya Lucaria the next area is to the North east. With two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far far north east). Altus Plateau has a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) you can pickup off the ground to upgrade halberd. It's located on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder. 
 
@@ -600,7 +600,9 @@ Head to the altus plateu grace and head north a long ways through the mountain, 
 
 The mimic can be very stupid, remove poison mist.
 
-Buff before the fog door. Summon the mimic with your seal and dragon breath out.  
+You can also go easily get a 7/8/9/10 grave glovewort if you want from the giant conquering heros grave right before fire giant without fighting any mini bosses and get your imps to +10. 
+
+Buff before the fog door. Summon the mimic with your seal and dragon breath out so your mimic tries to use it on fire giant. 
 
 You just want to run up underneath him on the horse and rb/r1 his leg without the shackle, if he runs away sprint under him an just keep moving away from his foot stomps. Stay close underneath him in phase 1 to avoid his shield bash as it's one hit kill with low vigor. The shield scoop can be invincibility frame dodged by hopping off the horse at the right time. Avoid fire by staying where there's no flame.
 
@@ -624,7 +626,7 @@ From here make your way west, grab the dragon crest sheild talisman +2 along the
 
 ### Tree Sentinel 3.0
 
-Up the hill from here is a tree sentinel 3.0, just like 2.0 he is pretty tough to fight as a golden halberd, but he is weak to poison.
+Up the hill from here is a tree sentinel 3.0, just like 2.0 he is pretty tough to fight as a golden halberd, he is entirely optional if you just run by him, but he is also weak to poison and you can easily kill him which makes your Maliketh attempts easier.  
 
 Allocate 5 magic flasks, run up and enter the gold fog door to start the Maliketh fight. Immediately exit the game from the menus and load the game back up. When you spawn in you'll be outside the boss and behind the tree sentinel and you can crouch behind him and can poison mist him to death without being noticed.
 
@@ -750,7 +752,7 @@ Now that you have beaten the game. You can explore some of the other classes and
 Here are some recommendations for weapon types based on class that might be worth exploring. There's a lot of ways to play this game. 
 
 - Mage: Head over to caelid and grab the meteorite staff and rock sling. Lean heavy into the imps to carry you. There is a flask to get unlimited magic usage for a set time and pairs well with Comet Azur up in Altus. For the end game get Meteorite of Astel. There are a number of spells you can grab along the way. You should get glintstone pebble, night comet, carian greatsword, and terra magica for certain. This build will have you go to many parts of the map you have yet to explore. 
-- Vagabond: Grab Bloodhounds Fang and it can carry you throughout. Before you fight the mini boss to get it you should go to mistwood first and hear the howl in east limgrave, then talk to santa, then go back to unlock the Blaidd helper otherwise the fight is pretty tough. In the BHF fight the Lordsworn Greatsword works well with golden vow.
+- Vagabond: Get Lordsworn Greatsword with Golden Vow then head over and grab Bloodhounds Fang. This weapon can carry out throughout the entire game. Before you fight the mini boss in the gaol in southern limgrave you should unlock blaidd to help you. Go to east limgrave and visit the mistwood ruins and hear the howl, then talk to santa, then go back with the new finger snap and use it to unlock the Blaidd. I will warn you while you can get bloodhounds fang early on it is very difficult to learn how to use. I feel like when it is used the game is way less forgiving and really tries to instantly kill you. This is not a beginners build and you will really have to learn how to fight enemies once you get to Maliketh. 
 - Samurai: Start with the Uchikatana they give you. For a somber weapon either get the Moonveil or Bloodhouds Fang. After you get Rivers of Blood by Fire Giant you can optionally switch to a bleed build. 
 - Confessor: We did the golden halberd build already so I would take a look at Sword of Night and Flame if you want something different. Upgrading the Lordsworn Greatsword albeit with normal smithing stones isn't a bad option either until you can get the Blasphemous Blade. 
 - Warrior: Bloodhounds fang/dual bandit curved swords (farmed 3% drop). You could also just use the starting dual scimitars.
