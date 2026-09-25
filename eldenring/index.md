@@ -69,6 +69,8 @@ Immediately you will be given two options, if jump down the hole to the right of
 
 Either choice is fine, the area is straightforward and doesn't take long, just keep running forward and fight the mini boss. If you skip it just know you skipped it poorly teaching you basics on pressing attack (rb) and charged attack (rt) and healing (down on dpad and X on red flask).
 
+If you look behind you, there's an item on a ledge and yellow fog door. The fog door is the mini boss room from taking a right. To get the item you have to outside and around the long way to the North and pickup the Haligdrake Talisman which gives weak holy defense. 
+
 ## The first grace
 
 Once you make your way through the door you'll get to a grace.
