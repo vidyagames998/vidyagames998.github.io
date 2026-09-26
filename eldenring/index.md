@@ -776,7 +776,7 @@ We did the golden halberd build already so I would take a look at Sword of Night
 ### Warrior
 Bloodhounds fang/dual bandit curved swords (farmed 3% drop). You could also just use the starting dual scimitars.
 
-### Bandit: 
+### Bandit
 Reduvia from the fight before Patches. Stalling at the start of the fight gives time for Yura to show up and help. You might need to throw some levels in vigor beforehand. 
 
 ### Prisoner 
