@@ -200,11 +200,13 @@ Another super important mechanic is learning about physical and elemental damage
 
 The next mechanic you should learn about are damage from status ailments. There is Bleed, Frostbite, Poison, Scarlet Rot, Sleep, Madness, and Death Blight. These matter a lot. If you have a bleed weapon, each hit you do adds points of bleed until enough stack and they do massive damage. This effect greatly adds to how well a weapon works. The same is true for frost weapons. Poison and Rot build up slowly until they proc and you start seeing steady declines in health per second until it wears off. Bosses can be immune to certain types of ailments. Sleep can sometimes put a boss to sleep. Madness can make you lose control of your character. Death blight can instantly kill you if it builds up enough. Understanding when to use these ailments and when to switch weapons can make the world of a difference in facing difficulties in this game. 
 
-For now head to the middle of town and head down the staircase to a chest at the bottom at that gives you a charged move (L2/LT ash of war) you can equip to your weapon at a grace. Ashes of war can also change your weapons affinity (status ailments, damage type, and what stats your weapon scales with) for the better or worse so be mindful. You will need few different blades to be able to use different ashes of wars on different weapons, these are unlocked via certain chests throughout the map. Run outside and go south to your next grace. Rob the other carriage and come back.
+For now head to the middle of town and head down the staircase to a chest at the bottom at that gives you a charged move (L2/LT ash of war) you can equip to your weapon at a grace. Ashes of war can also change your weapons affinity (status ailments, damage type, and what stats your weapon scales with) for the better or worse so be mindful. You will need to collect a few different blades to be able to use different elemental effects or ashes of wars on different weapons, these are unlocked via certain chests or random bodies throughout the map. Individual weapons usually only support a subset of the ashes of war available. 
+
+Run outside and go south to your next grace. Rob the other carriage and come back.
 
 Killing enemies gives you money, but its usually very slow and you are better off robbing all the graves to get your first levels. To get to the first graveyard run North through the gate following the road to shack with the next grace. Grab the golden seed off the yellow tree on the way. Your horse can double jump over barricades. If you click in on the right stick you will jump off the horse easily.
 
-Use the seed to level up your flask. Turn around and grab the stone sword key off the body.
+Use the seed to level up your flask. Turn around and grab the stone sword key off the body, we'll use this to get the green stamina turtle later. 
 
 If you ignore the lady in the hut you can come back later after Godrick when she moves to the roundtable hold and get a free golden seed. 
 
