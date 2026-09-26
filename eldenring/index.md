@@ -792,7 +792,7 @@ Dragon Seal and all the Dragon incantations with Reduvia as backup. Ritual sword
 Club to Lions Claw Great Stars (there's two on the map so you don't need to kill Magnus). For starting armor you can buy light armor from santa or take the trap chest to caelid and get the travelers set for free. 
 
 ### YOLO
-Take a random class and pick up a random weapon and go with it to +10/+25. Random weapons can do decently well and people have made builds for a lot of them. This is especially so if you are willing to be carried by randoms. 
+Take a random class and pick up a random weapon and go with it to +10/+25. Random weapons can do decently well and people have made builds for a lot of them. This is especially so if you are willing to be carried by randoms. Getting to Maliketh should be no problem without help. 
 
 `~Fin~`
 
