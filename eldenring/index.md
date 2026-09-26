@@ -779,7 +779,8 @@ Bloodhounds fang/dual bandit curved swords (farmed 3% drop). You could also just
 ### Bandit: 
 Reduvia from the fight before Patches. Stalling at the start of the fight gives time for Yura to show up and help. You might need to throw some levels in vigor beforehand. 
 
-### Prisoner Esotec (shop by second grace in Liurnia) to Frozen Needle to Wing of Astel once you beat radahn
+### Prisoner 
+Esotec (shop by second grace in Liurnia) to Frozen Needle to Wing of Astel once you beat radahn
 
 ### Hero
 We already did Golden Halberd. I would use the Lordsworn Greatsword with Golden Vow to kill Misbegotten to the far south and get the Grafted Blade (requires 40 strength, 27 if two handed, strength physick helps too), upgrade it to +6, from here you can use sleep pots to kill the Godskin in Volcano Manor and make your way to the Serpent Hunter.
