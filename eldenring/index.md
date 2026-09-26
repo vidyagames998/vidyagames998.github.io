@@ -768,7 +768,7 @@ For Elden Beast at 120 I would do, 40 vigor, 20 mind, 15 Endurance, 12 Strength,
 Get Lordsworn Greatsword with Golden Vow then head over and grab Bloodhounds Fang. This weapon can carry you throughout the entire game. Before you fight the mini boss in the gaol in southern limgrave you should unlock blaidd to help you. Go to east limgrave and visit the mistwood ruins and hear the howl, then talk to santa, then go back with the new finger snap and use it to unlock the Blaidd. I will warn you while you can get bloodhounds fang early on it is very difficult to learn how to use. I feel like when it is used the game is way less forgiving and really tries to instantly kill you. This is not a beginners build and you will really have to learn how to fight enemies once you get to Maliketh. Do L2's then run away. Don't follow them up with charged R2's or R1's unless you are really confident you have an opening and won't get hit for a bit. 
 
 ### Samurai
-Start with the Uchikatana they give you. For a somber weapon either get the Moonveil or Bloodhouds Fang. After you get Rivers of Blood by Fire Giant you can optionally switch to a bleed build. 
+Start with the Uchikatana they give you. For a somber weapon either get the Moonveil or Bloodhouds Fang. After you get Rivers of Blood by Fire Giant you can optionally switch to a bleed build. Use Shard of Alexander, Lord of Bloods Exultation, Rotten Wing Sword Insignia, Dragoncrest +2/Great and the White Mask helmet. 
 
 ### Confessor
 We did the golden halberd build already so I would take a look at Sword of Night and Flame if you want something different. Upgrading the Lordsworn Greatsword albeit with normal smithing stones isn't a bad option either until you can get the Blasphemous Blade. 
