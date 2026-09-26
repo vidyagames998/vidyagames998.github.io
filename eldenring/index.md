@@ -791,5 +791,8 @@ Dragon Seal and all the Dragon incantations with Reduvia as backup. Ritual sword
 ### Wretch
 Club to Lions Claw Great Stars (there's two on the map so you don't need to kill Magnus). For starting armor you can buy light armor from santa or take the trap chest to caelid and get the travelers set for free. 
 
+### YOLO
+Take a random class and pick up a random weapon and go with it. The game is surprisingly balanced, random weapons can do decently well, especially if you are willing to be carried by randoms. 
+
 `~Fin~`
 
