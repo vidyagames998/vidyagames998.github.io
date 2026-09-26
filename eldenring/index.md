@@ -111,23 +111,20 @@ If you open the map you will see a lot of brown fog and a small map. This will g
 
 ![](images/map_blank.jpg)
 
-Pressing Y toggles the HUD on and off. You can also change it to always stay on in the settings. 
 
-On the top left is a red bar which is your health.
-The blue bar is how much magic you have.
-The green bar is how much stamina you have.
-Underneath the green bar is where you can see what status modifiers are in effect or if you have activated a statue of marika. When you die you either spawn at the last grace you touched or the last statue you visited.
-The empty box will be used to indicate which great rune you chose that gives you a stat boost later. To activate them they require using a rare consumable and they deactivate on your death. You don't need them. 
-
-If you spin around you will see the top middle compass change based on the direction you are facing. North, East, South, West.
-
-The bottom right is how much money you have, if you die after earning money, you can go back and collect it from the yellow spawn near where you died. If you die twice in a row before grabbing it, the money is all gone forever so be careful.
-
-Left on the dpad unequips and equips the shield
-
-Right on the dpad unequips and equips the axe
-
-Down on the dpad rotates through equips items that can be easily activated with X
+### HUD
+- Pressing Y toggles the HUD on and off. You can also change it to always stay on in the settings. 
+- On the top left is a red bar which is your health.
+- The blue bar is how much magic you have.
+- The green bar is how much stamina you have.
+- Underneath the green bar is where you can see what status modifiers are in effect or if you have activated a statue of marika. When you die you either spawn at the last grace you touched or the last statue you visited.
+- The empty box will be used to indicate which great rune you chose that gives you a stat boost later. To activate them they require using a rare consumable and they deactivate on your death. You don't need them. 
+- If you spin around you will see the top middle compass change based on the direction you are facing. North, East, South, West.
+- The bottom right is how much money you have, if you die after earning money, you can go back and collect it from the yellow spawn near where you died. If you die twice in a row before grabbing it, the money is all gone forever so be careful.
+- Left on the dpad unequips and equips the shield
+- Right on the dpad unequips and equips the axe
+- Down on the dpad rotates through equips items that can be easily activated with X
+- Up on the dpad rotates through spells
 
 Red flask heals hp, blue flask heals magic, Fanged imps can be summoned when you have enough magic and are near enemies.
 
@@ -195,9 +192,13 @@ Take a look around and you will see carriages.
 
 These have prizes on the front or back and are often carried by trolls. You can swing your sword on the troll to stop a carriage and then rob the chest and run off to a nearby grace and should. Practice on the first one and run back to the grace. This gives us the Lordsworn Greatsword, but we are not strong enough to use the sword until we get one more level in Dex. Sometimes you get lucky with two handing weapons (Y+Rb), but not this time. This sword is really strong against that Tree Sentinel we saw earlier and we can use it to do horse on horse combat against him and make the fight way easier. 
 
-If you press start you will see status menu shows the strength of your weapon equipped, the axe has a damage of 141 and when two handed does 152. The equipment menu shows this weapon scales with Strength and Dexterity. The Longsworn Greatsword is at 81 because we don't have the Dex requirement and also scales with Strength and Dexterity. When we are level 11 with one point in Dexterity it will be 154 one handed and 161 two handed. Axe will be at 146/153. Meeting stat requirements matters a lot for whatever weapon you choose. The stats are very similar, but the real reason why this sword does so well against the tree sentinel is because it has a very long reach, way more than the axe. 
+If you press start you will see status menu shows the strength of your weapon equipped, the axe has a damage of 141 and when two handed does 152. When you two hand a weapon you get an extra 50% in strength. So a character with 30 points in strength when two handing will have 45. The equipment menu shows this weapon scales with Strength and Dexterity, scale order being S,A,B,C,D. The Longsworn Greatsword is at 81 because we don't have the Dex requirement to use the weapon well and it also scales with Strength and Dexterity. When we are level 11 with one point in Dexterity it will be 154 one handed and 161 two handed. Axe will be at 146/153. Meeting stat requirements matters a lot for whatever weapon you choose. The stats are very similar between the axe and greatword, but the real reason why this sword does so well against the tree sentinel is because it has a very long reach and hit from much further away than the axe. 
 
 Most the damage in this game comes from upgrading your weapon and not from upgrading your stats in certain levels until late game. A maxed out +10 somber weapon will give you 800 damage on it's own, the remaining 200 or so damage come from levels. It's counter intuitive, but it's not worth dumping all your points into Strength to do more damage. I highly recommend just getting the stats you need to use your weapon and then focusing on vigor so you have enough health to be able to take some hits and not die to one hit all the time. Endurance helps a ton as well as it helps you do more consecutive hits and helps you wear much stronger armor.  
+
+Another super important mechanic is learning about physical and elemental damage. Your weapon can be standard, strike, slash, or pierce. They have hidden benefits for example Crystal enemies are usually very weak to strike weapons. For elemental damage you have physical, magic, fire, lightning, and holy. Rot enemies are weak to fire. If you fight a fire enemy it will likely have great immunity to fire. Rock/gravity is usually considered physical damage and not elemental. There are one time greases you can use to add elemental damage to a weapon. 
+
+The next mechanic you should learn about are damage from status ailments. There is Bleed, Frostbite, Poison, Scarlet Rot, Sleep, Madness, and Death Blight. These matter a lot. If you have a bleed weapon, each hit you do adds points of bleed until enough stack and they do massive damage. This effect greatly adds to how well a weapon works. The same is true for frost weapons. Poison and Rot build up slowly until they proc and you start seeing steady declines in health per second until it wears off. Bosses can be immune to certain types of ailments. Sleep can sometimes put a boss to sleep. Madness can make you lose control of your character. Death blight can instantly kill you if it builds up enough. Understanding when to use these ailments and when to switch weapons can make the world of a difference in facing difficulties in this game. 
 
 For now head to the middle of town and head down the staircase to a chest at the bottom at that gives you a charged move (L2/LT ash of war) you can equip to your weapon at a grace. You will need few different blades to be able to use different moves on different weapons, these are unlocked via certain chests throughout the map. Run outside and go south to your next grace. Rob the other carriage and come back.
 
