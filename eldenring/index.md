@@ -783,7 +783,7 @@ Reduvia from the fight before Patches. Stalling at the start of the fight gives 
 Esotec (shop by second grace in Liurnia) to Frozen Needle to Wing of Astel once you beat radahn. Shard of alexander, haligdrake, dragoncrest, ritual sword.
 
 ### Hero
-We already did Golden Halberd. I would use the Lordsworn Greatsword with Golden Vow to kill Misbegotten to the far south and get the Grafted Blade (requires 40 strength, 27 if two handed, strength physick helps too), upgrade it to +6, from here you can use sleep pots to kill the Godskin in Volcano Manor and make your way to the Serpent Hunter. Axe, Haligdrake +2, dragoncrest, and green turtle. 
+We already did Golden Halberd. I would use the Lordsworn Greatsword with Golden Vow to kill Misbegotten to the far south and get the Grafted Blade (requires 40 strength, 27 if two handed, strength physick helps too), upgrade it to +6, from here you can use sleep pots to kill the Godskin in Volcano Manor and make your way to the Serpent Hunter. Axe, Haligdrake +2, dragoncrest, and green turtle. You'll have to learn how to really use serpent hunter when fighting the end game bosses. 
 
 ### Prophet
 Dragon Seal and all the Dragon incantations with Reduvia as backup. Ritual sword, haligdrake+2, dragoncrest, Flocks canvas and use the dragonmaw spell for elden beast. 
