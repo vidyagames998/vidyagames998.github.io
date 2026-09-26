@@ -59,7 +59,7 @@ Occasionally walls disappear when you hit them, if a wall looks out of place don
 
 Grab the item(finger), head out, enjoy the scenary, take a left and die to the boss. If you manage to beat him (near impossible for a beginner) run off the ledge.
 
-The key to defeating this boss is timing shield blocks precisely allowing you to perry, but this is not easy to learn and beating this boss will take a lot of practice.
+The key to defeating this boss is [removing your shoes and shield so you weigh less and can light roll](https://www.youtube.com/watch?v=JloVKXMy0uE). The shield does not block all damage when used and is pretty useless anyways if you don't master parrying. For the fight itself as a beginner strategy you want stay just beyond the edge of his reach and wait for an opening where he pauses after he does a flurry of attacks. This is when you strike, run in and do a quick R1 and run away. Again winning this fight is entirely optional and you can come back and fight him later if you want when you are way stronger. It's not easy, but you could also learn to [parry him by blocking only the last swing of his sword with your shield with L2](https://www.youtube.com/watch?v=BhxS7w_PcyM). Which you can follow up with a hold R1 riposte for lots of damage. This is not an easy thing to learn on this fight as the timing is very precise and unforgiving. You are also very low level and would have to watch a cutscene to try again if you miss the timing. 
 
 ## When you wake
 
