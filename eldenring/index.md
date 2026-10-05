@@ -24,7 +24,7 @@ For a keepsake I would go Fanged Imp Ashes.
 
 Why? Well you can really pick any or none of them as they all can be acquired later.
 
-While an unusual choice, people really sleep on this summon as there are many to choose from. It lets you call two strong helpers at the start of the game to help you fight early battles. Normally you start with the three wolves summon. Even though there are only two fanged imps this summon is far better as they spread apart better, distract bosses better, and do bleed damage. You can upgrade the summon very quickly to +7 early on with the limited resources they give for you to upgrade things. It is honestly perfect for a beginner. When upgraded right it can do quite significant damage on a lot of the early game bosses and mobs. Choosing this option now saves you from walking 15 min to a vendor outside Raya Lucaria to buy the summon for 2k runes. 
+While an unusual choice, people really sleep on this summon as there are many to choose from (84). It lets you call two strong helpers at the start of the game to help you fight early battles. Normally you start with the three wolves summon. Even though there are only two fanged imps this summon is far better as they spread apart better, distract bosses better, and do bleed damage. You can upgrade the summon very quickly to +7 early on with the limited resources they give for you to upgrade things. It is honestly perfect for a beginner. When upgraded right it can do quite significant damage on a lot of the early game bosses and mobs. Choosing this option now saves you from walking 15 min to a vendor outside Raya Lucaria to buy the summon for 2k runes. 
 
 # Controls and Mechanics
 
