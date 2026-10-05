@@ -376,17 +376,17 @@ Head back to Lenne's Rise. Pass time until nightfall. There's a horse on the bri
 
 Optional upgrading fanged imps:
 
-At the bottom of the map in weeping peninsula, just south of the church of pilgrimmage there's an arch with an entrance to the tombsword catacombs with an easy to grab grave glovewort 1 and 2. This is different from ghost glovewort found in the underground, catacombs and caves have grave glovewort and summons use one or the other as an upgrade material.  
+At the bottom of the map in weeping peninsula, just south of the church of pilgrimmage there's an arch with an entrance to the tombsword catacombs with an easy to grab grave glovewort 1 and 2. This is different from ghost glovewort found in the underground, catacombs usually have grave glovewort and summons use either one or the other as an upgrade material.  
 
-North of the rot view balcony behind the giant tree is a cave with grave glovewort 3/4/5.
+North of the rot view balcony behind the giant tree is a cave with an easy to grab grave glovewort 3/4/5.
 
-After visiting graces in Caelid and Liurnia. Head to the round table hold and talk to the red robbed girl by the fireplace and talk to the black smith multiple times about her. Then reload the round table by fast traveling there. This opens a shop next to the blacksmith where you can upgrade your imps in exchange for the grave glovewort and some runes.
+Visit at least one grace in Caelid and north of gatefront in Liurnia, then head to the round table hold and talk to the red robbed girl by the fireplace and talk to the black smith multiple times about her. Then reload the round table by fast traveling there. This opens a shop next to the blacksmith where you can upgrade your imps in exchange for the grave glovewort and some runes and you can upgrade your imps. 
 
 Optional Mission to get the golden scarab:
 
 The golden scarab gives you an extra 20% runes for killing enemies and is a talisman you can equip last second before killing a boss.
 
-To get it you'll either bloodhound step from killing the nights calvary in caelid or the quick step ash of war bought from Bernahl.
+To get it you'll need either bloodhound step from killing the nights calvary in caelid or the quick step ash of war bought from Bernahl. 
 
 To get the quick step ash of war, travel to warmaster's shack from earlier (just north east of the gatefront) in limgrave and buy quick step for 800 runes. Then travel to the round table hold and buy a dagger for 400 runes from the shop. At the grace you can equip bloodhound step/quick step to the light weight dagger.
 
@@ -403,7 +403,7 @@ Fast travel to Fort Faroth, walk up to the dragons back left foot, and keep tapp
 There's a glitch to be able to [repeat farm](https://www.youtube.com/watch?v=TQjR4axsl6k) it if you go back to the grace fast enough. I'm not a fan of 5 min of pressing Rb so I usually don't bother. 
 
 Optional glitch to kill another dragon:
-Back near lenne's rise there's a long bridge, there's a [glitch to kill this dragon](https://www.youtube.com/watch?v=p7VmiX50vO4) and get 100k runes by luring him to the end of the bridge and having it float in the sky near the tree until the game kills him for you. This glitch is way easier than convincing the knights calvary to jump off the cliff in my opinion, but can take some luck. 
+Back near lenne's rise there's a long bridge, there's a [glitch to kill this dragon](https://www.youtube.com/watch?v=p7VmiX50vO4) and get 100k runes by luring him to the end of the bridge and having it float in the sky near the tree until the game kills him for you. This glitch is way easier than convincing the knights calvary to jump off the cliff in my opinion, but can take some luck. It feels cheap so I recommend just skipping. 
 
 There's also some more optional gear we can get to make this build better.
 
@@ -419,17 +419,17 @@ There's also some more optional gear we can get to make this build better.
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - If you didn't grab it earlier in summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
-After Tree Sentinel 2.0 we can go get the rest of the upgrades for the imps but to be honest it isn't really worth it once we get the mimic summon.
+After Tree Sentinel 2.0 we can go get the rest of the upgrades for the imps, but to be honest it isn't really worth trying to get them early and I would just get the mimic summon.
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8))
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9))
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(10)](https://eldenring.wiki.fextralife.com/Great_Grave_Glovewort)
 
-If you wait till after Margott you can get a grave glovewort 7/8/9/10 all easily from the giant conquering heros grave which is the grave right before fire giant after the long chain and you won't need to fight any mini bosses. The mimic summon has been nerfed pretty heavily and is no longer anywhere close to as strong as it was in original release. I recommend the mimic, but if you would like you can probably get by with just the imps.
+If you wait till after Margott you can get a grave glovewort 7/8/9/10 all easily from the giant conquering heros grave which is the grave right before fire giant after the long chain and you won't need to fight any mini bosses. The mimic summon has been nerfed pretty heavily and is no longer anywhere close to as strong as it was in original release. I recommend the mimic, but if you would like you can probably get by with just the imps without too much struggle.
 
 After Raya Lucaria the next area is to the North east. With two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far far north east). Altus Plateau has a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) you can pickup off the ground to upgrade halberd. It's located on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder. 
 
 ## Mohgwyn Palace 
-This place has easy to grind enemies that give lots of runes. 
+This place has easy to grind enemies that give lots of runes and items on the ground that give lots of runes.
 
 - At the roundtable hold talk to the two fingers
 - South of raya lucaria is a church with the white masked man, talk to him to get a severed finger.
@@ -438,6 +438,7 @@ This place has easy to grind enemies that give lots of runes.
 - Head back to the church, use the item he gives you to teleport to Mohgwyn Palace
 - Head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches and collecting eagle talons and gold fireflies from weeping peninsula. A bow can be bought from the round table hold for 1200. Unlimited arrows can be bought from Santa in church of Elleh for 20 each. This is by far the most efficient farming method until you beat the game and even then it's still pretty good.
 - Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here
+- You can also kill Mohg with a glitch and get to the DLC early by loading him in and then doing one of the many jumps off a cliff while healing to despawn him. This gives 500k runes. 
 
 ## First two bosses
 
