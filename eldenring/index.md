@@ -24,7 +24,7 @@ For a keepsake I would go Fanged Imp Ashes.
 
 Why? Well you can really pick any or none of them as they all can be acquired later.
 
-While an unusual choice, people really sleep on this summon as there are many to choose from. It lets you call two strong helpers at the start of the game to help you fight early battles and is a good choice to upgrade with the limited resources they give for you to upgrade things. There's two of them and they do bleed damage which can do substantial damage on most bosses. It is honestly perfect for a beginner. When upgraded right it can do quite significant damage on a lot of the early game bosses and mobs. Choosing this option now saves you from walking 15 min to a vendor outside Raya Lucaria to buy the summon for 2k runes. T
+While an unusual choice, people really sleep on this summon as there are many to choose from. It lets you call two strong helpers at the start of the game to help you fight early battles and is a good choice to upgrade with the limited resources they give for you to upgrade things. There's two of them and they do bleed damage. It is honestly perfect for a beginner. When upgraded right it can do quite significant damage on a lot of the early game bosses and mobs. Choosing this option now saves you from walking 15 min to a vendor outside Raya Lucaria to buy the summon for 2k runes. T
 
 # Controls and Mechanics
 
