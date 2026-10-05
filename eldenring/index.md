@@ -1,12 +1,12 @@
 # Elden Ring
 
-Elden Ring is a very tough game. For most this entire game you will easily die to one to two hits from random mobs or falling off cliffs. This is a scary thought to most people, but it truly is a fun game and if you want to enjoy this game I recommend just accepting and embracing this reality. Most deaths won't set you back more than like 30 seconds and you'll be back to where you were.
+Elden Ring is a very tough game. For most this entire game you will easily die to one to two hits from random mobs or falling off cliffs. This is a scary thought to most people, but it truly is a fun game and if you want to enjoy this game I recommend just accepting and embracing this reality. Most deaths won't set you back more than like 30 seconds and you'll be back to where you were. When you die you have the option to go back to where you were and get your money back that you lost. Additionally if you collect an item and then die you don't lose the item or have to get it again it stays, so dying is not really that punishing besides the walk of shame. 
 
-When it comes to what items, armors, and weapons you should use FromSoft the makers of this game have gone way out of their way to try and balance every single optimized build. Over hyped videos have come out documenting super over powered game breaking builds and the game would see a patch in days breaking that build to try and maintain the games difficulty. What currently remains are likely the intended ways to beat the game. 
+When it comes to what items, armors, and weapons you should use FromSoft the makers of this game have gone way out of their way to try and balance every single optimized build. Over hyped videos have come out documenting super over powered game breaking builds and some have occurred, but the game would see a patch in days breaking that build to try and maintain the games difficulty. What currently remains are likely the intended ways to beat the game. 
 
 With the tarnished edition coming out, I wanted to write a guide as if I were choosing to play the game first time and recommending how I would approach the game.
 
-With this guide you should be able to complete the game, excluding the DLC in about 10 hours. 
+With this guide you should be able to complete the game, excluding the DLC in about 10 hours as a beginner. 
 
 ## Starting off
 
