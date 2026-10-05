@@ -250,10 +250,23 @@ Nearby is a glowing ball enemy, they usually have good items when killed.
 
 Just North of this areas grace is the Lance Talisman, this boosts combat damage when on the horse. 
 
-From here I could go step by step go through everything or you could watch a video, but I recommend exploring the entire map on your own first. 
+If you keep heading east from the Saintsbridge grace following the road you will find a purple boat boss that is tough, skip them. Then a stonesword key door to the right of boss. Go inside and grab the green turtle talisman. Keep heading east and you will see a church with an enemy that will ambush that's worth skipping. These ambushes exist at random places throughout the map and it's best to run away until you are very strong, then keep heading east and you will enter this red area of the map called Caelid where all the enemies are super strong and everything will really try to kill you. I would just keep running till you find the Rotview Balcony grace and rest. Now that we finally explored outside the main area. Melina thinks we're cool enough to join the roundtable and we can talk to a bunch of npcs.
 
-Avoid going to the top left castle of the starting map as this is where the first real boss is and just see how far you can explore everything. Enjoy the beauty of the game and just take it all in. Rob all the graves.
-Visit all the churches. Collect all the map pieces. Collect all the golden seeds on the map. Collect all the water basins.
+At the round table there is a guy named "D" who we can show the deathroot we got from finishing the first catacomb and he will mark a portal on your map near the Third Church of Marika to Caelid. 
+
+Talking to Gideon moves him to the room on the left. 
+
+Further on the left there's an item shop here where if you decide to kill a vendor on the open map you can get a bell and buy their items here. You don't need to waste the money on anything right now, but eventually the bow, dagger, and finger seal are worth picking up. 
+
+On the right there's a blacksmith who can upgrade your weapons even further than the first church we went to, come here to upgrade your Golden Halberd once you get it.
+
+Eventually the door here will open and provide a place were we can trade remembrances from beating bosses for items. You can also clone remembrances from giant turtles on the world map. 
+
+Feel free to talk to everyone here, skip the death bed companion if you don't want to lose 5% of your health until the questline finishes. 
+
+Once you get to this point in the game everything kind of opens up and the open world nature of the game really comes out. I recommend exploring the entire map on your own first and then watching a video to see if there's anything you missed.
+
+Avoid going to Stormveil Castle on the top left of the starting map as this is where the first real boss is and just see how far you can explore everything. Really enjoy the beauty of the game and just take it all in. Rob all the graves. Visit all the churche. Collect all the map pieces. Collect all the golden seeds. Collect all the tears from basins.
 
 Here's a good [map](https://mapgenie.io/elden-ring/maps/the-lands-between).
 
@@ -263,7 +276,7 @@ There are portals you can talk to that warp you to different parts of the map. Y
 
 There are occasional trap chests that when you open that will take you to different parts of the map. Rest at a grace to fix fast travel afterwards.
 
-I would recommend avoiding all the dungeons and battles for now and just run around on your horse and get stronger first.
+I would recommend avoiding the dungeons and battles for now and just run around on your horse and get stronger first.
 
 There are occasionally blue towers sometimes with small puzzles you can solve, it's worth climbing a couple to be able to equip more spells at once, but as a strength build you really have little use for them.
 
@@ -272,16 +285,6 @@ You should pick up and use better heavier armor as you gain endurance in late ga
 Weapons should only be upgraded when you are absolutely certain this is the weapon you want. I would stick with the Golden Halberd for your somber and Nightriders Graive for your regular smithing stones.
 
 Upgrading weapons withh require either somber or regular smithing stones. Somber weapons are way easier to level until you have access to easy to grind money and the smithing stone bell bearing 1,2, and 3. I'm mentioning it again because its really important. Remember to spend money and stones very carefully or you will be in a for a rough time of grinding low level enemies.
-
-If you keep heading east from the Saintsbridge grace you will find a purple boat boss that is tough, skip them. Then a stonesword key door to the right of boss. Go inside and grab the green turtle talisman. Keep heading east and you will see a church with an enemy that will ambush that's worth skipping. These ambushes exist at random places throughout the map and it's best to run away until you are very strong, then keep heading east and you will enter this red area of the map called Caelid where all the enemies are super strong and everything will really try to kill you. I would just keep running till you find the Rotview Balcony grace and rest. 
-
-Now that we finally explored outside the main area. Melina thinks we're cool enough to join the roundtable and we can talk to a bunch of npcs.
-
-There's an item shop here where if you decide to kill a vendor on the open map you can get a bell and buy their items here.
-
-You don't need to waste the money on anything.
-
-There's a blacksmith who can upgrade your weapons even further than the first church we went to.
 
 If you go back to the telescope in the first opening area, follow the road south and then make your way north east into the fog and eventually you'll end up at a church (Third Church of Marika) with a new flask and you can mix the various water basins you found.
 
@@ -308,6 +311,19 @@ There are a number of guides out there on how to do so, if you don't know where 
 Here's what the world looks like with the bottom half explored.
 
 ![](images/map_filled_bottom.jpg)
+
+The main areas I would explore in order are:
+- East of the gatefront to the Third Church of Marika, portal to Caelid then come back
+- Head South to the map piece and take an elevator down to Siofra River, then head back to the Third church
+- Go all the way South this time to the Dectus Medallion on top the Fort
+- From gatefront head all the way South to Weeping Peninsula and stop at Castle Morne
+- From gatefront head North to Liurnia and North East to the Lift
+- In the middle of Liurnia explore Raya Lucaria, the key is behind the dragon to the West. In Raya don't fight the dog boss or take the death portal to Volcano Manor yet and come back later. 
+- Go back to Caelid, head far east and grab the other half of the dectus medallion in Fort Faroth so you can take the lift up in Liurnia to Altus
+- From rot view head South to the dragon church and keep going South to the great bridge and stop
+- In Altus head North to the map and then head to the very North East to Auriza Heros Grave under the next tree sentinel
+- Head Back at the Altus lift take a left and go North West to Mount Gelmir
+- Head back to the Altus lift and head north and then West to Mount Gelmir taking the ladder path up to get there
 
 At any point if you get bored and just want to progress the story line, head back to "The First Step" grace and we can take on the tree sentinel. This guide will walk through as if you haven't explored anywhere.
 
