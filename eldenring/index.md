@@ -83,7 +83,7 @@ Once you make your way through the door you'll get to a grace.
 
 These yellow campfires are like save points, you can level up, perform upgrades. When you activate these you enable a fast travel point, if you activate them a second time or more you will sit down and the enemies will stop chasing after you and you can take a sigh of relief as you are safe. These are littered throughout the map. When leveling be very careful what stats you choose to put points into because if you balance them out evenly you will be in for a very difficult playthrough. I recommend prioritizing leveling to meet stat requirements for whatever weapon you choose, then leveling vigor until 30 or so, then going back into whichever single stat scales best for your weapon. I'll walk you through what to do for this build.  
 
-Grey walls like the ones seen to the right of the first grace require a one time use stonesword key to remove at the weird gargoyle statue. Sometimes they take two. This dungeon is fairly difficult, so if you chose the stonesword key keepsake I would save it and skip doing it until you level up quite a bit. 
+Grey walls like the ones seen to the right of the first grace require a one time use stonesword key to remove at the weird gargoyle statue. This one takes two and the dungeon is fairly difficult, I would skip doing it until you level up to at least level 30 and have a bow.  
 
 ![](images/first_grace_sitting.jpg)
 
