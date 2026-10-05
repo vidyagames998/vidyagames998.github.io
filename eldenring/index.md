@@ -248,6 +248,8 @@ You can jump off the cliff to the bottom of these and as long as you are in the 
 
 Nearby is a glowing ball enemy, they usually have good items when killed.
 
+Just North of this areas grace is the Lance Talisman, this boosts combat damage when on the horse. 
+
 From here I could go step by step go through everything or you could watch a video, but I recommend exploring the entire map on your own first. 
 
 Avoid going to the top left castle of the starting map as this is where the first real boss is and just see how far you can explore everything. Enjoy the beauty of the game and just take it all in. Rob all the graves.
@@ -395,9 +397,9 @@ There's also some more optional gear we can get to make this build better.
 - South of castle morne rampart grace in weeping peninsula on the left before the map piece is a scarab that gives you poison mist, equip this, this can be used to kill tree sentinel 2.0 easily
 - Upstairs of sofria river well elevator is a water basin with a spiked crack crystal tear, next to it is a bear in a village, underneath the bear there are stairs to a basement with the axe talisman
 - Mix the spiked crack tear and strength tear in the physick at a grace
-- Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns)
+- Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns) As a shortcut to dying you can use margit's shackle after jumping down and before going out to where all the mechanical chariots are to cause them all to die 
 - This same tree sentinel armor dunegon has grave glovewort 6 for your imps to get you to level 6 (optional)
-- You can find a [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) in Altus Plateu at the start of the Gelmirs Heros Grave (optional)
+- You can find a [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) in Altus Plateu at the start of the Gelmirs Heros Grave, it's a bit of work dodging the chariot (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - If you didn't grab it earlier in summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
@@ -449,7 +451,7 @@ In order to get to the next section we need to kill the next tree sentinel that 
 
 You can try and fight the guy, it's a fairly tough horse vs horse battle, but doable with some patience.
 
-Or you can simply crouch and walk through the trees and get behind him, then use poison mist (from weeping peninsula scarab by the map piece) to drain all of his health before the battle even begins and you are never noticed. Each time it runs out just recast, this will take about 10 min and 10 casts, requiring multiple magic flasks, but it will eventually kill him. This is not a glitch, this was an intended kill otherwise this also would have been patched. There is also a trick to get him to jump off the cliff as well like the nights calvary, but this one doesn't seem intended to me. This requires using consumable throwing knives to try and bait him to the cliff and pushing him off.
+Or you can simply crouch and walk through the trees and get behind him, then use poison mist (from weeping peninsula scarab by the map piece) to drain all of his health before the battle even begins and you are never noticed. Each time it runs out just recast, this will take about 10 min and 10 casts, requiring multiple magic flasks, but it will eventually kill him. This is not a glitch, this was an intended kill otherwise this also would have been patched. There is also a trick to get him to jump off the cliff as well like the nights calvary, but this one doesn't seem intended to me. This requires using consumable throwing knives to try and bait him to the cliff and pushing him off. In addition to poison mist you can use chilling mist (near Rani's rise) to speed up the damage. 
 
 After defeating the second tree sentinel and having defeated these three main bosses gets you access to the capital where you can get a +7 Somber stone in the sewers and finish the upgrades to +9 or +10 if you have Mohgwyn unlocked.
 
@@ -643,13 +645,15 @@ More things that can help:
 - Get the dex knot crystal tear north west of the Laskyar Ruins.
 - Stonebarded crystal tear and Opaline crystal tear. You can do so by killing the Putrid Avatar North of Fort Faroth in Caelid. Just use your mimic do two R2's and run away then repeat until dead. The stonebarbed cyrstal tear boosts stance damage which helps stagger them so bosses stop beating on you and helps give you a free critical.
 - Radahns set purchased from two fingers at roundtable
-- Dragon Seal, it's a slightly lighter easy to get seal from an enemy in the very first stonesword key door dungeon at the first steps at the start of the game
+- Dragon Seal, it's a slightly lighter easy to get seal from an enemy in the very first stonesword key door dungeon at the first steps at the start of the game. Erdtree seal works well too and is 0 weight. 
 - Cragblade, easy pickup from grave scarab in caelid before we took the portal to the radahn festival jester
+
+If you don't want to grind levels recently [Bryceinator13 made a tree sentinel build video](https://www.youtube.com/watch?v=7XE_fXn6DvY). He has a lot of great build videos. I'm glad to see someone mainstream showing off this build and it's worth a watch. The main difference between what he did in his playthrough and what we've done is he optimized for vigor way later and his start of game heavily relied on his ability to play the game. He also really went into a shield guard counter build that also provides a ranged attack which is very useful for DLC bosses. At this point in the build it might be worth going back and killing the dual tree sentinels for a giant shield which you can use to fight all the DLC bosses then you can later come back for the final bosses when you have much higher levels. Talisman wise additionally he grabs the ritual sword talisman, holy sacred scorpion charm, lightning tear, holy tear, and from the DLC he grabs the two handed sword talisman.  
 
 Before proceeding you should have:
 - Stats: 35(+5) vigor, 11 mind, 14(+5) dex, 15 faith, 30(+5) strength, 35(+5) endurance, and 12 arcane. Extra points should go into strength or vigor.  
 - Armor: Tree Sentinel/Radahn's Set (Medium load ideally)
-- Equip: Golden Halberd +10, Finger Seal/Dragon Seal (Lighter)
+- Equip: Golden Halberd +10, Finger Seal/Dragon Seal/Erdtree Seal (Lighter)
 - Talismans: Radagons Soreseal, Dragoncrest Shield Talisman +2/Dragoncrest Greatshield(long hour journey that isn't needed just helps), Axe Talisman, Green Turtle/Claw Talisman (From on top stormveil castle)
 - Spells: Flame Grant Me Strength and Rot Breath
 - Physick: Spiked Cracked and Strength/Stonebarbed
@@ -680,7 +684,7 @@ With a Golden Halberd you are going to have a incredibly tough time and you will
 The golden halberd tree sentinel build is at a huge disadvantage as Holy damage is negated 80% and the halberds standard/pierce has an additional 35% physical reduction on radagon and 10% on elden beast. You are only hitting for a fraction of the expected damage compared to any other boss with this build. You can beat the boss at your current level, it's not easy, but it is doable. People have also beaten this game using a torch and using the Golden Halberd will definitely feel that way at first. Here is a video of a guy doing it [without a mimic](https://www.youtube.com/watch?v=e4ovLopwzJI&t=3190s). If you want to attempt this route I would recommend leveling to 150 then do the following. 
 
 - Armor: Tree Sentinel 
-- Talismans: Axe Talisman (+10% charged), Claw Talisman(+15% jump), Dragoncrest greatshield talisman/Dragoncrest Shield +2, Haligdrake Talisman +2 (20% holy damage negation)
+- Talismans: Axe Talisman (+10% charged), Lance Talisman(+15% horseback for elden beast), Dragoncrest greatshield talisman/Dragoncrest Shield +2, Haligdrake Talisman +2 (20% holy damage negation)
 - Physick: Spiked Cracked Tear(+15% charged), Stonebarbed (+30% poise damage)
 - Buff: Golden vow (+11.5% extra damage, 7.5% damage negation), flame grant me strength(+20% physical damage, +20% fire damage, +20% stamina recovery)
 - At least 54 Strength as it gives you about an extra ~18% Damage over just 30 Strength 
@@ -691,9 +695,7 @@ You can give it a shot, but ultimately this is where the build falls apart and y
 
 If you went and grabbed the Ice Spear you can get pretty far at current levels, frost procs and staggers radagon, but does little on elden beast. Feel free to give it a shot, but to make things a bit easier I recommend just respecing to a Black Flame Tornado build. 
 
-Nightrider Glaive BFT Radagon/EldenBeast 120: 50 Vig, 15 Mind, 33 endurance, 26 Strength, 10 Dex, 7 int, 47 faith, 11 arcane. Equip Tree Sentinel Shard of Alex, Haligdrake 2, DragonCrest, Green Turtle. Learn Black Flame Tornado. Before the door buff flame grant me strength and save the flask with stonebarbed and spiked cracked, go inside, immediately Summon Mimic, wait to heal and get behind Radagon. Then hold L2 when he's distracted and attacking your mimic. You will have to dodge some attacks by rolling towards him or away from ground effects. When Radagon is low health heal magic, health, and use physick then kill. At the start of Elden beast you will not have much time and need to immediately run up and hold L2 taking out 1/3 of his health. This is your only real chance to use this Ash of War on him. From here on out you hop on your horse and do the battle on horse. Jump any sword swings. After the first black flame tornado he should fly up. If you are facing him when he goes up, he should spawn directly behind you. Go this direction jumping over the gold rings and get up close to him. Make sure to remove focus (click in on right stick) when he goes up so the camera doesn't go wild. Use R1's and stay close, sprint to him when he runs away. Let the mimic distract so you can chip away at his health. Don't use R2's as they are too slow. 
-
-If you are still struggling I would consider leveling and some new gear. 
+If you are still struggling I would consider leveling and getting some new gear. 
 
 ## Leveling 
 You can do most builds around level 120 if you get the right gear, but I would really strive to get to Level 150. It's not hard and you can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace.
@@ -733,7 +735,9 @@ Option 3: Ruins Greatsword. Ranged Ash of war like Blasphemous Blade, but rock/g
 
 Option 4: Great Stars with Lions Claw. Lighter version of Greatsword with bleed and carries a slight heal with each hit. I like the greatsword better as you have much wider reach, but they are both pretty good. Smithing stone upgrades. Probably better for DLC over the greatsword. Available early game if you cheese him with [dragon encantations](https://www.youtube.com/watch?v=L9xRdKDJ7lI) or just grab the second one from the carriage in Altus. 
 
-Option 5 (Recommended): Nightrider Glaive with Black Flame Tornado (dropped from godskin duo). Instead of the Ice Spears frost this build uses physical/fire damage and is way better against elden beast. It does require some good timing and skill to use effectively, so definitely not as brain dead easy like the greatsword. The Nightrider glaive later pairs well with cragblade for Mohg and giant hunt for Miquella. There's 18 larval tears to respec in the base game before going into new game plus. 
+Option 5 (Recommended): Nightrider Glaive with Black Flame Tornado (dropped from godskin duo). Instead of the Ice Spears frost this build uses physical/fire damage and is way better against elden beast. It does require some good timing and skill to use effectively, so definitely not as brain dead easy like the greatsword. The Nightrider glaive later pairs well with cragblade for Mohg and giant hunt for Miquella. There's 17 larval tears to respec in the base game before going into new game plus. 
+
+Nightrider Glaive BFT Radagon/EldenBeast 120: 50 Vig, 15 Mind, 33 endurance, 26 Strength, 10 Dex, 7 int, 47 faith, 11 arcane. Equip Tree Sentinel Shard of Alex, Haligdrake 2, DragonCrest, Lance Talisman. Learn Black Flame Tornado. Before the door buff flame grant me strength and save the flask with stonebarbed and spiked cracked, go inside, immediately Summon Mimic, wait to heal and get behind Radagon. Then hold L2 when he's distracted and attacking your mimic. You will have to dodge some attacks by rolling towards him or away from ground effects. When Radagon is low health heal magic, health, and use physick then kill. At the start of Elden beast you will not have much time and need to immediately run up and hold L2 taking out 1/3 of his health. This is your only real chance to use this Ash of War on him. From here on out you hop on your horse and do the battle on horse. Jump any sword swings. After the first black flame tornado he should fly up. If you are facing him when he goes up, he should spawn directly behind you. Go this direction jumping over the gold rings and get up close to him. Make sure to remove focus (click in on right stick) when he goes up so the camera doesn't go wild. Use R1's and stay close, sprint to him when he runs away. Let the mimic distract so you can chip away at his health. I wouldn't use R2's as they are way too slow and hard to use. If you time it right you can do a charged R2 double swing. Ride along side elden beast, Hold R2, first swing connects, release R2 second sweep connects. 
 
 ## Closing thoughts
 
