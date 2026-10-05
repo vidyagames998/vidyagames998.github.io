@@ -53,7 +53,7 @@ The game tracks button inputs when fighting enemies. If the enemy senses you are
 
 You are invincible while a door opening animation is playing, use this to your advantage. You are sometimes invincible when dodging, using a spirit ash, or getting on or off a horse. Look up i-frames in elden ring to learn more. This invincibility doesn't just apply to you, bosses can also be invincible during certain moves or phase transitions. 
 
-Occasionally walls disappear when you hit them, if a wall look out of place or extra flat don't be afraid to smack it. 
+Occasionally walls disappear when you hit them, if a wall looks out of place or extra flat don't be afraid to smack it. 
 
 ## Opening area
 
