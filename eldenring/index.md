@@ -366,7 +366,7 @@ If that feels cheap you can also grind other enemies around here if you wanted t
 
 You'll want 30 strength, 15 faith, 12 arcane, 14 Dex, and at least 18 vigor. The next goal with future runes should be 25 vigor and 25 endurance. They help a lot with being able to take multiple hits from enemies and being able to dish out lots of damage without running out of stamina. Endurance also helps you carry heavy armor without fat rolling. 
 
-From here we're going to take a journey to collect more runes. If you do this faster later on you can just do a grind killing birds and can skip the majority of these. 
+From here we're going to take a journey to collect more runes. If you want you can get runes faster later on by grinding bird enemies and can skip the majority of these. 
 
 Head back to the first steps and behind the church jump off the cliff to the spirit spring and get the gold pickled fowl foot. This one time use item gives you an extra 30% runes when killing enemies for up to 3 minutes. Then head to Agheel Lake North head south and cross the bridge and grab the gold pickled fowl foot by the not crucifixes on the ledge. 
 
