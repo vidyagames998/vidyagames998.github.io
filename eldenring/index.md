@@ -358,13 +358,33 @@ If you have any runes to do level upgrades I recommend splitting them between st
 
 Optional:
 - Visit the roundtable hold and put golden vow on a dagger you buy from the two sisters. This increases your defense and damage done by your sword when you swap over to it.  
+- Grab sacred blade ash of war from scarab just up the hill from third church of marika
 - Sell any runes at santa and level vigor 
 - Buy the crafting kit. Outside the church are red fruit, grab some and craft red rowa raisins from the menus, then equip them, they will heal your horse slowly when used.
 - Equip Radagons soreseal if you have it (Forth Faroth, boosts vigor, endurance, strength, and dex +5 each while making you take 15% more damage)
-- Mix strength and faith/spiked tears (if you have them) in to your physick
-- Head just south from the First Step to the Seaside Grace, take the spirit spring down, hop on your horse and kill the enemy under the arch giving you the gravitas ash of war which you can put on the Longsworn Greatsword and do around 200 damage without a 40% holy damage negation against the Tree Sentinel. This isn't recommended see side note below. If you continue further into the cave there is a talisman that gives you some holy damage negation as well, but the Radagon Soreseal is better if you have it.
+- Instead of Radagons Soreseal the Lance Talisman (just north of Saintsbridge grace) works better if you want more damage instead of endurance and health
+- Mix strength and spiked tears (if you have them) in to your physick
+- Head just south from the First Step to the Seaside Grace, take the spirit spring down, hop on your horse and kill the enemy under the arch giving you the gravitas ash of war which you can put on the Longsworn Greatsword to reduce the 40% holy damage negation against the Tree Sentinel to only 20% magic damage negation. This isn't recommended though see side note below. If you continue further into the cave there is a talisman that gives you some holy damage negation as well, but the Radagon Soreseal or the Lance Talisman are better choices if you have them.
 
-Side note: Despite the shown numbers, Gravitas is actually worse on Tree sentinel than the standard affinity. That's because there's this mechanic called split damage calculations and there is a base defense that gets applied before the 20% magic damage negation that comes from the gravity damage. A standard affinity with cragblade would be best, you can further buff it with golden vow on a dagger. Slightly weaker, but you could also get the sacred blade ash of war instead of cragblade attach it to the Longsword, if you go with the standard affinity it's buff adds +90 holy with a 40% negation. The tree sentinel is weakest to lightning, but lightning buffs would require a bit of exploring that would be better suited leveling up your weapon. So TLDR the base Lordsworn Greatsword is perfectly fine on it's own, but if you wanted to make it a little better and are willing to explore a golden vow buff on a dagger and the cragblade buff from Caelid would help.
+Side note: Despite the shown numbers, Gravitas is actually worse on Tree sentinel than the standard affinity. That's because there's this mechanic called split damage calculations and there is a base defense that gets applied to both types of damage before the 20% magic damage negation that comes from the gravity damage. If you want to get a true number of how effective an attack is you really need to use it in battle against the enemy. The tree sentinel is weakest to lightning and there are some one time use lightning greases you could use, but it requires a fair bit of exploring and you would be better just leveling another weapon. For most I would recommend sticking with the base Lordsworn Greatsword as rot can do all the work. You can try and optimize the Lordsworn build early game if you want, but the time required to do so is likely not worth it.  
+
+I tested some builds for Tree Sentinel so you can get an idea of how much damage they do and you can make a call if it seems worth the effort to set these up. As a hero put one point into dex to use the Lordsworn sword. Use the strength tear (+10 strength levels) and the spiked crack tear (+15% r2). Equip the Lance Talisman (+15% horse combat). 
+
+Damages:
+
+- lordsworn base 181 r2 and 128 r1
+- lordsworn standard affinity, sacred blade 215 r2 and 161 r1
+- lordsworn standard affinity sacred blade, not casting sacred blade 181 r2 128 r1
+- lordsworn holy affinity, sacred blade 215 r2 and 161 r1
+- lordsworn holy affinity, no sacred blade 149 r2 and 95 r1
+- lordsworn standard affinity, cragblade 212 r2 and 158 r1
+- lordsworn gravitas magic affinity 167 r2 and 106 r1 
+- lordsworn blood affinity, 141 r2 and 95 r1 (69 bleed, but it takes a while to build)
+- lance standard affinity, radagons soreseal (+15% damage taken), cragblade 165 r2 and 132 r1 (longer reach)
+
+My personal pick would be lordsworn holy affinity with sacred blade buffing golden vow and sacred blade before battle. Having holy affinity helps on other enemies that don't have strong immunity and Sacred Blade is way less of a walk to get than Cragblade. 
+
+If you want to burn your 12 normal smithing stones and 2k runes upgrading the sword to level 3 it can help too. The lordsworn standard, sacred build at level 1 215 r2 and 161 r1 becomes 242 r2 186 r1 at level 3.
 
 Now to start the fight head to the first steps grace. Hop on the horse, walk up to a few horse lengths away from the Tree Sentinel, summon the rotten stray ashes, drink your physick. Sprint into the tree sentinel and press r1/l1 to attack when you get an opening. Let the dog take the aggression. After each hit, sprint in a circle and come back sprinting into the sentinel and do it again. Eventually the dog will poison the tree sentinel as indicated by red smoke and you can run and safely stand on top the small building to the right until he dies from the poison without worry of the sentinel attacking you. This might take a few tries to get him rotted. Heal when you need to. You need to distract the sentinel from the dog enough so it can attack enough to inflict rot. This boss is also weak to charged R2's from the Lordsworn Greatsword. Hold R2 run up close and let go to swing, then sprint around to dodge his attacks. With some practice you won't even really need the summon. 
 
