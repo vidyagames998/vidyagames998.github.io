@@ -386,6 +386,8 @@ My personal pick would be lordsworn holy affinity with sacred blade buffing gold
 
 If you want to burn your 12 normal smithing stones and 2k runes upgrading the sword to level 3 it can help too. The lordsworn standard, sacred build at level 1 215 r2 and 161 r1 becomes 242 r2 186 r1 at level 3.
 
+The Tree Sentinel has 2,889 HP which means it takes 14 R2's to kill optimally and 16 R2's with the base weapon. So for the first battle what really helps the most are extra points in Vigor so you can take a hit or two then some exploration for churches and golden seeds so you can heal better. 
+
 Now to start the fight head to the first steps grace. Hop on the horse, walk up to a few horse lengths away from the Tree Sentinel, summon the rotten stray ashes, drink your physick. Sprint into the tree sentinel and press r1/l1 to attack when you get an opening. Let the dog take the aggression. After each hit, sprint in a circle and come back sprinting into the sentinel and do it again. Eventually the dog will poison the tree sentinel as indicated by red smoke and you can run and safely stand on top the small building to the right until he dies from the poison without worry of the sentinel attacking you. This might take a few tries to get him rotted. Heal when you need to. You need to distract the sentinel from the dog enough so it can attack enough to inflict rot. This boss is also weak to charged R2's from the Lordsworn Greatsword. Hold R2 run up close and let go to swing, then sprint around to dodge his attacks. With some practice you won't even really need the summon. 
 
 If you are truly stuck you can ask for help and summon a random multiplayer cooperator on the internet at the statue and you might get lucky and have someone kill him for you.
