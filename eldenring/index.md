@@ -299,7 +299,7 @@ There are occasionally blue towers sometimes with small puzzles you can solve, i
 
 You should pick up and use better heavier armor as you gain endurance in late game. 
 
-Weapons should only be upgraded when you are absolutely certain this is the weapon you want. I would stick with the Golden Halberd for your somber and Nightriders Graive for your regular smithing stones.
+Weapons should only be upgraded when you are absolutely certain this is the weapon you want. I would stick with the Golden Halberd for your somber and Nightriders Glaive for your regular smithing stones.
 
 Upgrading weapons withh require either somber or regular smithing stones. Somber weapons are way easier to level until you have access to easy to grind money and the smithing stone bell bearing 1,2, and 3. I'm mentioning it again because its really important. Remember to spend money and stones very carefully or you will be in a for a rough time of grinding low level enemies.
 
