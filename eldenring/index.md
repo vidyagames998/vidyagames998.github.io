@@ -8,6 +8,8 @@ With the tarnished edition coming out, I wanted to write a guide as if I were ch
 
 With this guide you should be able to complete the game, excluding the DLC in about 10 hours as a beginner. 
 
+If video is more your style I have a made a video showing you how I would play the [first hour](https://www.youtube.com/watch?v=E4T4fUlIVWg).
+
 ## Starting off
 
 There are many classes and many ways to play this game.
