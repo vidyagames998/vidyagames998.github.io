@@ -727,7 +727,7 @@ From here on out the Golden Halberd starts to struggle as bosses have Holy Damag
 
 Optionally you can go grab the Dragon Halberd. It doesn't help for the upcoming bosses, but might help if you decide to go on a dragon killing spree. The Dragon Halberd is an award for defeating Dragonkin Soldier in the underground world Sofria River Well back when we first went underground. This is a relatively hard early game boss, but in late game he is easy just attack his feet.
 
-Optionally you can go grab the Nightrider Flail from weeping peninsula's nightrider. You can cheese him by just attacking once then running up the hill. This weapon is a smithing stone weapon, but is a decent alternative to the Lordsworn Greatsword at the start of the game if you ever do another playthrough and has surprisingly long range on horse.  
+Optionally you can go grab the Nightrider Flail from weeping peninsula's nightrider. You can cheese him by just attacking once then running up the hill to the church. This weapon is a smithing stone weapon, but is a decent alternative to the Lordsworn Greatsword at the start of the game if you ever do another playthrough as it has surprisingly long range on horse. You can use quite a few ashes of war including cragblade and lions claw.  
 
 ### Maliketh
 Maliketh has a 80% damage negation to holy and 35% to physical causing the Golden Halberd to really start to struggle here, but he is doable with our +10 and mimic.
