@@ -303,7 +303,7 @@ There are occasionally blue towers sometimes with small puzzles you can solve, i
 
 You should pick up and use better heavier armor as you gain endurance in late game. 
 
-Weapons should only be upgraded when you are absolutely certain this is the weapon you want. I would stick with the Golden Halberd for your somber and Nightrider Glaive for your regular smithing stones.
+Weapons should only be upgraded when you are absolutely certain this is the weapon you want. I would stick with the Golden Halberd for your somber and Nightrider Glaive for your regular smithing stones. 
 
 Upgrading weapons withh require either somber or regular smithing stones. Somber weapons are way easier to level until you have access to easy to grind money and the smithing stone bell bearing 1,2, and 3. I'm mentioning it again because its really important. Remember to spend money and stones very carefully or you will be in a for a rough time of grinding low level enemies.
 
@@ -727,18 +727,22 @@ From here on out the Golden Halberd starts to struggle as bosses have Holy Damag
 
 Optionally you can go grab the Dragon Halberd. It doesn't help for the upcoming bosses, but might help if you decide to go on a dragon killing spree. The Dragon Halberd is an award for defeating Dragonkin Soldier in the underground world Sofria River Well back when we first went underground. This is a relatively hard early game boss, but in late game he is easy just attack his feet.
 
+Optionally you can go grab the Nightrider Flail from weeping peninsula's nightrider. You can cheese him by just attacking once then running up the hill. This weapon is a smithing stone weapon, but is a decent alternative to the Lordsworn Greatsword at the start of the game if you ever do another playthrough and has surprisingly long range on horse.  
+
 ### Maliketh
 Maliketh has a 80% damage negation to holy and 35% to physical causing the Golden Halberd to really start to struggle here, but he is doable with our +10 and mimic.
+
+There is no gold npc summon to help for this fight.
 
 Before the boss room buff flame grant me strength and golden vow, then unequip the seal and two hand the golden halberd. Unequiping the seal makes your mimic fight more instead of sitting there. Head in, summon mimic immediately then run to the pillar to the left and heal. This is a good place to hide from Maliketh's attacks and get his focus on your mimic. This should put Maliketh between you and the summon, try and keep it that way. As he fights your mimic, jump and r2 then run away. In Phase 2 immediately run to the back left behind the pillar. Time when to attack and use R2s and jump R2s as he fights your mimic. The pillar is your friend. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to venture off and finish the long [Rykard questline](https://www.youtube.com/watch?v=v0JWm3o59qs) and fight bernhal to get it. Maliketh is also weak to rot breath in phase 1. 
 
 If you are struggling consider grinding levels to 130-150 or going back and getting the Nightrider Glaive. If you respec to a match the weapon and pair with the Ice Spear Ash of War (the other nights calvary in eastern liurnia) you will add a ranged attack that works really well while procing frost and stagger. Around level 90 I did: 31 vigor, 14 mind, 30 endurance, 26 strength, 12 dex, 39 int, 8 faith, 11 arcane. I ditched poison and flame grant me strength so I could get more int. Extra levels should go to int until 45 then health. Equip carian crest (iji), green turtle, and shard of alexander. Use radahns set for armor with medium roll. Then just spam L2. 
 
 ### Gideon
-After Maliketh you land in the ash covered capital city. Just run forward and to the right a bit to take the elevator up to Gideon. Buff Flame grant me strength and golden vow, summon mimic, charged R2's and quick R1's to kill. Very easy fight as long as you do the damage quick enough. Ice Spear works well here too so no need to respec back. When he's finished head up the tree and keep going forward to Godfrey.
+After Maliketh you land in the ash covered capital city. Just run forward and to the right a bit to take the elevator up to Gideon. Buff Flame grant me strength and golden vow, summon mimic, charged R2's and quick R1's to kill. Very easy fight as long as you do the damage quick enough. Ice Spear works well here too so no need to respec back. When he's finished head up the tree and keep going forward to Godfrey. There is no gold npc summon to help for this fight.
 
 ### Godfrey
-Buff flame grant me strength and golden vow, unequip the seal then go in. Summon mimic and heal. Wait for Godfrey to attack your mimic. Then go in for a jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic and punish. I think this fight is easier than Maliketh as the attacks are very easy to dodge and the mimic does really good damage with only a 40% holy damage negation. You may have to watch some videos and learn how to dodge his attacks. Don't just spam dodge roll and wait till it's actually needed. On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible. Ice spear worked well at level 100: 33 vig, 45 int so again no need to respec back. 
+Buff flame grant me strength and golden vow, unequip the seal then go in. Summon mimic and heal. Wait for Godfrey to attack your mimic. Then go in for a jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic and punish. I think this fight is way easier than Maliketh as the attacks are very easy to dodge and the mimic does really good damage with only a 40% holy damage negation. You may have to watch some videos and learn how to dodge his attacks. Don't just spam dodge roll and wait till it's actually needed. On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible. Ice spear worked well at level 100: 33 vig, 45 int so again no need to respec back. There are also two gold NPC summons you can get to help on this fight, but they are pretty far out of the way. Nepheli (you must go back to the start of the game and finish her questline as it had to have been done before maliketh) and Shabriri (requires beating easier Mohg in the capital city basement and taking some long drops down to the way basement). 
 
 Final boss time.
 
