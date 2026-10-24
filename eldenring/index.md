@@ -823,11 +823,15 @@ It's recommended to start the DLC at level 150. You have to fight a fairly tough
 
 Nightrider Glaive Mohg 120: Swap for Cragblade, Spec to 50 Vig, 15 mind, 35 endurance, 60 strength, 10 dex, 7 int, 15 faith, 12 arcane. Equip Greatjar Arsenal/Jar Arsenal, Dragoncrest Greatshield, Axe Talisman, Claw Talisman. Get Mohg's shackle from where we got our first Somber 7 on a body near the two crabs in the basement of the capital city. Go inside, two hand, summon mimic, flame grant be strength, cragblade, wait till right before mohg attacks your mimic and shackle him. Then get close and Jump R2, repeat until riposte, you can shackle one more time, when his health gets weak he transitions and does three health steal attacks, heal through them, continue the Jump R2s. Shackle does nothing once he phase changes and he does the health steal. 
 
+Ice Spear also works extremely well. 
+
 ## New Game Plus
 
 Now that you have beaten the game. You can explore some of the other classes and get a surprisingly different playthrough and experience. 
 
 Here are some recommendations for weapon types based on class that might be worth exploring. There's a lot of ways to play this game and each build has it's own charm. Aside from Mage these builds will likely be more difficult than the Halberd build we just did. [Bryceinator13](https://www.youtube.com/@bryceinator13) has some great build videos and I recommend watching some of his content. 
+
+Bryceinator13 recently came out with both a [Nightrider Build](https://www.youtube.com/watch?v=4uz1qI8BLCM) and a [Tree Sentinel Build](https://www.youtube.com/watch?v=7XE_fXn6DvY) my guide recommended these before he discovered them. His videos are super helpful for the DLC.  
 
 ### Mage 
 Take the teleporter chest over to Caelid and grab the meteorite staff and rock sling to the south. With only 2 points in int you can walk around and deal pretty good damage as the staff boosts gravity damage 30% and has S int scaling without needing any upgrades. The imps +7 summon also pairs really well. This class will have you going to many parts of the map you probably have yet to explore. The Lusat Staff from the boss in Selia Town is great for end game builds, I wouldn't upgrade it until you get past Rennala (It needs 52 int so you likely won't have enough for a bit). One fun bonus to the mage build is you can dual wield staffs and get the passive extra damage effects. So if you right hand Lusat and left hand Meteorite and cast Rock sling with R1 you still get the 30% extra damage. There are quite a number of spells you can grab along the way, albeit most are near useless. I would get night comet from Selia town as is allows you to hit bosses that button read and dodge glintstone pebble, the carian greatsword from Sellen in southern Limgrave, and terra magica (+22.5% magic damage when nearby) in the cave underneath Raya Lucaria (use the morningstar/rock sling as it does well on the bosses). The Staff of Loss in Selia town can offhand and boost Night Comet 30%. 
