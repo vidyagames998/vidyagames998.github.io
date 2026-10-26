@@ -871,7 +871,7 @@ You start with the Esotec, put sacred blade on this and it's not bad it just req
 ### Hero
 I would kill Nepheli at stormwind castle to get two Stormhawk axes. They level with somber and are one of the best axes in the entire game and are available super early if you don't mind the guilt trip killing gideons daughter. The L2 is charged is very strong and helps with the range a bit, but prevents you from moving out of the a way a lot against bosses. You can also pick the stormhawk axes up off the ground once you get to Leyndell and can do the Icerind hatchet instead outside Raya Lucaria. I would only upgrade and use one axe with a 100% blocking shield. Keep in mind axes have terrible range and are quite a bit underpowered even when upgraded, this is not a good weapon class imho and was way too severely nerfed. 
 
-Another option is to take the Lordsworn Greatsword with Golden Vow to kill Misbegotten to the far south and get the Grafted Blade (requires 40 strength, 27 if two handed, strength physick helps too), upgrade it to +6, from here you can use sleep pots to kill the Godskin in Volcano Manor and make your way to the Serpent Hunter. Axe talisman, Haligdrake +2, dragoncrest, and green turtle. You'll have to learn how to really use serpent hunter when fighting the end game bosses. The other speedrunner strategy of using iron balls isn't a bad option either. Executioners Greataxe (4% farm and smitihing stone, but takes Lions Claw) or Axe of Godrick (no holy damage) can work well too. 
+Another option is to take the Lordsworn Greatsword with Golden Vow to kill Misbegotten to the far south and get the Grafted Blade (requires 40 strength, 27 if two handed, strength physick helps too), upgrade it to +6, from here you can use sleep pots to kill the Godskin in Volcano Manor and make your way to the Serpent Hunter. Axe talisman, Haligdrake +2, dragoncrest, and green turtle. You'll have to learn how to really use serpent hunter when fighting the end game bosses. The other speedrunner strategy of using iron balls isn't a bad option either. 
 
 ### Prophet
 Dragon Seal and all the Dragon incantations with Reduvia as backup. Ritual sword, haligdrake+2, dragoncrest, Flocks canvas and use the dragonmaw spell for elden beast. 
@@ -883,10 +883,13 @@ Club to Lions Claw Great Stars (there's two on the map so you don't need to kill
 Take a random class and pick up a random weapon and go with it to +10/+25. Random weapons can do decently well and people have made builds for a lot of them. This is especially so if you are willing to be carried by randoms. Getting to Maliketh should be no problem without help. 
 
 ### Best Weapons
-- Dark Moon Greatsword. This weapon is hidden behind a very long questline. It first requires beating Radahn. Then defeating Baleful Shadow in Siofra River (Very difficult even with +10 cheese with rot then poison mist). Then defeating Astel (very difficult). The sword then requires 38 int. 
-- Mohg Spear. Requires beating Mohg.
 - Blashphemous Blade. Requires beating Rykard. You can cheese with the Lance.
+- Dark Moon Greatsword. This weapon is hidden behind a very long questline. It first requires beating Radahn. Then defeating Baleful Shadow in Siofra River (Very difficult even with +10 you can cheese with rot then poison mist). Then defeating Astel (very difficult). The sword then requires 38 int. 
+- Mohg Spear. Requires beating Mohg.
 - Bloodfiends Arm. Requires beating Mohg to get to the DLC.
+
+### Best Combo
+Golden Halberd until after Morgott. Then switch to Nightriders Glaive.
 
 `~Fin~`
 
