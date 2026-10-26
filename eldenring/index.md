@@ -430,6 +430,10 @@ North of the rot view balcony behind the giant tree is a cave with an easy to gr
 
 Visit at least one grace in Caelid and north of gatefront in Liurnia, then head to the round table hold and talk to the red robbed girl by the fireplace and talk to the black smith multiple times about her. Then reload the round table by fast traveling there. This opens a shop next to the blacksmith where you can upgrade your imps in exchange for the grave glovewort and some runes and you can upgrade your imps. 
 
+6 and 7 are easily available later once you have both halves of the dectus and go way north to get to Mt Gelmir in Gelmir Hero's Grave
+
+8 9 and 10 are not available until after Margott in the Giant Conquering Heros Grave
+
 Optional Mission to get the golden scarab:
 
 The golden scarab gives you an extra 20% runes for killing enemies and is a talisman you can equip last second before killing a boss.
