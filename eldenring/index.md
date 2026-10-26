@@ -895,7 +895,7 @@ Take a random class and pick up a random weapon and go with it to +10/+25. Rando
 - Bloodfiends Arm. Requires beating Mohg to get to the DLC.
 
 ### Best Combo IMO
-Golden Halberd until after Morgott. Then switch to Nightriders Glaive.
+Golden Halberd until after Morgott. Then switch to Nightriders Glaive. To be honest I wouldn't be surprised if either of these builds got a nerf soon. 
 
 `~Fin~`
 
