@@ -882,5 +882,11 @@ Club to Lions Claw Great Stars (there's two on the map so you don't need to kill
 ### YOLO
 Take a random class and pick up a random weapon and go with it to +10/+25. Random weapons can do decently well and people have made builds for a lot of them. This is especially so if you are willing to be carried by randoms. Getting to Maliketh should be no problem without help. 
 
+### Best Weapons
+- Dark Moon Greatsword. This weapon is hidden behind a very long questline. It first requires beating Radahn. Then defeating Baleful Shadow in Siofra River (Very difficult even with +10 cheese with rot then poison mist). Then defeating Astel (very difficult). The sword then requires 38 int. 
+- Mohg Spear. Requires beating Mohg.
+- Blashphemous Blade. Requires beating Rykard. You can cheese with the Lance.
+- Bloodfiends Arm. Requires beating Mohg to get to the DLC.
+
 `~Fin~`
 
