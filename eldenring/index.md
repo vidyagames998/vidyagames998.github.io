@@ -467,7 +467,7 @@ There's also some more optional gear we can get to make this build better.
 - Mix the spiked crack tear and strength tear in the physick at a grace
 - Gear: Underneath the second tree sentinel is a [dungeon that has easy to grab tree sentinel armor](https://www.youtube.com/watch?v=QHsFlF63vns) As a shortcut to dying you can use margit's shackle after jumping down and before going out to where all the mechanical chariots are to cause them all to die 
 - This same tree sentinel armor dunegon has grave glovewort 6 for your imps to get you to level 6 (optional)
-- You can find a [Grave glovewort 7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) in Altus Plateu at the start of the Gelmirs Heros Grave, it's a bit of work dodging the chariot (optional)
+- You can find a [Grave glovewort 6/7](https://eldenring.wiki.fextralife.com/Interactive_Map?mapId=vm6a67b6fa9240c157fd42bc83&markerId=7602#tabber-Overland_Map) in Altus Plateu at the start of the Gelmirs Heros Grave, it's a bit of work dodging the chariot (optional)
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - If you didn't grab it earlier in summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
