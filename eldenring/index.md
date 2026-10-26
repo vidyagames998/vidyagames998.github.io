@@ -890,7 +890,7 @@ Take a random class and pick up a random weapon and go with it to +10/+25. Rando
 - Mohg Spear. Requires beating Mohg.
 - Bloodfiends Arm. Requires beating Mohg to get to the DLC.
 
-### Best Combo
+### Best Combo IMO
 Golden Halberd until after Morgott. Then switch to Nightriders Glaive.
 
 `~Fin~`
