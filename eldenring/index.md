@@ -347,6 +347,24 @@ The main areas I would explore in order are:
 - Head Back at the Altus lift take a left and go North West to Mount Gelmir
 - Head back to the Altus lift and head north and then West to Mount Gelmir taking the ladder path up to get there
 
+Here are some maps I made with paths I usually take, follow the lines in the color of the rainbow. Red Orange Yellow Green Blue Indigo Violet. 
+
+![](images/limgrave.jpeg)
+
+![](images/weeping.jpeg)
+
+![](images/caelid.jpeg)
+
+![](images/liurnia.jpeg)
+
+![](images/altus.jpeg)
+
+![](images/leyndell.jpeg)
+
+![](images/mountaintops.jpeg)
+
+![](images/farum.jpeg)
+
 At any point if you get bored and just want to progress the story line, head back to "The First Step" grace and we can take on the tree sentinel. This guide will walk through as if you haven't explored anywhere.
 
 ## First Tree Sentinel Fight
