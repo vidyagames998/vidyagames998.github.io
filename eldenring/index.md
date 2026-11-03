@@ -317,7 +317,7 @@ One half is just further south of here on top fort haight.
 
 The other half is all the way east in Caelid by the giant dragon on top fort faroth.
 
-The Liurnia part of the maps is available by going past Finger Reader Crone North of the Stormhill shack.
+The Liurnia part of the maps is available by going past Finger Reader Crone North of the Stormhill shack. 
 
 ![](images/map_north_limgrave.jpg)
 
@@ -339,7 +339,8 @@ The main areas I would explore in order are:
 - Go all the way South this time to the Dectus Medallion on top the Fort
 - From gatefront head all the way South to Weeping Peninsula and stop at Castle Morne
 - From gatefront head North to Liurnia and North East to the Lift
-- In the middle of Liurnia explore Raya Lucaria, the key is behind the dragon to the West. In Raya don't fight the dog boss or take the death portal to Volcano Manor yet and come back later. 
+- When you get to Liurnia you will see a church on a cliff. This is the Cathedral of Manus Celes, it does not have a sacred tear and despite how it looks on the map and world you cannot get here until you beat Radahn and follow Ranni's questline taking the portal to the underworld and beating Astel. This will take at least an hour or two, way more when you struggle on the fights. I wouldn't bother doing this until you have a +10 weapon. 
+- In the middle of Liurnia explore Raya Lucaria, the key is behind the dragon to the West. In Raya Lucaria don't fight the dog boss or take the death portal to Volcano Manor yet and come back later. 
 - Go back to Caelid, head far east and grab the other half of the dectus medallion in Fort Faroth so you can take the lift up in Liurnia to Altus
 - From rot view head South to the dragon church and keep going South to the great bridge and stop
 - In Altus head North to the map and then head to the very North East to Auriza Heros Grave under the next tree sentinel
@@ -386,7 +387,7 @@ Damages:
 - lordsworn blood affinity, 141 r2 and 95 r1 (69 bleed, but it takes a while to build)
 - lance standard affinity, radagons soreseal (+15% damage taken), cragblade 165 r2 and 132 r1 (longer reach)
 
-My personal pick would be lordsworn holy affinity with sacred blade buffing golden vow and sacred blade before battle. Having holy affinity helps on other enemies that don't have strong immunity and Sacred Blade is way less of a walk to get than Cragblade. 
+My personal pick would be lordsworn holy affinity with sacred blade buffing golden vow (on a dagger) and sacred blade before battle. Having holy affinity helps on other enemies that don't have strong immunity and Sacred Blade is way less of a walk to get than Cragblade. 
 
 If you want to burn your 12 normal smithing stones and 2k runes upgrading the sword to level 3 it can help too. The lordsworn standard, sacred build at level 1 215 r2 and 161 r1 becomes 242 r2 186 r1 at level 3.
 
@@ -394,11 +395,11 @@ You should also two hand the sword (Y+Rb) before hopping on the horse because as
 
 The Tree Sentinel has 2,889 HP which means it takes 14 R2's to kill optimally and 16 R2's with the base weapon. So for this first battle collecting items helps, but isn't very effective. What really helps the most are extra points in Vigor so you can take a hit or two then some exploration for churches and golden seeds so you can heal better. For most the game upgrading your weapon will have the most impact. 
 
-Now to start the fight head to the first steps grace. Hop on the horse, walk up to a few horse lengths away from the Tree Sentinel, summon the rotten stray ashes, drink your physick. Sprint into the tree sentinel and press r1/l1 to attack when you get an opening. Let the dog take the aggression. After each hit, sprint in a circle and come back sprinting into the sentinel and do it again. Eventually the dog will poison the tree sentinel as indicated by red smoke and you can run and safely stand on top the small building to the right until he dies from the poison without worry of the sentinel attacking you. This might take a few tries to get him rotted. Heal when you need to. You need to distract the sentinel from the dog enough so it can attack enough to inflict rot. This boss is also weak to charged R2's from the Lordsworn Greatsword. Hold R2 run up close and let go to swing, then sprint around to dodge his attacks. With some practice you won't even really need the summon. 
+Now to start the fight head to the first steps grace. On the cliff summon the rotten stray ashes, drink your physick, buff golden vow if you have it. Hop on the horse and sprint to the tree sentinel and press r1/l1 to attack when you get an opening. Let the dog take the aggression. After each hit, sprint in a circle and come back sprinting into the sentinel and do it again. Eventually the dog will poison the tree sentinel as indicated by red smoke and you can run and safely stand on top the small building to the right until he dies from the poison without worry of the sentinel attacking you. This might take a few tries to get him rotted. Heal when you need to. You need to distract the sentinel from the dog enough so it can attack enough to inflict rot. This boss is also fairly weak to charged R2's from the Lordsworn Greatsword. Hold R2 run up close and let go to swing, then sprint around to dodge his attacks. With some practice or levels you won't even really need the summon. 
 
 If you are truly stuck you can ask for help and summon a random multiplayer cooperator on the internet at the statue and you might get lucky and have someone kill him for you.
 
-The tree sentinel drops a Golden Halberd our weapon of choice for most the playthrough. It upgrades with Somber Smithing Stones which are way easier to come by and cheaper to make early game upgrades. The halberd also has a golden vow L2 temporary enchantment to buff attack damage and damage negation. Getting a +3 Somber requires exploring north of Limgrave unless you want to rely on a very rare random drop in the selia cave you got teleported to. We can easily upgrade to somber 5 without too much difficulty from caelid. Getting somber +6 requires either killing a tough boss in Caelid rewarding the Moonveil katana, killing a tough boss at the North most part of the map (magnus), taking a long and scary excursion to Volcano Manor via Raya Lucaria (medium) or just picking up both halves of dectus medallion and climbing the long ladder near the top left of the map to a chair overlooking the map (easy). Getting the +7 is this games real skill check and requires either fighting Godskin noble in Volcano Manor (very hard), getting past the next tree sentinel (easy), or fighting a dual boss fight in a cave underneath the tree sentinel (very hard). For the latter two you will also need to kill Queen Rannala(easy) or Radahn(medium). Once you get a +7 you can easily upgrade to +10 by going to Mohgwyn Palace early. 
+The tree sentinel drops a Golden Halberd which will be our weapon of choice for most the playthrough. It upgrades with Somber Smithing Stones which are way easier to come by and cheaper to make early game upgrades. The halberd also has a golden vow L2 temporary enchantment to buff attack damage and damage negation. Getting a +3 Somber requires exploring north of Limgrave unless you want to rely on a very rare random drop in the selia cave you got teleported to. We can easily upgrade to somber 5 without too much difficulty from caelid. Getting somber +6 requires either killing a tough boss in Caelid rewarding the Moonveil katana, killing a tough boss at the North most part of the map (magnus), taking a long and scary excursion to Volcano Manor via Raya Lucaria (medium) or just picking up both halves of dectus medallion and climbing the long ladder near the top left of the map to a chair overlooking the map (easy). Getting the +7 is this games real skill check and requires either fighting Godskin noble in Volcano Manor (very hard), getting past the next tree sentinel (easy), or fighting a dual boss fight in a cave underneath the tree sentinel (very hard). For the latter two you will also need to kill Queen Rannala(easy) or Radahn(medium). Once you get a +7 you can easily upgrade to +10 by going to Mohgwyn Palace early. 
 
 ## Leveling up 
 
@@ -430,7 +431,7 @@ North of the rot view balcony behind the giant tree is a cave with an easy to gr
 
 Visit at least one grace in Caelid and north of gatefront in Liurnia, then head to the round table hold and talk to the red robbed girl by the fireplace and talk to the black smith multiple times about her. Then reload the round table by fast traveling there. This opens a shop next to the blacksmith where you can upgrade your imps in exchange for the grave glovewort and some runes and you can upgrade your imps. 
 
-6 and 7 are easily available later once you have both halves of the dectus and go way north to get to Mt Gelmir in Gelmir Hero's Grave
+6 and 7 are easily available later once you have both halves of the dectus and go way north to get to Mt Gelmir at the start of Gelmir Hero's Grave without fighting anything.
 
 8 9 and 10 are not available until after Margott in the Giant Conquering Heros Grave
 
@@ -471,12 +472,12 @@ There's also some more optional gear we can get to make this build better.
 - In southern Caelid is a church we can trade dragon hearts from killing a dragon for the rotten breath skill
 - If you didn't grab it earlier in summonwater village west of rot view balcony, there is a stonesword key fog door with a green turtle talisman inside, this helps recover stamina faster and helps a lot in battle in early game.
 
-After Tree Sentinel 2.0 we can go get the rest of the upgrades for the imps, but to be honest it isn't really worth trying to get them early and I would just get the mimic summon.
+After Tree Sentinel 2.0 we can go get the rest of the upgrades for the imps, but to be honest once you spend the time to get the mimic summon you likely won't use them again. 
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(8))
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9)](https://eldenring.wiki.fextralife.com/Grave_Glovewort_(9))
 - [https://eldenring.wiki.fextralife.com/Grave_Glovewort_(10)](https://eldenring.wiki.fextralife.com/Great_Grave_Glovewort)
 
-If you wait till after Margott you can get a grave glovewort 7/8/9/10 all easily from the giant conquering heros grave which is the grave right before fire giant after the long chain and you won't need to fight any mini bosses. The mimic summon has been nerfed pretty heavily and is no longer anywhere close to as strong as it was in original release. I recommend the mimic, but if you would like you can probably get by with just the imps without too much struggle.
+If you wait till after Margott you can get a grave glovewort 7/8/9/10 all easily from the giant conquering heros grave which is the grave right before fire giant after the long chain and you won't need to fight any mini bosses. The mimic summon has been nerfed pretty heavily and is no longer anywhere close to as strong as it was in original release. I still recommend the mimic, but if you would like you can get by with just the imps without too much struggle.
 
 After Raya Lucaria the next area is to the North east. With two halves of the medallion you can go North East to the Altus Plateau and onward to the next tree sentinel (far far north east). Altus Plateau has a [+6 somber](https://www.youtube.com/watch?v=Au-l_deU86o) you can pickup off the ground to upgrade halberd. It's located on the cliffs on the top left of the map on a guy in chair after climbing the first really long ladder. 
 
@@ -485,8 +486,8 @@ This place has easy to grind enemies that give lots of runes and items on the gr
 
 - At the roundtable hold talk to the two fingers
 - South of raya lucaria is a church with the white masked man, talk to him to get a severed finger.
-- Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon to fight the mini boss. You don't need to beat him just make three attempts. The secret to this fight is being aggressive.   
-- Head back to the church and receive the white cloth. Head to the bridge of sacrifice in weeping peninsula and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church way up the hill on east of the dectus medallion lift).
+- Head to the top left of Altus Plateua, East of the bridge of iniquity grace at the top middle of the map in the new area is a village of rot dogs and a red summon. Activate the summon to fight the mini boss. You don't need to beat him just make three attempts. The secret to this fight is being aggressive, skip your buffs and attack early to get him to stop sprinting at you, be very careful on timing heals and it's probably best to just skip using them. 
+- Head back to the church and receive the white cloth. Head to the bridge of sacrifice in weeping peninsula and kill the girl to the south on the log (Depending on when you come here she may not be there anymore and you will need to go to the church way up the hill on east of the dectus medallion lift which also has a sacred tear).
 - Head back to the church, use the item he gives you to teleport to Mohgwyn Palace
 - Head east then south and get to the grace at the top of the hill of enemies. To easily get runes, use a bow to trick the giant chicken birds to [fly off the cliff ](https://www.youtube.com/watch?v=aZvMUoak-v8&t=11) giving you 20k runes each with buffs. Gold feet can be made from a recipe from Patches and collecting eagle talons and gold fireflies from weeping peninsula. A bow can be bought from the round table hold for 1200. Unlimited arrows can be bought from Santa in church of Elleh for 20 each. This is by far the most efficient farming method until you beat the game and even then it's still pretty good.
 - Additionally there's a +10 Somber in a chest on top Mohgwyn Palace you can just run up to once you get here
@@ -504,7 +505,7 @@ For additional help I would summon the sorcerer rogier (ai helper) at the yellow
 
 After defeating the first boss, head to the gate, talk to the guy and go through the front door storming your way into the castle. You basically want to [run all the way to the North East](https://www.youtube.com/watch?v=1mBdjb-jQFI&t=53s) and get ready to fight the second boss. To make life easier if you follow the left side when running in and immediately turn around there's a grace right above the entrance. From here jump over the edge and run up the right side to the next grace. From that grace stay off the path and follow the grass to avoid the flame arrows until you get into the courtyard and the next grace on the back left wall. From here take the elevator up and over to the boss grabbing some reusable crafting pots along the way. 
 
-Before fighting this boss I recommend getting a +5/6 golden halberd and +5/6/7 fanged imps. You should also run back and unlock Nephelia who you can summon to help you fight the boss. From the grace before the boss turn around run past the troll and to the right of the golden seed there's a entrance with a female hero class npc. If you don't do this now you will have a hard time tracking her down later on when doing Seluvis's questline. 
+Before fighting this boss I recommend getting a +5/6 golden halberd and +5 fanged imps (+6/7 is available with a walk too). You should also run back and unlock Nephelia who you can summon to help you fight the boss. From the grace before the boss turn around run past the troll and to the right of the golden seed there's a entrance with a female hero class npc. If you don't do this now you might have a hard time tracking her down later on when doing Seluvis's questline. 
 
 ## Godrick the Grafted
 
@@ -518,7 +519,7 @@ Next up is the raya lucaria castle. It's in the middle of Liurnia, you need to [
 
 In order to get to the next section we need to kill the next tree sentinel that is at the top right of the map.
 
-You can try and fight the guy, it's a fairly tough horse vs horse battle, but doable with some patience.
+You can try and fight the guy, it's a fairly tough horse vs horse battle, but doable with +7 imps and some patience. 
 
 Or you can simply crouch and walk through the trees and get behind him, then use poison mist (from weeping peninsula scarab by the map piece) to drain all of his health before the battle even begins and you are never noticed. Each time it runs out just recast, this will take about 10 min and 10 casts, requiring multiple magic flasks, but it will eventually kill him. This is not a glitch, this was an intended kill otherwise this also would have been patched. There is also a trick to get him to jump off the cliff as well like the nights calvary, but this one doesn't seem intended to me. This requires using consumable throwing knives to try and bait him to the cliff and pushing him off. In addition to poison mist you can use chilling mist (near Rani's rise) to speed up the damage. 
 
@@ -551,12 +552,12 @@ Progressing in the capital city requires fighting two pretty hard strength bosse
 
 If you haven't explored the rest of the map now is a good time.
 
-Get all the map pieces.
-Collect all the golden seeds you can. You can get a 11 flask uses pretty easily, the later ones are harder.
-Visit all the churches you can. Should be +8 on your flask.
-To the north west part of the map requires you climb some really long ladders, but is a linear path to the last map piece.
-There's all kinds of bosses and dungeons, most will require you lookup a video on how to kill them or what to do.
-The build is mostly complete and is as strong you'll likely get, so do what you want and then head on to Radahan.
+- Get all the map pieces.
+- Collect all the golden seeds you can. You can get a 11 flask uses pretty easily, the later ones are harder.
+- Visit all the churches you can. Should be +8 on your flask.
+- To the north west part of the map requires you climb some really long ladders, but is a linear path to the last map piece.
+- There's all kinds of bosses and dungeons, most will require you lookup a video on how to kill them or what to do.
+- The build is mostly complete and is as strong you'll likely get, so do what you want and then head on to Radahan.
 
 On the very Northwest part of Liurnia is a castle (Caria Manor). You can run through it and get to a boss battle with a mage/strength boss called royal knight loretta. At +9 it's very easy. Early in the game, this boss is fairly tough. There is a glitch to easy kill her though at level 1, just watch a video if you would like. After the boss there are three towers, you can run by the dragon and get to ranni's rise. There's a whole mage questline here, it's worth getting the missable magic scorpion charm from it if you decide to go mage. We can't start it until we kill Radahan, but it's worth grabbing the grace for fast traveling. You can glitch your way into the next area with some interesting tree jumping and a few hours of practice, but as a normal playthrough it's not worth it.
 
@@ -569,8 +570,9 @@ Eventually if we come back here after Radahn we can take a teleportation casket 
 What we can do down here is pretty exhausted until we kill Radahn and it's not worth trying to kill the double gargoyle. 
 
 ## Radahn Fight
+Radahn is an optional boss, but doing so gets you access to the mimic tear which will replace the fanged imps and makes life a little easier. It also enables you to further to explore the underworld and do the questlines down there. 
 
-Radahn is very tough boss, but thankfully he is also weak to rot. It's worth putting a couple points into mind to make rotting enemies easier, but not necessary. 
+Radahn is very tough boss, but thankfully he is weak to rot and they give you plenty of helpers to fight him. 
 
 In the southern part of Caelid there's a church on the hill, head there and touch the grace. In the church is a red fountain where you should trade a dead dragon heart from killing the big dragon for rotten breath. This move requires 12 arcane and is why I recommend the hero class over the confessor class.
 
@@ -578,9 +580,9 @@ Head southeast of here and you'll find a tower at the Impassable Greatbridge gra
 
 If you don't have the 12 arcane even with Marika's soreseal because you picked the wrong build, another option to inflict rot quickly is to purchase the rot bolt recipe from the shop by the caelid map piece for 4k runes and getting the pulley crossbow in Altus by taking the Northwest path. 
 
-Once in the battle you want to run forward, this will cause the arrow to hit the sword and summon the three people, run to the right and the arrow should hit the sign and summon those, summon the horse, take a hard 90 degree left and summon the other figher. Have them run in and distract the boss. Dodge all the arrows using well timed sprinting when needed, hopping on and off the horse or dodging rolling work too. Hang back for a bit.
+Once in the battle you want to run forward, this will cause the arrow to hit the sword and summon the three people, run to the right and the arrow should hit the sign and summon those, summon your imps, summon the horse, take a hard 90 degree left and summon the other fighter. Have them run in and distract the boss. Dodge all the arrows using well timed sprinting when needed, hopping on and off the horse or dodging rolling work too. Hang back for a bit.
 
-Once the boss is sufficiently distracted sprint your way to the top of the hill and cast dragon breath (Left to select finger spell, 2 hand the finger spell (Y+LB/L1) then to use press and hold RB/R1). It should hopefully take and he'll start smoking. Run away and resummon people on the top of the hill when they die. At half health he'll fly up and come crashing down again. Sprint to the side to dodge him as he comes back down. You need to re poison with dragon breath until he dies. If you are struggling the golden halberd at +9/+10 can take him on too and make the damage happen quicker. Optionally equip the golden scarab and use a pickled fowl foot when he dies for 100k runes. As the summons die you can resummon them and keep running around the arena dodging Radahan's attacks, it's not easy, but you can get the summons to do all the work without rot or you helping. At +6 it's not a bad idea to just help the summons by running in throwing a couple hits and running a way.    
+Once the boss is sufficiently distracted sprint your way to the top of the hill and cast dragon breath (Left to select finger spell, 2 hand the finger spell (Y+LB/L1) then to use press and hold RB/R1). It should hopefully take and he'll start smoking. Run away and resummon people on the top of the hill when they die. At half health he'll fly up and come crashing down again. Sprint to the side to dodge him as he comes back down. You need to re rot with dragon breath until he dies. If you are struggling the golden halberd at +9/+10 can take him on too and make the damage happen much quicker. Optionally equip the golden scarab and use a pickled fowl foot when he dies for 100k runes. As the summons die you can resummon them and keep running around the arena dodging Radahn's attacks, it's not easy, but you can get the summons to do all the work without rot or you helping. At +6 it's not a bad idea to just help the summons by running in throwing a couple hits and running a way.    
 
 After killing Radahn at the table of lost grace you can buy his gear from the two fingers. It's expensive, but is slightly less weight than the tree sentinel armor and is only a little weaker making it a good alternative if you want for a lot of builds. 
 
@@ -589,6 +591,7 @@ If you haven't noticed each time you kill a main boss they also drop a item that
 ![](images/giant_turtle.jpg)
 
 ## Mimic Summon
+The mimic summon takes a good 45 min to get and get to +10, but it helps out quite a bit with the run and is likely worth the journey. 
 
 Killing Radahan summoned a giant Meteor tha destroyed part of the map. The game places a marker left on the map left of Fort Haight West so we can go get the mimic tear. Head there and make your way down to Nokron. Keep heading forward and drop off ledges until you make your way to a grace.
 
@@ -650,7 +653,7 @@ In the red area up ahead you can stick around and fight a tough boss, but I reco
 
 ## Godfrey and Margott
 
-Now with our mimic we can finally head back to the capital city and not get wrecked. From the avenue balcony grace, head up the giant dragons wing, through the building and eventually to the west capital rampart.
+Now with our mimic we can finally head back to the capital city. From the avenue balcony grace, head up the giant dragons wing, through the building and eventually to the west capital rampart.
 
 Travel back to the west capital rampart, run by the gargoyle and up the tree root to Godfrey. Summon your spirit and the boss should be pretty easy. Equip the golden scarab for extra runes.
 
@@ -674,9 +677,11 @@ You can do the alexander questline, but it's not very helpful here as it stops y
 
 Head to the altus plateu grace and head north a long ways through the mountain, through a valley, eventually getting to seethewater terminus, which has a lava lake that alexander is chilling in. The summon for Alexander is inside the fog wall for the fire giant fight. Summoning him is not very helpful as you lose access to your horse during the battle. 
 
-The mimic can be very stupid, remove poison mist.
+The mimic can be very stupid, make sure to remove poison mist. The imps at +10 might be better on this fight.
 
-You can also go easily get a 7/8/9/10 grave glovewort if you want from the giant conquering heros grave right before fire giant without fighting any mini bosses and get your imps to +10. 
+You can also go easily get a 7/8/9/10 grave glovewort without fighting anything. From the Giants Gravepost grace by the forge area map piece head west to the Giant Conquering Heros Grave. Head down, take out the fake wall to the right. Jump down to the left and head across to the hallway, use a bow to turn off the flame imps. Run forward and take the lift down. Activate the lever to see a ghost troll, run up and jump down. Grab the +10 grave glovewort behind the red hammer guy. Take the south exit down to a room with two ghost cat enemies. The +9 grave glovewort is behind the lift in this room. The +8 grave glovewort is on the west side of the room. There's a ladder up on the west side to a grave +7 and another grave +8 taking you back to the troll room. 
+
+Back to fire giant.
 
 Buff before the fog door. Summon the mimic with your seal and dragon breath out so your mimic tries to use it on fire giant. 
 
@@ -700,7 +705,7 @@ Craft and equip the sleep pot (recipe is from graves near the third church of ma
 
 Another item you can pickup is the raw meat dumplings. They don't get consumed when used by the mimic and allow the mimic to heal an unlimited amount. It's random, so whether he uses them is a different story. 
 
-From here make your way west, grab the dragon crest sheild talisman +2 along the way. Run South to the dragon and grab the +10 somber behind the dragon, dodge all the birds along the way. Head up the hill and across the bridge and up the elevator to the grace (beside the greatbridge).
+From here make your way west, grab the dragon crest sheild talisman +2 along the way. Run South to the dragon and grab the +10 somber behind the dragon, there's a golden seed here too, dodge all the birds along the way. Head up the hill and across the bridge and up the elevator to the grace (beside the greatbridge).
 
 ### Tree Sentinel 3.0
 
@@ -733,22 +738,20 @@ From here on out the Golden Halberd starts to struggle as bosses have Holy Damag
 
 Optionally you can go grab the Dragon Halberd. It doesn't help for the upcoming bosses, but might help if you decide to go on a dragon killing spree. The Dragon Halberd is an award for defeating Dragonkin Soldier in the underground world Sofria River Well back when we first went underground. This is a relatively hard early game boss, but in late game he is easy just attack his feet.
 
-Optionally you can go grab the Nightrider Flail from weeping peninsula's nightrider. You can cheese him by just attacking once then running up the hill to the church. This weapon is a smithing stone weapon, but is a decent alternative to the Lordsworn Greatsword at the start of the game if you ever do another playthrough as it has surprisingly long range on horse. You can use quite a few ashes of war including cragblade and lions claw.  
-
 ### Maliketh
-Maliketh has a 80% damage negation to holy and 35% to physical causing the Golden Halberd to really start to struggle here, but he is doable with our +10 and mimic.
+Maliketh has a 80% damage negation to holy and 35% to physical causing the Golden Halberd to really start to struggle here, but he is doable with our +10 weapon and +10 mimic.
 
 There is no gold npc summon to help for this fight.
 
 Before the boss room buff flame grant me strength and golden vow, then unequip the seal and two hand the golden halberd. Unequiping the seal makes your mimic fight more instead of sitting there. Head in, summon mimic immediately then run to the pillar to the left and heal. This is a good place to hide from Maliketh's attacks and get his focus on your mimic. This should put Maliketh between you and the summon, try and keep it that way. As he fights your mimic, jump and r2 then run away. In Phase 2 immediately run to the back left behind the pillar. Time when to attack and use R2s and jump R2s as he fights your mimic. The pillar is your friend. This is a relatively tough boss fight. The blasphemous claw can help in phase 2 if you choose to venture off and finish the long [Rykard questline](https://www.youtube.com/watch?v=v0JWm3o59qs) and fight bernhal to get it. Maliketh is also weak to rot breath in phase 1. 
 
-If you are struggling consider grinding levels to 130-150 or going back and getting the Nightrider Glaive. If you respec to a match the weapon and pair with the Ice Spear Ash of War (the other nights calvary in eastern liurnia) you will add a ranged attack that works really well while procing frost and stagger. Around level 90 I did: 31 vigor, 14 mind, 30 endurance, 26 strength, 12 dex, 39 int, 8 faith, 11 arcane. I ditched poison and flame grant me strength so I could get more int. Extra levels should go to int until 45 then health. Equip carian crest (iji), green turtle, and shard of alexander. Use radahns set for armor with medium roll. Then just spam L2. 
+If you are struggling consider grinding levels to 130-150 or going back and getting the Nightrider Glaive. If you respec to a match the weapon and pair with the Ice Spear Ash of War (the other nights calvary in eastern liurnia) you will add a ranged attack that works really well while procing frost and stagger. Around level 90 I did: 31 vigor, 14 mind, 30 endurance, 26 strength, 12 dex, 39 int, 8 faith, 11 arcane. I ditched poison and flame grant me strength so I could get more int. Extra levels should go to int until 45 then health. Equip carian crest (iji), green turtle, radagons soreseal/jar arsenal and shard of alexander. Use radahns set if you want an armor with medium roll. Then just spam L2. 
 
 ### Gideon
-After Maliketh you land in the ash covered capital city. Just run forward and to the right a bit to take the elevator up to Gideon. Buff Flame grant me strength and golden vow, summon mimic, charged R2's and quick R1's to kill. Very easy fight as long as you do the damage quick enough. Ice Spear works well here too so no need to respec back. When he's finished head up the tree and keep going forward to Godfrey. There is no gold npc summon to help for this fight.
+After Maliketh you land in the ash covered capital city. Just run forward and to the right a bit to take the elevator up to Gideon. Buff Flame grant me strength and golden vow, summon mimic, charged R2's and quick R1's to kill. Very easy fight as long as you do the damage quick enough. Ice Spear works well here too so no need to respec back and don't bother summoning help. When he's finished head up the tree and keep going forward to Godfrey. There is no gold npc summon to help for this fight.
 
 ### Godfrey
-Buff flame grant me strength and golden vow, unequip the seal then go in. Summon mimic and heal. Wait for Godfrey to attack your mimic. Then go in for a jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic and punish. I think this fight is way easier than Maliketh as the attacks are very easy to dodge and the mimic does really good damage with only a 40% holy damage negation. You may have to watch some videos and learn how to dodge his attacks. Don't just spam dodge roll and wait till it's actually needed. On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible. Ice spear worked well at level 100: 33 vig, 45 int so again no need to respec back. There are also two gold NPC summons you can get to help on this fight, but they are pretty far out of the way. Nepheli (you must go back to the start of the game and finish her questline as it had to have been done before maliketh) and Shabriri (requires beating easier Mohg in the capital city basement and taking some long drops down to the way basement). 
+Buff flame grant me strength and golden vow, unequip the seal then go in. Summon mimic and heal. Wait for Godfrey to attack your mimic. Then go in for a jump R2. Keep your distance and try and get behind him, hope he goes aggressive on the mimic and punish. I think this fight is way easier than Maliketh as the attacks are very easy to dodge and the mimic does really good damage with only a 40% holy damage negation. You may have to watch some videos and learn how to dodge his attacks. Don't just spam dodge roll and wait till it's actually needed. On phase 2 run away from him and then charged r2 when he stops for a free hit. Same strategy as before, but keep an eye out for an opportunity to stagger him and get a riposte with a single r1 if possible. Ice spear worked well at level 100: 33 vig, 45 int so again no need to respec back. There are also two gold NPC summons you can get to help on this fight, but they are pretty far out of the way and aren't worth the journey. Nepheli (you must go back to the start of the game and finish her questline as it had to have been done before maliketh) and Shabriri (requires beating easier Mohg in the capital city basement and taking some long drops down to the way basement). 
 
 Final boss time.
 
@@ -768,12 +771,12 @@ The golden halberd tree sentinel build is at a huge disadvantage as Holy damage 
 
 You can give it a shot, but ultimately this is where the build falls apart and you would have a much easier time if you just pivot and I strongly suggest you do so especially if you plan to do optional bosses or DLC.
 
-If you went and grabbed the Ice Spear you can get pretty far at current levels, frost procs and staggers radagon, but does little on elden beast. Feel free to give it a shot, but to make things a bit easier I recommend just respecing to a Black Flame Tornado build. 
+If you went and grabbed the Ice Spear you can get pretty far at current levels, frost procs and staggers radagon, but does little on elden beast. Feel free to give it a shot if you have the mimic summon. If you just have imps I would make things a little bit easier by respecing to a Black Flame Tornado build. For the fight equip the Lance Talisman, Haligdrake+2, green turtle/radagons soreseal, and shard of alexander. Before the door buff golden vow, use the physick with opaline and stonebarbed, then head inside. Summon mimic/imps then dodge to the side and heal magic/health. When Radagon bullies your summon spam L2. Dodge into his moves if he attacks you. When his health gets low try to golden vow, heal magic and health, then kill so you go into phase 2 ready to go. Run behind elden beast then spam L2. When he does the gold flame hop on the horse and finish the rest of the battle from there. Chase after him when he moves away and stay close and right behind him. Slowly chip away at his health with R1s. Jump his sword swings. When he goes up in the air with the golden rings, if you are facing him, he spawns directly behind you so run that way. You can do this fight without too much trouble with no further grinding. 
 
-If you are still struggling I would consider leveling and getting some new gear. 
+If you are struggling I would consider leveling and getting some new gear. 
 
 ## Leveling 
-You can do most builds around level 120 if you get the right gear, but I would really strive to get to Level 150. It's not hard and you can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace.
+You can do most builds around level 120 if you get the right gear, but as a first timer I would really strive to get to Level 150. It's not hard and you can get 80k/runes/minute by going to Mohgwyn palace and shooting a bird with a bow from the palace edge grace.
 
 ## New Gear
 The next thing I would strongly consider doing is getting a new weapon and respecing away from the Golden Halberd build. There's a few decent options, let's go over them. 
@@ -875,7 +878,7 @@ Reduvia from the fight before Patches. Stalling at the start of the fight gives 
 You start with the Esotec which is one of the best thrusting weapons, put sacred blade on this and it's not bad even for end game it just requires normal smithing stones. Pick up the bear crest shield by the saintsbridge. Put stamina and charged cracked in the flask. Get green turtle. Get imps to +5 then head to iji in Liurnia. Underneath iji is a mini boss who drops Frozen Needle which levels with somber. He can be beat by blocking with your shield and circling around. The heal spell also can take out half his health in one cast. Take Frozen Needle to +6 and use it with Radagons Soreseal. Pickup the meteorite staff with rock sling and get int to 18. For Radahn you will likely need to use the pulley crossbow and rot bolts as we are low arcane and Frozen Needle isn't very strong and is probably a C tier weapon and why I only recommend you got to +6 with it. You can use it for the rest of the game if you stack it with: howl of shabriri, erd tree seal, and golden vow. I don't recommend this as you will have to learn many boss move sets. After you beat Radahn we can get Wing of Astel (S tier and a much better choice) which you should use for the rest of the game and take to +10. Shard of alexander, haligdrake, dragoncrest, ritual sword.
 
 ### Hero
-I would kill Nepheli at stormwind castle to get two Stormhawk axes. They level with somber and are one of the best axes in the entire game and are available super early if you don't mind the guilt trip killing gideons daughter. The L2 charged is very strong and helps with the range a bit, but prevents you from moving out of the a way a lot against bosses. You can also pick the stormhawk axes up off the ground once you get to Leyndell and can do the Icerind hatchet instead outside Raya Lucaria. I would only upgrade and use one axe with a 100% blocking shield. Keep in mind axes have terrible range and are quite a bit underpowered even when upgraded, this is not a good weapon class imho and was way too severely nerfed. 
+I would grab the Icerind hatchet instead outside Raya Lucaria and take that to 10, then farm for the Warped Axe. I would only upgrade and use one axe with a 100% blocking shield (don't dual axe). Keep in mind axes have terrible range and are quite a bit underpowered even when upgraded, this is not a good weapon class and was way too severely nerfed. 
 
 Another option is to take the Lordsworn Greatsword with Golden Vow to kill Misbegotten to the far south and get the Grafted Blade (requires 40 strength, 27 if two handed, strength physick helps too), upgrade it to +6, from here you can use sleep pots to kill the Godskin in Volcano Manor and make your way to the Serpent Hunter. Axe talisman, Haligdrake +2, dragoncrest, and green turtle. You'll have to learn how to really use serpent hunter when fighting the end game bosses. The other speedrunner strategy of using iron balls isn't a bad option either. 
 
@@ -894,8 +897,10 @@ Take a random class and pick up a random weapon and go with it to +10/+25. Rando
 - Mohg Spear. Requires beating Mohg.
 - Bloodfiends Arm. Requires beating Mohg to get to the DLC.
 
-### Best Combo IMO
-Golden Halberd until after Morgott. Then switch to Nightriders Glaive. To be honest I wouldn't be surprised if either of these builds got a nerf soon. 
+Weapon class wise the greatsword weapons are by far the strongest and best options in the game.  
+
+### TLDR
+Hero Class. Use Rotten Stray Summon and Lordsworn Greatsword to kill the first Tree Sentinel. Poison Mist the Tree Sentinel in Altus and in Farum. Use the Golden Halberd until Maliketh then switch to Nightrider Glaive with Ice Spear.
 
 `~Fin~`
 
