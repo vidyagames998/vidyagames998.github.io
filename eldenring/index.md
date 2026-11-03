@@ -900,7 +900,7 @@ Take a random class and pick up a random weapon and go with it to +10/+25. Rando
 Weapon class wise the greatsword weapons are by far the strongest and best options in the game.  
 
 ### TLDR
-Hero Class. Use Rotten Stray Summon and Lordsworn Greatsword to kill the first Tree Sentinel. Poison Mist the Tree Sentinel in Altus and in Farum. Use the Golden Halberd until Maliketh then switch to Nightrider Glaive with Ice Spear. Dragon breath Radahn and Fire Giant. 
+Hero Class. Use Rotten Stray Summon and Lordsworn Greatsword to kill the first Tree Sentinel. Poison Mist the Tree Sentinel in Altus and in Farum. Use the Golden Halberd until Maliketh then switch to Nightrider Glaive with Ice Spear. Dragon breath Radahn and Fire Giant. Sleep pot Godskins.
 
 `~Fin~`
 
