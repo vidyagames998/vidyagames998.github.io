@@ -349,30 +349,42 @@ The main areas I would explore in order are:
 
 Here are some maps I made with paths I usually take, follow the lines in the color of the rainbow. Red Orange Yellow Green Blue Indigo Violet. 
 
+limgrave
 ![](images/limgrave.jpeg)
 
+weeping
 ![](images/weeping.jpeg)
 
+siofra
 ![](images/siofra1.jpeg)
 
+caelid
 ![](images/caelid.jpeg)
 
+liurnia
 ![](images/liurnia.jpeg)
 
+altus
 ![](images/altus.jpeg)
 
 Later game
 
+mohgwyn
 ![](images/mohgwyn.jpeg)
 
+siofra2
 ![](images/siofra2.jpeg)
 
+ainsel
 ![](images/ainsel.jpeg)
 
+leyndell
 ![](images/leyndell.jpeg)
 
+mountaintops
 ![](images/mountaintops.jpeg)
 
+farum
 ![](images/farum.jpeg)
 
 At any point if you get bored and just want to progress the story line, head back to "The First Step" grace and we can take on the tree sentinel. This guide will walk through as if you haven't explored anywhere.
