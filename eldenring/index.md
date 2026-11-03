@@ -353,11 +353,21 @@ Here are some maps I made with paths I usually take, follow the lines in the col
 
 ![](images/weeping.jpeg)
 
+![](images/siofra1.jpeg)
+
 ![](images/caelid.jpeg)
 
 ![](images/liurnia.jpeg)
 
 ![](images/altus.jpeg)
+
+Later game
+
+![](images/mohgwyn.jpeg)
+
+![](images/siofra2.jpeg)
+
+![](images/ainsel.jpeg)
 
 ![](images/leyndell.jpeg)
 
