@@ -30,20 +30,25 @@ While an unusual choice, people really sleep on this summon as there are many to
 
 # Controls and Mechanics
 
-- A(Cross) is jump
-- B(Circle) is run
-- Y(Triangle) is activate things
-- X(Square) is use the item in your bottom left item slot. You can change these with the dpad up/down. You can equip different things into the slot.
-- L1(LB) is block / left attack
-- R1(RB) is quick attack
-- R2(RT) is slow charged attack
-- L2(LT) is a slow special move for your weapon, if one exists
-- Y+R1(RB) tells the game to two hand a weapon, useful if you are under leveled for the weapon
-- Holding Y(Triangle) and then pressing a dpad direction are other shortcuts you can program
-- Jumping and then midair pressing B(Circle) is a good way to activate run mode without starting to sprint or rolling, useful climbing weird places or near edges.
-- Start opens the menu to equip armor
-- Back opens the map to fast travel
-- Clicking in on the right stick locks onto an enemy
+| Xbox | PlayStation | Action / Description |
+|---|---|---|
+| A | Cross (✕) | Jump |
+| B | Circle (○) | Dodge roll / Backstep / Sprint (hold) |
+| Y | Triangle (△) | Interact / Activate objects |
+| X | Square (□) | Use equipped item from the bottom-left quick item slot |
+| D-Pad Down | D-Pad Down | Cycle through equipped quick items |
+| D-Pad Up | D-Pad Up | Cycle through equipped spells |
+| LB | L1 | Block / Left-hand attack |
+| RB | R1 | Quick attack |
+| RT | R2 | Heavy attack / Charged attack (hold) |
+| LT | L2 | Weapon skill / Ash of War |
+| Y + RB | Triangle + R1 | Two-hand right-hand weapon (increases effective Strength by 50%) |
+| Y + LB | Triangle + L1 | Two-hand left-hand weapon |
+| Hold Y + D-Pad | Hold Triangle + D-Pad | Use programmable pouch shortcuts |
+| Jump + B (midair) | Jump + Circle (midair) | Activate sprint without rolling, useful near edges or climbing |
+| Menu (Start) | Options | Open equipment, inventory, and character menus |
+| View (Back) | Touchpad | Open map / Fast travel |
+| Right Stick Click (RS) | R3 | Lock onto / Unlock from enemy |
 
 Often you will see random messages on the floor. They are meant as good faith messages from other players to give a multiplayer element to this solo campaign. They are moderated by FromSoft and only certain words can be used. You can turn these off. Sometimes they are useful and try to warn of long paths that don't have prizes. Most times they are just childish phrases like "no head ahead" or the classic "try finger but whole". Sometimes they are placed over items you are trying to pick up and an enemy will kill you as you try to grab or activate the item, this gets annoying quick.
 
