@@ -367,7 +367,7 @@ liurnia
 altus
 ![](images/altus.jpeg)
 
-Later game
+## Later game
 
 mohgwyn
 ![](images/mohgwyn.jpeg)
