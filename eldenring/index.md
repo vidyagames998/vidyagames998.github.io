@@ -428,7 +428,7 @@ Damages:
 - lordsworn blood affinity, 141 r2 and 95 r1 (69 bleed, but it takes a while to build)
 - lance standard affinity, radagons soreseal (+15% damage taken), cragblade 165 r2 and 132 r1 (longer reach)
 
-My personal pick would be lordsworn holy affinity with sacred blade buffing golden vow (on a dagger) and sacred blade before battle. Having holy affinity helps on other enemies that don't have strong immunity and Sacred Blade is way less of a walk to get than Cragblade. 
+My personal pick would be lordsworn holy affinity with sacred blade buffing golden vow (on a dagger) and sacred blade before battle. Having holy affinity helps on other enemies that don't have strong immunity and Sacred Blade is way less of a walk to get than Cragblade. If you are willing to make the trek all the way up north to Altus using both halves of the medallion before this fight you could get Lightning Slash as well which works like sacred blade, but uses lightning instead of holy damage which does not get negated. 
 
 If you want to burn your 12 normal smithing stones and 2k runes upgrading the sword to level 3 it can help too. The lordsworn standard, sacred build at level 1 215 r2 and 161 r1 becomes 242 r2 186 r1 at level 3.
 
